@@ -12,7 +12,7 @@ st.markdown("Power 4 Penalties — Updated Automatically")
 # -------------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("rankings_2025_fbs.csv")
+    return pd.read_csv("rankings_2025_FBS.csv")
 
 df = load_data()
 
