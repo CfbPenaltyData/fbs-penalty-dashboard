@@ -1,26 +1,30 @@
-import pandas as pd
 import streamlit as st
+import pandas as pd
 
+st.set_page_config(
+    page_title="2025 Power 4 Penalty Dashboard",
+    layout="wide"
+)
+
+st.title("🏈 2025 Power 4 Penalty Analytics Dashboard")
+
+st.markdown("""
+Welcome to the interactive dashboard.  
+Use the **left sidebar** to navigate:
+
+- **Offensive Penalties**
+- **Defensive Penalties**
+- **Conference Comparisons**
+- **Team Totals**
+
+All pages update automatically when the dataset changes.
+""")
+
+# Load the main dataset once here (optional)
 @st.cache_data
 def load_data():
-    return pd.read_csv("rankings_2025_FBS.csv")
+    return pd.read_excel("penalties_2025_FBS_with_rankings.xlsx")
 
 df = load_data()
 
-st.title("2025 Power 4 Penalty Dashboard")
-
-# Use the correct column name
-team_col = "school"
-
-# Generate list of teams
-teams = sorted(df[team_col].unique())
-
-# Sidebar – Select Team
-selected_team = st.sidebar.selectbox("Select a Team", teams)
-
-# Filter data for selected team
-team_data = df[df[team_col] == selected_team]
-
-# Display team summary
-st.subheader(f"{selected_team} Summary")
-st.write(team_data)
+st.dataframe(df.head(), use_container_width=True)
