@@ -1,0 +1,87 @@
+import requests
+import pandas as pd
+from tqdm import tqdm
+
+# === USER SETTINGS ===
+API_KEY = "TDr5Mjoy3TIyYaVryD0Cps2nuxluiK8b7RrCbC5tlqMWTPNbAN6Rl6C4QeAH8PI2"   # <-- replace this with your real key
+YEAR = 2025
+WEEK = 1
+OUTPUT_FILE = f"penalties_{YEAR}_week{WEEK}.csv"
+
+# === SETUP ===
+headers = {"Authorization": f"Bearer {API_KEY}"}
+url = f"https://api.collegefootballdata.com/plays?year={YEAR}&week={WEEK}"
+
+print(f"Fetching {YEAR} Week {WEEK} play-by-play data from CollegeFootballData...")
+r = requests.get(url, headers=headers)
+
+if r.status_code != 200:
+    raise SystemExit(f"❌ API error {r.status_code}: {r.text}")
+
+plays = r.json()
+print(f"✅ Retrieved {len(plays)} total plays")
+
+# Convert to DataFrame safely
+df = pd.DataFrame(plays)
+if "play_text" not in df.columns:
+    raise SystemExit("❌ No 'play_text' field found — API structure may have changed.")
+
+# === PENALTY DETECTION BASED ON TEXT ===
+def has_penalty(text):
+    """Return True if the play text contains a penalty keyword."""
+    if not isinstance(text, str):
+        return False
+    text = text.lower()
+    penalty_keywords = [
+        "penalty", "holding", "false start", "offside", "pass interference",
+        "targeting", "personal foul", "unsportsmanlike", "delay of game",
+        "illegal formation", "illegal motion"
+    ]
+    return any(keyword in text for keyword in penalty_keywords)
+
+df["has_penalty"] = df["play_text"].apply(has_penalty)
+penalty_df = df[df["has_penalty"] == True].copy()
+
+if penalty_df.empty:
+    raise SystemExit("No penalty plays detected for this week — maybe games haven’t occurred yet.")
+
+# === CLASSIFY PENALTY TYPES ===
+def classify_penalty(text):
+    text = text.lower()
+    if "holding" in text:
+        return "Holding"
+    if "false start" in text:
+        return "False Start"
+    if "pass interference" in text:
+        return "Pass Interference"
+    if "offside" in text or "offsides" in text:
+        return "Offside"
+    if "targeting" in text:
+        return "Targeting"
+    if "personal foul" in text:
+        return "Personal Foul"
+    if "unsportsmanlike" in text:
+        return "Unsportsmanlike Conduct"
+    if "delay of game" in text:
+        return "Delay of Game"
+    if "illegal formation" in text:
+        return "Illegal Formation"
+    if "illegal motion" in text:
+        return "Illegal Motion"
+    return "Other / Unclassified"
+
+penalty_df["penalty_type"] = penalty_df["play_text"].apply(classify_penalty)
+
+# === HANDLE TEAM NAMES SAFELY ===
+if "offense" not in penalty_df.columns:
+    penalty_df["offense"] = "Unknown"
+
+summary = (
+    penalty_df.groupby(["offense", "penalty_type"])
+    .size()
+    .reset_index(name="count")
+    .sort_values(["offense", "count"], ascending=[True, False])
+)
+
+# === SAVE OUTPUT ===
+summary.to_csv(OUTPUT_FILE, index=False

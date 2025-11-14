@@ -1,0 +1,1161 @@
+offense,defense,penalty_type,total_penalties,total_yards,average_yards_per_penalty
+Abilene Christian,Tulsa,Offside,2,10.0,5.0
+Abilene Christian,Tulsa,False Start,1,5.0,5.0
+Abilene Christian,Tulsa,Pass Interference,1,15.0,15.0
+Air Force,Bucknell,Holding,2,0.0,0.0
+Air Force,Bucknell,Illegal Formation,1,6.0,6.0
+Air Force,Bucknell,Offside,1,5.0,5.0
+Akron,Wyoming,Other / Unclassified,3,5.0,1.67
+Akron,Wyoming,Delay of Game,2,5.0,2.5
+Akron,Wyoming,Holding,1,0.0,0.0
+Alabama,Florida State,False Start,2,10.0,5.0
+Alabama,Florida State,Holding,2,20.0,10.0
+Alabama,Florida State,Delay of Game,1,5.0,5.0
+Alabama,Florida State,Offside,1,0.0,0.0
+Alabama,Florida State,Pass Interference,1,15.0,15.0
+Alabama A&M,Arkansas,False Start,5,25.0,5.0
+Alabama A&M,Arkansas,Offside,2,40.0,20.0
+Alabama State,UAB,Offside,3,11.0,3.67
+Alabama State,UAB,Other / Unclassified,2,14.0,7.0
+Alabama State,UAB,False Start,1,5.0,5.0
+Alabama State,UAB,Holding,1,16.0,16.0
+Alabama State,UAB,Pass Interference,1,15.0,15.0
+Alabama State,UAB,Personal Foul,1,63.0,63.0
+Alcorn State,Northwestern State,Holding,6,62.0,10.33
+Alcorn State,Northwestern State,False Start,4,20.0,5.0
+Alcorn State,Northwestern State,Offside,3,15.0,5.0
+Alcorn State,Northwestern State,Other / Unclassified,3,9.0,3.0
+Alcorn State,Northwestern State,Personal Foul,3,22.0,7.33
+Alcorn State,Northwestern State,Delay of Game,1,5.0,5.0
+Alcorn State,Northwestern State,Unsportsmanlike Conduct,1,5.0,5.0
+Allen,Morehead State,Pass Interference,3,41.0,13.67
+Allen,Morehead State,Other / Unclassified,2,0.0,0.0
+Allen,Morehead State,Personal Foul,1,0.0,0.0
+Allen,Morehead State,Roughing the Passer,1,50.0,50.0
+App State,Charlotte,Holding,3,0.0,0.0
+App State,Charlotte,Delay of Game,1,0.0,0.0
+App State,Charlotte,Pass Interference,1,0.0,0.0
+Arizona,Hawai'i,Holding,4,16.0,4.0
+Arizona,Hawai'i,Face Mask,2,30.0,15.0
+Arizona,Hawai'i,Offside,2,6.0,3.0
+Arizona,Hawai'i,Other / Unclassified,2,5.0,2.5
+Arizona,Hawai'i,False Start,1,5.0,5.0
+Arizona State,Northern Arizona,Holding,4,22.0,5.5
+Arizona State,Northern Arizona,Delay of Game,3,15.0,5.0
+Arizona State,Northern Arizona,False Start,2,10.0,5.0
+Arizona State,Northern Arizona,Other / Unclassified,1,64.0,64.0
+Arizona State,Northern Arizona,Pass Interference,1,15.0,15.0
+Arkansas,Alabama A&M,False Start,2,10.0,5.0
+Arkansas,Alabama A&M,Holding,2,33.0,16.5
+Arkansas,Alabama A&M,Pass Interference,1,7.0,7.0
+Arkansas State,Southeast Missouri State,Holding,4,0.0,0.0
+Arkansas State,Southeast Missouri State,False Start,3,0.0,0.0
+Arkansas State,Southeast Missouri State,Pass Interference,3,0.0,0.0
+Arkansas State,Southeast Missouri State,Other / Unclassified,1,0.0,0.0
+Arkansas State,Southeast Missouri State,Personal Foul,1,0.0,0.0
+Arkansas-Pine Bluff,Texas Tech,Holding,3,24.0,8.0
+Arkansas-Pine Bluff,Texas Tech,Delay of Game,2,10.0,5.0
+Arkansas-Pine Bluff,Texas Tech,Offside,2,10.0,5.0
+Arkansas-Pine Bluff,Texas Tech,Personal Foul,1,0.0,0.0
+Army,Tarleton State,Other / Unclassified,2,13.0,6.5
+Army,Tarleton State,Pass Interference,2,23.0,11.5
+Army,Tarleton State,False Start,1,5.0,5.0
+Army,Tarleton State,Holding,1,10.0,10.0
+Auburn,Baylor,False Start,2,10.0,5.0
+Auburn,Baylor,Holding,2,0.0,0.0
+Auburn,Baylor,Illegal Formation,1,39.0,39.0
+Austin Peay,Middle Tennessee,Delay of Game,2,10.0,5.0
+Austin Peay,Middle Tennessee,Holding,2,19.0,9.5
+Austin Peay,Middle Tennessee,Other / Unclassified,1,15.0,15.0
+Austin Peay,Middle Tennessee,Pass Interference,1,15.0,15.0
+BYU,Portland State,Delay of Game,1,5.0,5.0
+BYU,Portland State,Holding,1,4.0,4.0
+BYU,Portland State,Personal Foul,1,4.0,4.0
+Ball State,Purdue,False Start,1,3.0,3.0
+Ball State,Purdue,Holding,1,0.0,0.0
+Ball State,Purdue,Other / Unclassified,1,5.0,5.0
+Ball State,Purdue,Personal Foul,1,1.0,1.0
+Baylor,Auburn,Holding,7,61.0,8.71
+Baylor,Auburn,Pass Interference,2,23.0,11.5
+Baylor,Auburn,False Start,1,5.0,5.0
+Bethune-Cookman,Florida International,Holding,2,33.0,16.5
+Bethune-Cookman,Florida International,Delay of Game,1,5.0,5.0
+Bethune-Cookman,Florida International,False Start,1,5.0,5.0
+Bethune-Cookman,Florida International,Pass Interference,1,0.0,0.0
+Boise State,South Florida,False Start,3,15.0,5.0
+Boise State,South Florida,Delay of Game,2,6.0,3.0
+Boise State,South Florida,Offside,1,5.0,5.0
+Boise State,South Florida,Pass Interference,1,10.0,10.0
+Boise State,South Florida,Roughing,1,11.0,11.0
+Boston College,Fordham,Other / Unclassified,1,0.0,0.0
+Bowling Green,Lafayette,Delay of Game,1,5.0,5.0
+Bowling Green,Lafayette,Offside,1,5.0,5.0
+Bowling Green,Lafayette,Unsportsmanlike Conduct,1,0.0,0.0
+Bryant,New Mexico State,Holding,3,10.0,3.33
+Bryant,New Mexico State,False Start,1,5.0,5.0
+Bryant,New Mexico State,Other / Unclassified,1,10.0,10.0
+Bryant,New Mexico State,Personal Foul,1,15.0,15.0
+Bucknell,Air Force,False Start,2,5.0,2.5
+Bucknell,Air Force,Pass Interference,2,20.0,10.0
+Bucknell,Air Force,Personal Foul,2,0.0,0.0
+Bucknell,Air Force,Other / Unclassified,1,0.0,0.0
+Buffalo,Minnesota,Delay of Game,1,5.0,5.0
+Buffalo,Minnesota,Offside,1,5.0,5.0
+Buffalo,Minnesota,Other / Unclassified,1,0.0,0.0
+Butler,Northern Iowa,False Start,1,5.0,5.0
+Butler,Northern Iowa,Personal Foul,1,0.0,0.0
+Cal Poly,San Diego,Other / Unclassified,3,15.0,5.0
+Cal Poly,San Diego,Pass Interference,2,0.0,0.0
+Cal Poly,San Diego,False Start,1,5.0,5.0
+Cal Poly,San Diego,Holding,1,3.0,3.0
+Cal Poly,San Diego,Illegal Formation,1,2.0,2.0
+Cal Poly,San Diego,Offside,1,0.0,0.0
+Cal Poly,San Diego,Unsportsmanlike Conduct,1,0.0,0.0
+California,Oregon State,Other / Unclassified,2,5.0,2.5
+California,Oregon State,False Start,1,50.0,50.0
+California,Oregon State,Holding,1,10.0,10.0
+California,Oregon State,Offside,1,0.0,0.0
+California,Oregon State,Pass Interference,1,0.0,0.0
+Campbell,Rhode Island,Offside,4,7.0,1.75
+Campbell,Rhode Island,False Start,2,10.0,5.0
+Campbell,Rhode Island,Holding,1,3.0,3.0
+Campbell,Rhode Island,Other / Unclassified,1,7.0,7.0
+Campbell,Rhode Island,Personal Foul,1,0.0,0.0
+Campbell,Rhode Island,Unsportsmanlike Conduct,1,0.0,0.0
+Central Arkansas,Missouri,Pass Interference,3,26.0,8.67
+Central Arkansas,Missouri,Holding,1,10.0,10.0
+Central Arkansas,Missouri,Other / Unclassified,1,10.0,10.0
+Central Connecticut,UConn,False Start,4,20.0,5.0
+Central Connecticut,UConn,Pass Interference,3,35.0,11.67
+Central Connecticut,UConn,Holding,1,0.0,0.0
+Central Connecticut,UConn,Other / Unclassified,1,5.0,5.0
+Central Michigan,San José State,Other / Unclassified,4,25.0,6.25
+Central Michigan,San José State,False Start,2,10.0,5.0
+Chadron St,Northern Colorado,Pass Interference,2,15.0,7.5
+Charleston Southern,Vanderbilt,Other / Unclassified,2,6.0,3.0
+Charleston Southern,Vanderbilt,Holding,1,4.0,4.0
+Charleston Southern,Vanderbilt,Pass Interference,1,15.0,15.0
+Charlotte,App State,False Start,3,0.0,0.0
+Charlotte,App State,Holding,3,0.0,0.0
+Charlotte,App State,Personal Foul,3,0.0,0.0
+Charlotte,App State,Pass Interference,1,0.0,0.0
+Charlotte,App State,Roughing,1,0.0,0.0
+Chattanooga,Memphis,False Start,1,5.0,5.0
+Chattanooga,Memphis,Offside,1,0.0,0.0
+Chattanooga,Memphis,Pass Interference,1,15.0,15.0
+Cincinnati,Nebraska,False Start,4,20.0,5.0
+Cincinnati,Nebraska,Holding,1,10.0,10.0
+Clemson,LSU,False Start,2,5.0,2.5
+Clemson,LSU,Holding,2,20.0,10.0
+Coastal Carolina,Virginia,Holding,3,28.0,9.33
+Coastal Carolina,Virginia,False Start,2,10.0,5.0
+Coastal Carolina,Virginia,Other / Unclassified,2,47.0,23.5
+Coastal Carolina,Virginia,Illegal Formation,1,42.0,42.0
+Coastal Carolina,Virginia,Personal Foul,1,15.0,15.0
+Colgate,Monmouth,Pass Interference,2,0.0,0.0
+Colgate,Monmouth,False Start,1,0.0,0.0
+Colgate,Monmouth,Holding,1,0.0,0.0
+Colgate,Monmouth,Other / Unclassified,1,0.0,0.0
+Colgate,Monmouth,Roughing,1,0.0,0.0
+Colorado,Georgia Tech,Delay of Game,1,5.0,5.0
+Colorado,Georgia Tech,Face Mask,1,15.0,15.0
+Colorado,Georgia Tech,False Start,1,5.0,5.0
+Colorado,Georgia Tech,Holding,1,0.0,0.0
+Colorado,Georgia Tech,Personal Foul,1,0.0,0.0
+Colorado State,Washington,False Start,2,10.0,5.0
+Colorado State,Washington,Face Mask,1,2.0,2.0
+Colorado State,Washington,Illegal Formation,1,7.0,7.0
+Colorado State,Washington,Pass Interference,1,12.0,12.0
+Cumberland (TN),Tennessee Tech,Other / Unclassified,2,27.0,13.5
+Cumberland (TN),Tennessee Tech,Roughing the Kicker,2,78.0,39.0
+Cumberland (TN),Tennessee Tech,Delay of Game,1,5.0,5.0
+Cumberland (TN),Tennessee Tech,Holding,1,10.0,10.0
+Cumberland (TN),Tennessee Tech,Pass Interference,1,0.0,0.0
+Cumberland (TN),Tennessee Tech,Targeting,1,15.0,15.0
+Davidson,Georgetown,Holding,3,0.0,0.0
+Davidson,Georgetown,Delay of Game,1,0.0,0.0
+Davidson,Georgetown,False Start,1,0.0,0.0
+Davidson,Georgetown,Pass Interference,1,0.0,0.0
+Davidson,Georgetown,Roughing,1,50.0,50.0
+Dayton,Eastern Illinois,False Start,1,0.0,0.0
+Dayton,Eastern Illinois,Holding,1,0.0,0.0
+Dayton,Eastern Illinois,Roughing,1,0.0,0.0
+Delaware,Delaware State,Holding,2,37.0,18.5
+Delaware,Delaware State,False Start,1,5.0,5.0
+Delaware,Delaware State,Illegal Formation,1,7.0,7.0
+Delaware,Delaware State,Offside,1,5.0,5.0
+Delaware,Delaware State,Other / Unclassified,1,7.0,7.0
+Delaware State,Delaware,Unsportsmanlike Conduct,4,17.0,4.25
+Delaware State,Delaware,Delay of Game,3,15.0,5.0
+Delaware State,Delaware,False Start,2,10.0,5.0
+Delaware State,Delaware,Holding,2,10.0,5.0
+Delaware State,Delaware,Illegal Formation,2,0.0,0.0
+Delaware State,Delaware,Other / Unclassified,1,10.0,10.0
+Delaware State,Delaware,Pass Interference,1,0.0,0.0
+Delaware State,Delaware,Personal Foul,1,50.0,50.0
+Drake,Upper Iowa University,Delay of Game,1,5.0,5.0
+Drake,Upper Iowa University,False Start,1,5.0,5.0
+Drake,Upper Iowa University,Personal Foul,1,0.0,0.0
+Drake,Upper Iowa University,Roughing the Passer,1,15.0,15.0
+Duke,Elon,False Start,2,10.0,5.0
+Duke,Elon,Offside,1,4.0,4.0
+Duquesne,Pittsburgh,Delay of Game,3,15.0,5.0
+Duquesne,Pittsburgh,Holding,3,16.0,5.33
+Duquesne,Pittsburgh,False Start,2,10.0,5.0
+Duquesne,Pittsburgh,Other / Unclassified,2,5.0,2.5
+Duquesne,Pittsburgh,Offside,1,0.0,0.0
+East Carolina,NC State,Holding,4,21.0,5.25
+East Carolina,NC State,False Start,3,15.0,5.0
+East Carolina,NC State,Other / Unclassified,2,5.0,2.5
+East Carolina,NC State,Roughing the Passer,1,50.0,50.0
+East Tennessee State,Murray State,Delay of Game,1,5.0,5.0
+East Tennessee State,Murray State,Holding,1,10.0,10.0
+East Tennessee State,Murray State,Other / Unclassified,1,7.0,7.0
+East Texas A&M,SMU,False Start,5,25.0,5.0
+East Texas A&M,SMU,Delay of Game,2,10.0,5.0
+East Texas A&M,SMU,Holding,2,0.0,0.0
+East Texas A&M,SMU,Offside,1,5.0,5.0
+East Texas A&M,SMU,Roughing the Passer,1,0.0,0.0
+Eastern Illinois,Dayton,Holding,2,0.0,0.0
+Eastern Illinois,Dayton,Other / Unclassified,2,0.0,0.0
+Eastern Illinois,Dayton,False Start,1,4.0,4.0
+Eastern Illinois,Dayton,Roughing,1,0.0,0.0
+Eastern Kentucky,Louisville,False Start,4,20.0,5.0
+Eastern Kentucky,Louisville,Pass Interference,2,8.0,4.0
+Eastern Kentucky,Louisville,Delay of Game,1,3.0,3.0
+Eastern Kentucky,Louisville,Holding,1,0.0,0.0
+Eastern Kentucky,Louisville,Offside,1,5.0,5.0
+Eastern Michigan,Texas State,Holding,4,33.0,8.25
+Eastern Michigan,Texas State,Offside,2,10.0,5.0
+Eastern Michigan,Texas State,Delay of Game,1,5.0,5.0
+Eastern Michigan,Texas State,False Start,1,5.0,5.0
+Eastern Michigan,Texas State,Illegal Formation,1,0.0,0.0
+Eastern Michigan,Texas State,Pass Interference,1,7.0,7.0
+Eastern Washington,Incarnate Word,Other / Unclassified,1,0.0,0.0
+Eastern Washington,Incarnate Word,Pass Interference,1,0.0,0.0
+Eastern Washington,Incarnate Word,Unsportsmanlike Conduct,1,0.0,0.0
+Elon,Duke,Delay of Game,2,10.0,5.0
+Elon,Duke,False Start,2,7.0,3.5
+Elon,Duke,Holding,2,8.0,4.0
+Elon,Duke,Offside,1,5.0,5.0
+Elon,Duke,Personal Foul,1,1.0,1.0
+Florida,Long Island University,Delay of Game,1,5.0,5.0
+Florida,Long Island University,Face Mask,1,15.0,15.0
+Florida,Long Island University,Offside,1,5.0,5.0
+Florida,Long Island University,Other / Unclassified,1,0.0,0.0
+Florida,Long Island University,Pass Interference,1,15.0,15.0
+Florida,Long Island University,Personal Foul,1,0.0,0.0
+Florida A&M,Howard,Delay of Game,2,10.0,5.0
+Florida A&M,Howard,Other / Unclassified,2,25.0,12.5
+Florida A&M,Howard,Holding,1,6.0,6.0
+Florida A&M,Howard,Offside,1,5.0,5.0
+Florida A&M,Howard,Personal Foul,1,1.0,1.0
+Florida Atlantic,Maryland,Offside,4,6.0,1.5
+Florida Atlantic,Maryland,False Start,2,10.0,5.0
+Florida Atlantic,Maryland,Delay of Game,1,5.0,5.0
+Florida Atlantic,Maryland,Face Mask,1,15.0,15.0
+Florida Atlantic,Maryland,Holding,1,3.0,3.0
+Florida Atlantic,Maryland,Other / Unclassified,1,5.0,5.0
+Florida Atlantic,Maryland,Roughing the Passer,1,0.0,0.0
+Florida International,Bethune-Cookman,False Start,2,10.0,5.0
+Florida International,Bethune-Cookman,Other / Unclassified,2,23.0,11.5
+Florida International,Bethune-Cookman,Delay of Game,1,5.0,5.0
+Florida International,Bethune-Cookman,Face Mask,1,15.0,15.0
+Florida International,Bethune-Cookman,Offside,1,5.0,5.0
+Florida International,Bethune-Cookman,Personal Foul,1,0.0,0.0
+Florida International,Bethune-Cookman,Unsportsmanlike Conduct,1,0.0,0.0
+Florida State,Alabama,Holding,2,20.0,10.0
+Florida State,Alabama,Personal Foul,2,30.0,15.0
+Florida State,Alabama,False Start,1,5.0,5.0
+Fordham,Boston College,Holding,2,0.0,0.0
+Fordham,Boston College,Delay of Game,1,0.0,0.0
+Fordham,Boston College,Roughing,1,0.0,0.0
+Fresno State,Kansas,Other / Unclassified,2,5.0,2.5
+Fresno State,Georgia Southern,Holding,1,0.0,0.0
+Fresno State,Georgia Southern,Personal Foul,1,15.0,15.0
+Fresno State,Georgia Southern,Unsportsmanlike Conduct,1,0.0,0.0
+Fresno State,Kansas,False Start,1,0.0,0.0
+Fresno State,Kansas,Holding,1,10.0,10.0
+Furman,William & Mary,False Start,3,15.0,5.0
+Furman,William & Mary,Illegal Formation,1,5.0,5.0
+Furman,William & Mary,Pass Interference,1,9.0,9.0
+Furman,William & Mary,Roughing the Passer,1,0.0,0.0
+Gardner-Webb,Western Carolina,False Start,3,0.0,0.0
+Gardner-Webb,Western Carolina,Personal Foul,3,50.0,16.67
+Gardner-Webb,Western Carolina,Other / Unclassified,2,2.0,1.0
+Gardner-Webb,Western Carolina,Holding,1,3.0,3.0
+Gardner-Webb,Western Carolina,Roughing,1,0.0,0.0
+Georgetown,Davidson,Face Mask,1,15.0,15.0
+Georgetown,Davidson,False Start,1,0.0,0.0
+Georgetown,Davidson,Holding,1,0.0,0.0
+Georgetown,Davidson,Other / Unclassified,1,0.0,0.0
+Georgia,Marshall,Delay of Game,1,5.0,5.0
+Georgia,Marshall,Holding,1,10.0,10.0
+Georgia Southern,Fresno State,Holding,3,36.0,12.0
+Georgia Southern,Fresno State,Personal Foul,1,8.0,8.0
+Georgia State,Ole Miss,Delay of Game,2,8.0,4.0
+Georgia State,Ole Miss,False Start,1,5.0,5.0
+Georgia State,Ole Miss,Other / Unclassified,1,0.0,0.0
+Georgia State,Ole Miss,Pass Interference,1,6.0,6.0
+Georgia Tech,Colorado,False Start,3,15.0,5.0
+Georgia Tech,Colorado,Holding,3,14.0,4.67
+Georgia Tech,Colorado,Other / Unclassified,1,5.0,5.0
+Georgia Tech,Colorado,Pass Interference,1,15.0,15.0
+Grambling,Langston University,Other / Unclassified,2,0.0,0.0
+Grambling,Langston University,Delay of Game,1,0.0,0.0
+Grambling,Langston University,Holding,1,10.0,10.0
+Grambling,Langston University,Pass Interference,1,0.0,0.0
+Hampton,Jackson State,Other / Unclassified,4,0.0,0.0
+Hampton,Jackson State,Roughing,1,0.0,0.0
+Hawai'i,Arizona,Pass Interference,2,13.0,6.5
+Hawai'i,Stanford,Face Mask,2,30.0,15.0
+Hawai'i,Stanford,Holding,2,0.0,0.0
+Hawai'i,Stanford,Other / Unclassified,2,0.0,0.0
+Hawai'i,Arizona,Delay of Game,1,5.0,5.0
+Hawai'i,Arizona,False Start,1,5.0,5.0
+Hawai'i,Arizona,Holding,1,10.0,10.0
+Hawai'i,Arizona,Other / Unclassified,1,0.0,0.0
+Hawai'i,Stanford,False Start,1,0.0,0.0
+Hawai'i,Stanford,Personal Foul,1,0.0,0.0
+Hawai'i,Stanford,Unsportsmanlike Conduct,1,12.0,12.0
+Holy Cross,Northern Illinois,Other / Unclassified,2,8.0,4.0
+Holy Cross,Northern Illinois,Pass Interference,1,15.0,15.0
+Houston,Stephen F. Austin,False Start,2,0.0,0.0
+Houston,Stephen F. Austin,Pass Interference,2,0.0,0.0
+Houston,Stephen F. Austin,Delay of Game,1,5.0,5.0
+Houston,Stephen F. Austin,Holding,1,0.0,0.0
+Houston,Stephen F. Austin,Other / Unclassified,1,0.0,0.0
+Houston,Stephen F. Austin,Personal Foul,1,0.0,0.0
+Houston Christian,Little Rock,Holding,3,60.0,20.0
+Houston Christian,Little Rock,Other / Unclassified,3,0.0,0.0
+Houston Christian,Little Rock,False Start,2,5.0,2.5
+Houston Christian,Little Rock,Roughing,1,0.0,0.0
+Houston Christian,Little Rock,Unsportsmanlike Conduct,1,0.0,0.0
+Howard,Florida A&M,False Start,2,10.0,5.0
+Howard,Florida A&M,Delay of Game,1,5.0,5.0
+Idaho,Washington State,Holding,2,10.0,5.0
+Idaho,Washington State,Face Mask,1,3.0,3.0
+Idaho,Washington State,Personal Foul,1,0.0,0.0
+Idaho,Washington State,Unsportsmanlike Conduct,1,0.0,0.0
+Idaho State,UNLV,Holding,5,50.0,10.0
+Idaho State,UNLV,Pass Interference,3,0.0,0.0
+Idaho State,Southern Utah,Pass Interference,2,19.0,9.5
+Idaho State,UNLV,False Start,2,0.0,0.0
+Idaho State,UNLV,Unsportsmanlike Conduct,2,0.0,0.0
+Idaho State,Southern Utah,Holding,1,0.0,0.0
+Idaho State,Southern Utah,Offside,1,5.0,5.0
+Idaho State,Southern Utah,Other / Unclassified,1,0.0,0.0
+Idaho State,UNLV,Delay of Game,1,0.0,0.0
+Idaho State,UNLV,Other / Unclassified,1,11.0,11.0
+Illinois,Western Illinois,Pass Interference,2,30.0,15.0
+Illinois,Western Illinois,False Start,1,5.0,5.0
+Illinois,Western Illinois,Holding,1,8.0,8.0
+Illinois,Western Illinois,Offside,1,5.0,5.0
+Illinois,Western Illinois,Personal Foul,1,15.0,15.0
+Illinois State,Oklahoma,Delay of Game,1,5.0,5.0
+Illinois State,Oklahoma,False Start,1,5.0,5.0
+Illinois State,Oklahoma,Holding,1,4.0,4.0
+Incarnate Word,Nicholls,False Start,3,0.0,0.0
+Incarnate Word,Nicholls,Holding,3,0.0,0.0
+Incarnate Word,Eastern Washington,Other / Unclassified,2,5.0,2.5
+Incarnate Word,Eastern Washington,Delay of Game,1,0.0,0.0
+Incarnate Word,Eastern Washington,False Start,1,50.0,50.0
+Incarnate Word,Eastern Washington,Pass Interference,1,0.0,0.0
+Incarnate Word,Eastern Washington,Unsportsmanlike Conduct,1,0.0,0.0
+Incarnate Word,Nicholls,Delay of Game,1,0.0,0.0
+Indiana,Old Dominion,False Start,1,5.0,5.0
+Indiana,Old Dominion,Holding,1,0.0,0.0
+Indiana,Old Dominion,Offside,1,5.0,5.0
+Indiana,Old Dominion,Other / Unclassified,1,0.0,0.0
+Indiana,Old Dominion,Pass Interference,1,15.0,15.0
+Indiana State,McKendree,Other / Unclassified,3,17.0,5.67
+Indiana State,McKendree,Offside,2,8.0,4.0
+Indiana State,McKendree,Delay of Game,1,5.0,5.0
+Indiana State,McKendree,Illegal Formation,1,7.0,7.0
+Iowa,UAlbany,Offside,2,0.0,0.0
+Iowa,UAlbany,Other / Unclassified,1,4.0,4.0
+Iowa State,South Dakota,Pass Interference,2,30.0,15.0
+Iowa State,Kansas State,Pass Interference,1,13.0,13.0
+Iowa State,South Dakota,Face Mask,1,6.0,6.0
+Iowa State,South Dakota,False Start,1,5.0,5.0
+Jackson State,Hampton,Other / Unclassified,4,3.0,0.75
+Jackson State,Hampton,Holding,2,0.0,0.0
+Jackson State,Hampton,Offside,1,5.0,5.0
+Jackson State,Hampton,Roughing,1,15.0,15.0
+Jacksonville State,UCF,False Start,3,15.0,5.0
+Jacksonville State,UCF,Offside,3,22.0,7.33
+Jacksonville State,UCF,Delay of Game,1,5.0,5.0
+Jacksonville State,UCF,Holding,1,5.0,5.0
+Jacksonville State,UCF,Targeting,1,15.0,15.0
+Jacksonville State,UCF,Unsportsmanlike Conduct,1,0.0,0.0
+James Madison,Weber State,Pass Interference,2,8.0,4.0
+James Madison,Weber State,Personal Foul,1,8.0,8.0
+Kansas,Fresno State,Holding,6,41.0,6.83
+Kansas,Wagner,Other / Unclassified,3,23.0,7.67
+Kansas,Fresno State,Pass Interference,2,0.0,0.0
+Kansas,Wagner,Holding,2,0.0,0.0
+Kansas,Fresno State,Face Mask,1,15.0,15.0
+Kansas,Fresno State,False Start,1,5.0,5.0
+Kansas,Wagner,False Start,1,5.0,5.0
+Kansas,Wagner,Illegal Formation,1,1.0,1.0
+Kansas,Wagner,Offside,1,5.0,5.0
+Kansas,Wagner,Pass Interference,1,15.0,15.0
+Kansas State,Iowa State,Holding,3,63.0,21.0
+Kansas State,Iowa State,Delay of Game,1,0.0,0.0
+Kansas State,Iowa State,False Start,1,0.0,0.0
+Kansas State,Iowa State,Other / Unclassified,1,12.0,12.0
+Kansas State,North Dakota,Pass Interference,1,15.0,15.0
+Kennesaw State,Wake Forest,False Start,3,15.0,5.0
+Kennesaw State,Wake Forest,Other / Unclassified,3,35.0,11.67
+Kennesaw State,Wake Forest,Holding,1,50.0,50.0
+Kent State,Merrimack,Other / Unclassified,3,40.0,13.33
+Kent State,Merrimack,Delay of Game,2,10.0,5.0
+Kent State,Merrimack,Unsportsmanlike Conduct,2,30.0,15.0
+Kent State,Merrimack,False Start,1,5.0,5.0
+Kent State,Merrimack,Illegal Formation,1,2.0,2.0
+Kentucky,Toledo,Pass Interference,3,38.0,12.67
+Kentucky,Toledo,Holding,1,10.0,10.0
+Kentucky,Toledo,Offside,1,7.0,7.0
+LSU,Clemson,Pass Interference,3,32.0,10.67
+LSU,Clemson,False Start,2,5.0,2.5
+LSU,Clemson,Holding,1,2.0,2.0
+LSU,Clemson,Illegal Formation,1,16.0,16.0
+LSU,Clemson,Roughing,1,0.0,0.0
+Lafayette,Bowling Green,Other / Unclassified,4,22.0,5.5
+Lamar,North Texas,Delay of Game,6,30.0,5.0
+Lamar,North Texas,Holding,2,18.0,9.0
+Lamar,North Texas,False Start,1,5.0,5.0
+Lamar,North Texas,Offside,1,7.0,7.0
+Lamar,North Texas,Other / Unclassified,1,0.0,0.0
+Langston University,Grambling,Other / Unclassified,3,0.0,0.0
+Langston University,Grambling,False Start,2,0.0,0.0
+Langston University,Grambling,Holding,1,0.0,0.0
+Langston University,Grambling,Unsportsmanlike Conduct,1,0.0,0.0
+Lehigh,Richmond,Pass Interference,4,49.0,12.25
+Lehigh,Richmond,Other / Unclassified,1,5.0,5.0
+Liberty,Maine,False Start,1,5.0,5.0
+Liberty,Maine,Pass Interference,1,15.0,15.0
+Liberty,Maine,Personal Foul,1,0.0,0.0
+Liberty,Maine,Unsportsmanlike Conduct,1,0.0,0.0
+Lindenwood,St. Thomas (MN),Pass Interference,2,0.0,0.0
+Lindenwood,St. Thomas (MN),Delay of Game,1,0.0,0.0
+Lindenwood,St. Thomas (MN),False Start,1,0.0,0.0
+Lindenwood,St. Thomas (MN),Other / Unclassified,1,0.0,0.0
+Little Rock,Houston Christian,Delay of Game,3,0.0,0.0
+Little Rock,Houston Christian,False Start,2,0.0,0.0
+Little Rock,Houston Christian,Holding,2,0.0,0.0
+Little Rock,Houston Christian,Other / Unclassified,2,0.0,0.0
+Little Rock,Houston Christian,Illegal Formation,1,0.0,0.0
+Long Island University,Florida,Delay of Game,2,10.0,5.0
+Long Island University,Florida,False Start,2,10.0,5.0
+Long Island University,Florida,Offside,1,65.0,65.0
+Louisiana,Rice,Pass Interference,3,45.0,15.0
+Louisiana,Rice,Holding,2,21.0,10.5
+Louisiana,Rice,Other / Unclassified,2,15.0,7.5
+Louisiana,Rice,Offside,1,5.0,5.0
+Louisiana College,McNeese,Holding,3,13.0,4.33
+Louisiana College,McNeese,False Start,1,5.0,5.0
+Louisiana College,McNeese,Other / Unclassified,1,13.0,13.0
+Louisiana Tech,SE Louisiana,Other / Unclassified,2,15.0,7.5
+Louisiana Tech,SE Louisiana,False Start,1,5.0,5.0
+Louisiana Tech,SE Louisiana,Personal Foul,1,1.0,1.0
+Louisville,Eastern Kentucky,Holding,3,58.0,19.33
+Louisville,Eastern Kentucky,Other / Unclassified,2,7.0,3.5
+Louisville,Eastern Kentucky,Pass Interference,2,11.0,5.5
+Louisville,Eastern Kentucky,Personal Foul,1,0.0,0.0
+Louisville,Eastern Kentucky,Unsportsmanlike Conduct,1,0.0,0.0
+Maine,Liberty,Holding,2,0.0,0.0
+Maine,Liberty,Delay of Game,1,5.0,5.0
+Maine,Liberty,Offside,1,5.0,5.0
+Maine,Liberty,Personal Foul,1,0.0,0.0
+Marist,New Haven,Pass Interference,3,30.0,10.0
+Marist,New Haven,Roughing the Passer,3,22.0,7.33
+Marist,New Haven,Delay of Game,2,10.0,5.0
+Marist,New Haven,Holding,2,10.0,5.0
+Marist,New Haven,False Start,1,4.0,4.0
+Marist,New Haven,Offside,1,0.0,0.0
+Marist,New Haven,Other / Unclassified,1,0.0,0.0
+Marist,New Haven,Personal Foul,1,14.0,14.0
+Marshall,Georgia,Illegal Formation,3,15.0,5.0
+Marshall,Georgia,Delay of Game,1,5.0,5.0
+Marshall,Georgia,Holding,1,10.0,10.0
+Maryland,Florida Atlantic,False Start,4,20.0,5.0
+Maryland,Florida Atlantic,Pass Interference,2,22.0,11.0
+Maryland,Florida Atlantic,Delay of Game,1,5.0,5.0
+Maryland,Florida Atlantic,Face Mask,1,15.0,15.0
+Maryland,Florida Atlantic,Holding,1,7.0,7.0
+Maryland,Florida Atlantic,Illegal Formation,1,0.0,0.0
+Maryland,Florida Atlantic,Unsportsmanlike Conduct,1,15.0,15.0
+Massachusetts,Temple,False Start,2,10.0,5.0
+Massachusetts,Temple,Holding,2,17.0,8.5
+Massachusetts,Temple,Other / Unclassified,2,0.0,0.0
+Massachusetts,Temple,Pass Interference,1,15.0,15.0
+Massachusetts,Temple,Personal Foul,1,0.0,0.0
+McKendree,Indiana State,Pass Interference,3,30.0,10.0
+McKendree,Indiana State,Delay of Game,1,5.0,5.0
+McKendree,Indiana State,False Start,1,5.0,5.0
+McNeese,Louisiana College,Other / Unclassified,2,26.0,13.0
+McNeese,Louisiana College,Unsportsmanlike Conduct,2,15.0,7.5
+McNeese,Louisiana College,Face Mask,1,15.0,15.0
+McNeese,Louisiana College,False Start,1,5.0,5.0
+McNeese,Louisiana College,Holding,1,50.0,50.0
+McNeese,Louisiana College,Offside,1,8.0,8.0
+Memphis,Chattanooga,Holding,2,10.0,5.0
+Memphis,Chattanooga,Offside,1,5.0,5.0
+Memphis,Chattanooga,Personal Foul,1,0.0,0.0
+Mercer,Presbyterian,Offside,3,10.0,3.33
+Mercer,Presbyterian,False Start,1,5.0,5.0
+Mercer,Presbyterian,Holding,1,10.0,10.0
+Mercyhurst,Youngstown State,Delay of Game,1,5.0,5.0
+Mercyhurst,Youngstown State,Pass Interference,1,15.0,15.0
+Mercyhurst,Youngstown State,Targeting,1,8.0,8.0
+Mercyhurst,Youngstown State,Unsportsmanlike Conduct,1,0.0,0.0
+Merrimack,Kent State,False Start,2,10.0,5.0
+Merrimack,Kent State,Holding,2,10.0,5.0
+Merrimack,Kent State,Other / Unclassified,2,10.0,5.0
+Merrimack,Kent State,Face Mask,1,15.0,15.0
+Merrimack,Kent State,Illegal Formation,1,47.0,47.0
+Merrimack,Kent State,Unsportsmanlike Conduct,1,15.0,15.0
+Miami,Notre Dame,Holding,2,0.0,0.0
+Miami,Notre Dame,Delay of Game,1,5.0,5.0
+Miami,Notre Dame,Pass Interference,1,0.0,0.0
+Miami (OH),Wisconsin,Holding,2,23.0,11.5
+Miami (OH),Wisconsin,Pass Interference,2,30.0,15.0
+Miami (OH),Wisconsin,Illegal Formation,1,0.0,0.0
+Michigan,New Mexico,False Start,1,5.0,5.0
+Michigan,New Mexico,Holding,1,12.0,12.0
+Michigan,New Mexico,Illegal Formation,1,0.0,0.0
+Michigan State,Western Michigan,False Start,3,10.0,3.33
+Michigan State,Western Michigan,Holding,1,0.0,0.0
+Michigan State,Western Michigan,Other / Unclassified,1,0.0,0.0
+Michigan State,Western Michigan,Pass Interference,1,0.0,0.0
+Middle Tennessee,Austin Peay,Other / Unclassified,2,27.0,13.5
+Middle Tennessee,Austin Peay,False Start,1,5.0,5.0
+Middle Tennessee,Austin Peay,Offside,1,1.0,1.0
+Middle Tennessee,Austin Peay,Pass Interference,1,15.0,15.0
+Middle Tennessee,Austin Peay,Roughing the Passer,1,15.0,15.0
+Minnesota,Buffalo,Delay of Game,1,5.0,5.0
+Minnesota,Buffalo,Pass Interference,1,15.0,15.0
+Minnesota,Buffalo,Personal Foul,1,15.0,15.0
+Mississippi State,Southern Miss,Holding,6,6.0,1.0
+Mississippi State,Southern Miss,Illegal Formation,3,30.0,10.0
+Mississippi State,Southern Miss,False Start,2,10.0,5.0
+Mississippi State,Southern Miss,Personal Foul,2,8.0,4.0
+Mississippi State,Southern Miss,Delay of Game,1,5.0,5.0
+Mississippi State,Southern Miss,Offside,1,5.0,5.0
+Mississippi State,Southern Miss,Other / Unclassified,1,5.0,5.0
+Mississippi State,Southern Miss,Pass Interference,1,0.0,0.0
+Mississippi Valley State,Southern,False Start,6,30.0,5.0
+Mississippi Valley State,Southern,Personal Foul,2,15.0,7.5
+Mississippi Valley State,Southern,Delay of Game,1,5.0,5.0
+Mississippi Valley State,Southern,Other / Unclassified,1,0.0,0.0
+Mississippi Valley State,Southern,Pass Interference,1,0.0,0.0
+Missouri,Central Arkansas,False Start,2,10.0,5.0
+Missouri,Central Arkansas,Holding,2,12.0,6.0
+Missouri,Central Arkansas,Other / Unclassified,2,12.0,6.0
+Missouri,Central Arkansas,Personal Foul,1,15.0,15.0
+Missouri State,USC,Other / Unclassified,4,33.0,8.25
+Missouri State,USC,False Start,1,5.0,5.0
+Monmouth,Colgate,Other / Unclassified,1,0.0,0.0
+Monmouth,Colgate,Pass Interference,1,0.0,0.0
+Montana State,Oregon,False Start,3,15.0,5.0
+Montana State,Oregon,Illegal Formation,2,53.0,26.5
+Montana State,Oregon,Delay of Game,1,5.0,5.0
+Montana State,Oregon,Offside,1,5.0,5.0
+Montana State,Oregon,Pass Interference,1,14.0,14.0
+Morehead State,Allen,False Start,2,10.0,5.0
+Morehead State,Allen,Other / Unclassified,1,14.0,14.0
+Morgan State,South Alabama,Holding,4,9.0,2.25
+Morgan State,South Alabama,False Start,3,15.0,5.0
+Morgan State,South Alabama,Other / Unclassified,3,5.0,1.67
+Morgan State,South Alabama,Delay of Game,1,5.0,5.0
+Morgan State,South Alabama,Pass Interference,1,11.0,11.0
+Morgan State,South Alabama,Roughing the Passer,1,0.0,0.0
+Murray State,East Tennessee State,Pass Interference,3,38.0,12.67
+Murray State,East Tennessee State,Delay of Game,2,10.0,5.0
+Murray State,East Tennessee State,False Start,2,10.0,5.0
+Murray State,East Tennessee State,Holding,1,1.0,1.0
+NC State,East Carolina,False Start,3,13.0,4.33
+NC State,East Carolina,Holding,3,65.0,21.67
+NC State,East Carolina,Pass Interference,1,11.0,11.0
+NC State,East Carolina,Personal Foul,1,15.0,15.0
+NC State,East Carolina,Roughing the Passer,1,15.0,15.0
+Navy,VMI,Delay of Game,2,10.0,5.0
+Navy,VMI,Holding,1,6.0,6.0
+Navy,VMI,Offside,1,0.0,0.0
+Navy,VMI,Other / Unclassified,1,15.0,15.0
+Nebraska,Cincinnati,Delay of Game,1,0.0,0.0
+Nebraska,Cincinnati,False Start,1,4.0,4.0
+Nebraska,Cincinnati,Personal Foul,1,13.0,13.0
+Nevada,Penn State,False Start,2,9.0,4.5
+Nevada,Penn State,Pass Interference,2,15.0,7.5
+Nevada,Penn State,Holding,1,0.0,0.0
+Nevada,Penn State,Offside,1,5.0,5.0
+New Hampshire,North Carolina Central,Holding,4,0.0,0.0
+New Hampshire,North Carolina Central,False Start,3,0.0,0.0
+New Hampshire,North Carolina Central,Other / Unclassified,2,55.0,27.5
+New Hampshire,North Carolina Central,Delay of Game,1,0.0,0.0
+New Hampshire,North Carolina Central,Pass Interference,1,0.0,0.0
+New Hampshire,North Carolina Central,Roughing,1,0.0,0.0
+New Hampshire,North Carolina Central,Unsportsmanlike Conduct,1,0.0,0.0
+New Haven,Marist,Pass Interference,2,30.0,15.0
+New Haven,Marist,Delay of Game,1,5.0,5.0
+New Mexico,Michigan,Pass Interference,3,25.0,8.33
+New Mexico,Michigan,Offside,2,10.0,5.0
+New Mexico,Michigan,False Start,1,5.0,5.0
+New Mexico,Michigan,Targeting,1,12.0,12.0
+New Mexico State,Bryant,Holding,4,20.0,5.0
+New Mexico State,Bryant,False Start,2,10.0,5.0
+New Mexico State,Bryant,Offside,2,10.0,5.0
+New Mexico State,Bryant,Other / Unclassified,2,20.0,10.0
+New Mexico State,Bryant,Personal Foul,1,0.0,0.0
+Nicholls,Troy,False Start,4,20.0,5.0
+Nicholls,Incarnate Word,Other / Unclassified,3,0.0,0.0
+Nicholls,Incarnate Word,False Start,2,10.0,5.0
+Nicholls,Troy,Face Mask,2,30.0,15.0
+Nicholls,Troy,Pass Interference,2,30.0,15.0
+Nicholls,Incarnate Word,Unsportsmanlike Conduct,1,0.0,0.0
+Nicholls,Troy,Holding,1,0.0,0.0
+Nicholls,Troy,Offside,1,5.0,5.0
+Norfolk State,Towson,Holding,3,0.0,0.0
+Norfolk State,Towson,Pass Interference,2,0.0,0.0
+Norfolk State,Towson,Delay of Game,1,5.0,5.0
+Norfolk State,Towson,False Start,1,0.0,0.0
+Norfolk State,Towson,Other / Unclassified,1,0.0,0.0
+Norfolk State,Towson,Personal Foul,1,0.0,0.0
+North Alabama,Western Kentucky,Pass Interference,4,42.0,10.5
+North Alabama,Western Kentucky,Face Mask,1,15.0,15.0
+North Alabama,Western Kentucky,Holding,1,4.0,4.0
+North Alabama,Western Kentucky,Illegal Formation,1,0.0,0.0
+North Alabama,Western Kentucky,Personal Foul,1,15.0,15.0
+North Alabama,Western Kentucky,Roughing the Passer,1,0.0,0.0
+North Carolina,TCU,Delay of Game,1,5.0,5.0
+North Carolina,TCU,False Start,1,0.0,0.0
+North Carolina A&T,Tennessee State,False Start,5,0.0,0.0
+North Carolina A&T,Tennessee State,Other / Unclassified,2,0.0,0.0
+North Carolina A&T,Tennessee State,Delay of Game,1,0.0,0.0
+North Carolina A&T,Tennessee State,Pass Interference,1,0.0,0.0
+North Carolina A&T,Tennessee State,Personal Foul,1,0.0,0.0
+North Carolina Central,Southern,False Start,2,0.0,0.0
+North Carolina Central,Southern,Other / Unclassified,2,8.0,4.0
+North Carolina Central,New Hampshire,Other / Unclassified,1,0.0,0.0
+North Carolina Central,New Hampshire,Pass Interference,1,0.0,0.0
+North Carolina Central,New Hampshire,Roughing,1,0.0,0.0
+North Carolina Central,New Hampshire,Unsportsmanlike Conduct,1,0.0,0.0
+North Carolina Central,Southern,Holding,1,1.0,1.0
+North Carolina Central,Southern,Offside,1,2.0,2.0
+North Dakota,Kansas State,False Start,3,15.0,5.0
+North Dakota,Kansas State,Face Mask,1,3.0,3.0
+North Dakota,Kansas State,Other / Unclassified,1,0.0,0.0
+North Dakota,Kansas State,Pass Interference,1,15.0,15.0
+North Dakota State,The Citadel,False Start,4,20.0,5.0
+North Dakota State,The Citadel,Delay of Game,1,5.0,5.0
+North Texas,Lamar,Other / Unclassified,2,5.0,2.5
+North Texas,Lamar,Face Mask,1,15.0,15.0
+North Texas,Lamar,False Start,1,5.0,5.0
+North Texas,Lamar,Holding,1,10.0,10.0
+North Texas,Lamar,Offside,1,0.0,0.0
+North Texas,Lamar,Pass Interference,1,15.0,15.0
+North Texas,Lamar,Personal Foul,1,0.0,0.0
+Northern Arizona,Arizona State,Other / Unclassified,2,14.0,7.0
+Northern Arizona,Arizona State,Delay of Game,1,5.0,5.0
+Northern Arizona,Arizona State,False Start,1,5.0,5.0
+Northern Arizona,Arizona State,Holding,1,10.0,10.0
+Northern Arizona,Arizona State,Personal Foul,1,8.0,8.0
+Northern Arizona,Arizona State,Roughing the Passer,1,0.0,0.0
+Northern Colorado,Chadron St,False Start,1,5.0,5.0
+Northern Colorado,Chadron St,Holding,1,2.0,2.0
+Northern Colorado,Chadron St,Pass Interference,1,15.0,15.0
+Northern Colorado,Chadron St,Personal Foul,1,15.0,15.0
+Northern Colorado,Chadron St,Roughing the Passer,1,15.0,15.0
+Northern Illinois,Holy Cross,False Start,3,15.0,5.0
+Northern Illinois,Holy Cross,Delay of Game,2,10.0,5.0
+Northern Illinois,Holy Cross,Other / Unclassified,1,5.0,5.0
+Northern Iowa,Butler,Other / Unclassified,1,9.0,9.0
+Northern Iowa,Butler,Pass Interference,1,15.0,15.0
+Northwestern,Tulane,False Start,2,5.0,2.5
+Northwestern,Tulane,Holding,2,27.0,13.5
+Northwestern,Tulane,Other / Unclassified,1,0.0,0.0
+Northwestern,Tulane,Pass Interference,1,15.0,15.0
+Northwestern State,Alcorn State,Delay of Game,1,5.0,5.0
+Northwestern State,Alcorn State,False Start,1,5.0,5.0
+Northwestern State,Alcorn State,Other / Unclassified,1,7.0,7.0
+Northwestern State,Alcorn State,Unsportsmanlike Conduct,1,2.0,2.0
+Notre Dame,Miami,Other / Unclassified,3,18.0,6.0
+Notre Dame,Miami,False Start,1,5.0,5.0
+Notre Dame,Miami,Holding,1,10.0,10.0
+Notre Dame,Miami,Pass Interference,1,11.0,11.0
+Notre Dame,Miami,Personal Foul,1,0.0,0.0
+Ohio,Rutgers,False Start,5,5.0,1.0
+Ohio,Rutgers,Face Mask,2,30.0,15.0
+Ohio,Rutgers,Delay of Game,1,5.0,5.0
+Ohio State,Texas,Holding,3,13.0,4.33
+Ohio State,Texas,Face Mask,1,15.0,15.0
+Ohio State,Texas,Illegal Formation,1,5.0,5.0
+Oklahoma,Illinois State,False Start,2,10.0,5.0
+Oklahoma,Illinois State,Holding,2,10.0,5.0
+Oklahoma,Illinois State,Illegal Formation,1,2.0,2.0
+Oklahoma,Illinois State,Offside,1,0.0,0.0
+Oklahoma,Illinois State,Pass Interference,1,0.0,0.0
+Oklahoma State,UT Martin,Holding,2,0.0,0.0
+Oklahoma State,UT Martin,False Start,1,0.0,0.0
+Oklahoma State,UT Martin,Other / Unclassified,1,0.0,0.0
+Oklahoma State,UT Martin,Pass Interference,1,0.0,0.0
+Old Dominion,Indiana,False Start,2,10.0,5.0
+Old Dominion,Indiana,Other / Unclassified,2,22.0,11.0
+Old Dominion,Indiana,Illegal Formation,1,5.0,5.0
+Old Dominion,Indiana,Personal Foul,1,15.0,15.0
+Ole Miss,Georgia State,False Start,2,8.0,4.0
+Ole Miss,Georgia State,Holding,2,20.0,10.0
+Ole Miss,Georgia State,Delay of Game,1,5.0,5.0
+Ole Miss,Georgia State,Illegal Formation,1,55.0,55.0
+Ole Miss,Georgia State,Offside,1,2.0,2.0
+Ole Miss,Georgia State,Other / Unclassified,1,15.0,15.0
+Oregon,Montana State,Holding,1,5.0,5.0
+Oregon,Montana State,Pass Interference,1,14.0,14.0
+Oregon,Montana State,Roughing the Passer,1,0.0,0.0
+Oregon State,California,Holding,2,0.0,0.0
+Oregon State,California,Delay of Game,1,5.0,5.0
+Oregon State,California,Pass Interference,1,0.0,0.0
+Oregon State,California,Roughing,1,0.0,0.0
+Penn State,Nevada,Delay of Game,1,5.0,5.0
+Penn State,Nevada,Holding,1,1.0,1.0
+Penn State,Nevada,Offside,1,5.0,5.0
+Penn State,Nevada,Other / Unclassified,1,0.0,0.0
+Pittsburgh,Duquesne,False Start,1,5.0,5.0
+Pittsburgh,Duquesne,Pass Interference,1,13.0,13.0
+Pittsburgh,Duquesne,Unsportsmanlike Conduct,1,15.0,15.0
+Portland State,BYU,Delay of Game,2,10.0,5.0
+Portland State,BYU,False Start,2,10.0,5.0
+Portland State,Tarleton State,False Start,2,10.0,5.0
+Portland State,BYU,Other / Unclassified,1,0.0,0.0
+Portland State,BYU,Targeting,1,15.0,15.0
+Portland State,Tarleton State,Other / Unclassified,1,5.0,5.0
+Portland State,Tarleton State,Pass Interference,1,15.0,15.0
+Portland State,Tarleton State,Unsportsmanlike Conduct,1,12.0,12.0
+Prairie View A&M,Texas Southern,Holding,6,2.0,0.33
+Prairie View A&M,Texas Southern,Other / Unclassified,3,5.0,1.67
+Prairie View A&M,Texas Southern,Delay of Game,2,0.0,0.0
+Prairie View A&M,Texas Southern,Pass Interference,2,8.0,4.0
+Prairie View A&M,Texas Southern,False Start,1,0.0,0.0
+Presbyterian,Mercer,Holding,4,4.0,1.0
+Presbyterian,Mercer,Delay of Game,1,5.0,5.0
+Presbyterian,Mercer,Offside,1,5.0,5.0
+Presbyterian,Mercer,Pass Interference,1,6.0,6.0
+Presbyterian,Mercer,Roughing the Passer,1,0.0,0.0
+Purdue,Ball State,False Start,1,5.0,5.0
+Purdue,Ball State,Holding,1,10.0,10.0
+Purdue,Ball State,Other / Unclassified,1,0.0,0.0
+Rhode Island,Campbell,Pass Interference,5,48.0,9.6
+Rhode Island,Campbell,Holding,2,16.0,8.0
+Rhode Island,Campbell,Delay of Game,1,5.0,5.0
+Rhode Island,Campbell,False Start,1,5.0,5.0
+Rhode Island,Campbell,Offside,1,0.0,0.0
+Rhode Island,Campbell,Other / Unclassified,1,10.0,10.0
+Rice,Louisiana,Other / Unclassified,2,15.0,7.5
+Rice,Louisiana,Face Mask,1,6.0,6.0
+Rice,Louisiana,Illegal Formation,1,0.0,0.0
+Richmond,Lehigh,False Start,1,5.0,5.0
+Richmond,Lehigh,Holding,1,10.0,10.0
+Richmond,Lehigh,Unsportsmanlike Conduct,1,15.0,15.0
+Robert Morris,West Virginia,False Start,2,10.0,5.0
+Robert Morris,West Virginia,Holding,2,10.0,5.0
+Rutgers,Ohio,False Start,2,10.0,5.0
+Rutgers,Ohio,Delay of Game,1,5.0,5.0
+Rutgers,Ohio,Holding,1,0.0,0.0
+Rutgers,Ohio,Other / Unclassified,1,0.0,0.0
+SE Louisiana,Louisiana Tech,False Start,3,10.0,3.33
+SE Louisiana,Louisiana Tech,Holding,2,15.0,7.5
+SE Louisiana,Louisiana Tech,Illegal Formation,1,5.0,5.0
+SE Louisiana,Louisiana Tech,Offside,1,0.0,0.0
+SE Louisiana,Louisiana Tech,Other / Unclassified,1,0.0,0.0
+SE Louisiana,Louisiana Tech,Roughing the Passer,1,15.0,15.0
+SMU,East Texas A&M,Holding,3,21.0,7.0
+SMU,East Texas A&M,Unsportsmanlike Conduct,2,30.0,15.0
+SMU,East Texas A&M,Offside,1,5.0,5.0
+SMU,East Texas A&M,Other / Unclassified,1,4.0,4.0
+SMU,East Texas A&M,Personal Foul,1,15.0,15.0
+Sacramento State,South Dakota State,False Start,2,10.0,5.0
+Sacramento State,South Dakota State,Delay of Game,1,5.0,5.0
+Sacramento State,South Dakota State,Holding,1,7.0,7.0
+Sacramento State,South Dakota State,Personal Foul,1,15.0,15.0
+Sacred Heart,Stonehill,Offside,2,10.0,5.0
+Sacred Heart,Stonehill,Holding,1,0.0,0.0
+Sacred Heart,Stonehill,Personal Foul,1,15.0,15.0
+Sacred Heart,Stonehill,Roughing the Passer,1,15.0,15.0
+Sam Houston,UNLV,Pass Interference,4,0.0,0.0
+Sam Houston,UNLV,Other / Unclassified,3,0.0,0.0
+Sam Houston,Western Kentucky,False Start,2,10.0,5.0
+Sam Houston,Western Kentucky,Other / Unclassified,2,5.0,2.5
+Sam Houston,UNLV,Delay of Game,1,5.0,5.0
+Sam Houston,UNLV,Holding,1,0.0,0.0
+Sam Houston,Western Kentucky,Delay of Game,1,5.0,5.0
+Sam Houston,Western Kentucky,Holding,1,12.0,12.0
+Sam Houston,Western Kentucky,Pass Interference,1,15.0,15.0
+Samford,West Georgia,False Start,2,10.0,5.0
+Samford,West Georgia,Holding,2,17.0,8.5
+Samford,West Georgia,Delay of Game,1,5.0,5.0
+Samford,West Georgia,Other / Unclassified,1,15.0,15.0
+San Diego,Cal Poly,Delay of Game,1,5.0,5.0
+San Diego,Cal Poly,Illegal Formation,1,1.0,1.0
+San Diego,Cal Poly,Offside,1,5.0,5.0
+San Diego State,Stony Brook,False Start,2,10.0,5.0
+San Diego State,Stony Brook,Holding,2,15.0,7.5
+San Diego State,Stony Brook,Other / Unclassified,2,18.0,9.0
+San Diego State,Stony Brook,Pass Interference,1,15.0,15.0
+San Diego State,Stony Brook,Unsportsmanlike Conduct,1,15.0,15.0
+San José State,Central Michigan,Other / Unclassified,2,20.0,10.0
+San José State,Central Michigan,Holding,1,5.0,5.0
+San José State,Central Michigan,Illegal Formation,1,48.0,48.0
+San José State,Central Michigan,Pass Interference,1,3.0,3.0
+South Alabama,Morgan State,Delay of Game,2,10.0,5.0
+South Alabama,Morgan State,False Start,2,10.0,5.0
+South Alabama,Morgan State,Holding,1,5.0,5.0
+South Alabama,Morgan State,Illegal Formation,1,53.0,53.0
+South Alabama,Morgan State,Offside,1,0.0,0.0
+South Alabama,Morgan State,Targeting,1,6.0,6.0
+South Carolina,Virginia Tech,False Start,2,10.0,5.0
+South Carolina,Virginia Tech,Delay of Game,1,5.0,5.0
+South Carolina,Virginia Tech,Holding,1,0.0,0.0
+South Carolina State,Wofford,False Start,2,0.0,0.0
+South Carolina State,Wofford,Other / Unclassified,2,0.0,0.0
+South Carolina State,Wofford,Holding,1,0.0,0.0
+South Carolina State,Wofford,Illegal Formation,1,5.0,5.0
+South Carolina State,Wofford,Personal Foul,1,15.0,15.0
+South Dakota,Iowa State,Holding,2,20.0,10.0
+South Dakota,Iowa State,False Start,1,5.0,5.0
+South Dakota,Iowa State,Other / Unclassified,1,9.0,9.0
+South Dakota State,Sacramento State,Offside,5,8.0,1.6
+South Dakota State,Sacramento State,Pass Interference,2,30.0,15.0
+South Dakota State,Sacramento State,Delay of Game,1,5.0,5.0
+South Dakota State,Sacramento State,False Start,1,5.0,5.0
+South Dakota State,Sacramento State,Holding,1,7.0,7.0
+South Florida,Boise State,False Start,2,10.0,5.0
+South Florida,Boise State,Holding,2,52.0,26.0
+South Florida,Boise State,Other / Unclassified,1,15.0,15.0
+South Florida,Boise State,Pass Interference,1,6.0,6.0
+South Florida,Boise State,Unsportsmanlike Conduct,1,15.0,15.0
+Southeast Missouri State,Arkansas State,False Start,1,0.0,0.0
+Southeast Missouri State,Arkansas State,Holding,1,0.0,0.0
+Southeast Missouri State,Arkansas State,Pass Interference,1,0.0,0.0
+Southeast Missouri State,Arkansas State,Personal Foul,1,0.0,0.0
+Southern,Mississippi Valley State,False Start,3,0.0,0.0
+Southern,North Carolina Central,Pass Interference,3,45.0,15.0
+Southern,Mississippi Valley State,Holding,2,0.0,0.0
+Southern,North Carolina Central,Delay of Game,1,5.0,5.0
+Southern,North Carolina Central,False Start,1,0.0,0.0
+Southern,North Carolina Central,Holding,1,17.0,17.0
+Southern Illinois,Thomas More College,False Start,1,5.0,5.0
+Southern Illinois,Thomas More College,Offside,1,5.0,5.0
+Southern Illinois,Thomas More College,Unsportsmanlike Conduct,1,15.0,15.0
+Southern Miss,Mississippi State,Holding,2,10.0,5.0
+Southern Miss,Mississippi State,Pass Interference,2,30.0,15.0
+Southern Miss,Mississippi State,Delay of Game,1,5.0,5.0
+Southern Miss,Mississippi State,False Start,1,5.0,5.0
+Southern Miss,Mississippi State,Personal Foul,1,15.0,15.0
+Southern Utah,Idaho State,Other / Unclassified,2,15.0,7.5
+Southern Utah,Idaho State,Holding,1,10.0,10.0
+Southern Utah,Idaho State,Offside,1,28.0,28.0
+Southern Utah,Idaho State,Personal Foul,1,0.0,0.0
+St. Francis (PA),UL Monroe,False Start,1,5.0,5.0
+St. Francis (PA),UL Monroe,Holding,1,28.0,28.0
+St. Francis (PA),UL Monroe,Other / Unclassified,1,5.0,5.0
+St. Thomas (MN),Lindenwood,Personal Foul,2,3.0,1.5
+St. Thomas (MN),Lindenwood,Delay of Game,1,0.0,0.0
+St. Thomas (MN),Lindenwood,Face Mask,1,15.0,15.0
+St. Thomas (MN),Lindenwood,False Start,1,0.0,0.0
+St. Thomas (MN),Lindenwood,Other / Unclassified,1,0.0,0.0
+St. Thomas (MN),Lindenwood,Pass Interference,1,0.0,0.0
+St. Thomas (MN),Lindenwood,Unsportsmanlike Conduct,1,0.0,0.0
+Stanford,Hawai'i,Delay of Game,1,0.0,0.0
+Stanford,Hawai'i,Face Mask,1,15.0,15.0
+Stanford,Hawai'i,Holding,1,0.0,0.0
+Stanford,Hawai'i,Other / Unclassified,1,13.0,13.0
+Stanford,Hawai'i,Pass Interference,1,0.0,0.0
+Stanford,Hawai'i,Personal Foul,1,0.0,0.0
+Stanford,Hawai'i,Roughing,1,0.0,0.0
+Stephen F. Austin,Houston,Holding,2,1.0,0.5
+Stephen F. Austin,Houston,Personal Foul,2,0.0,0.0
+Stephen F. Austin,Houston,Delay of Game,1,0.0,0.0
+Stephen F. Austin,Houston,Illegal Formation,1,0.0,0.0
+Stephen F. Austin,Houston,Other / Unclassified,1,0.0,0.0
+Stephen F. Austin,Houston,Pass Interference,1,0.0,0.0
+Stetson,Webber International,False Start,3,0.0,0.0
+Stetson,Webber International,Holding,1,0.0,0.0
+Stetson,Webber International,Pass Interference,1,0.0,0.0
+Stonehill,Sacred Heart,False Start,3,15.0,5.0
+Stonehill,Sacred Heart,Other / Unclassified,2,48.0,24.0
+Stonehill,Sacred Heart,Holding,1,10.0,10.0
+Stony Brook,San Diego State,False Start,2,10.0,5.0
+Stony Brook,San Diego State,Other / Unclassified,2,11.0,5.5
+Stony Brook,San Diego State,Holding,1,10.0,10.0
+Stony Brook,San Diego State,Unsportsmanlike Conduct,1,15.0,15.0
+Sul Ross State,UT Rio Grande Valley,False Start,3,0.0,0.0
+Sul Ross State,UT Rio Grande Valley,Delay of Game,1,0.0,0.0
+Sul Ross State,UT Rio Grande Valley,Illegal Formation,1,0.0,0.0
+Sul Ross State,UT Rio Grande Valley,Other / Unclassified,1,14.0,14.0
+Sul Ross State,UT Rio Grande Valley,Personal Foul,1,0.0,0.0
+Syracuse,Tennessee,Pass Interference,2,30.0,15.0
+Syracuse,Tennessee,Delay of Game,1,5.0,5.0
+Syracuse,Tennessee,Offside,1,5.0,5.0
+Syracuse,Tennessee,Other / Unclassified,1,5.0,5.0
+TCU,North Carolina,Pass Interference,3,41.0,13.67
+TCU,North Carolina,False Start,1,0.0,0.0
+TCU,North Carolina,Holding,1,21.0,21.0
+TCU,North Carolina,Unsportsmanlike Conduct,1,0.0,0.0
+Tarleton State,Army,Holding,5,57.0,11.4
+Tarleton State,Army,False Start,3,15.0,5.0
+Tarleton State,Army,Offside,1,4.0,4.0
+Tarleton State,Army,Other / Unclassified,1,0.0,0.0
+Tarleton State,Portland State,False Start,1,5.0,5.0
+Tarleton State,Portland State,Holding,1,10.0,10.0
+Tarleton State,Portland State,Offside,1,50.0,50.0
+Tarleton State,Portland State,Other / Unclassified,1,5.0,5.0
+Tarleton State,Portland State,Personal Foul,1,0.0,0.0
+Temple,Massachusetts,Other / Unclassified,3,17.0,5.67
+Temple,Massachusetts,Holding,1,12.0,12.0
+Temple,Massachusetts,Offside,1,1.0,1.0
+Tennessee,Syracuse,False Start,2,10.0,5.0
+Tennessee,Syracuse,Other / Unclassified,2,20.0,10.0
+Tennessee,Syracuse,Offside,1,5.0,5.0
+Tennessee,Syracuse,Pass Interference,1,15.0,15.0
+Tennessee State,North Carolina A&T,False Start,2,55.0,27.5
+Tennessee State,North Carolina A&T,Delay of Game,1,0.0,0.0
+Tennessee State,North Carolina A&T,Face Mask,1,15.0,15.0
+Tennessee State,North Carolina A&T,Other / Unclassified,1,0.0,0.0
+Tennessee Tech,Cumberland (TN),Other / Unclassified,2,10.0,5.0
+Tennessee Tech,Cumberland (TN),Holding,1,24.0,24.0
+Tennessee Tech,Cumberland (TN),Pass Interference,1,15.0,15.0
+Texas,Ohio State,False Start,3,15.0,5.0
+Texas,Ohio State,Holding,1,10.0,10.0
+Texas A&M,UTSA,Holding,3,10.0,3.33
+Texas A&M,UTSA,Delay of Game,1,5.0,5.0
+Texas A&M,UTSA,False Start,1,5.0,5.0
+Texas A&M,UTSA,Other / Unclassified,1,7.0,7.0
+Texas A&M,UTSA,Personal Foul,1,15.0,15.0
+Texas Southern,Prairie View A&M,Holding,4,10.0,2.5
+Texas Southern,Prairie View A&M,Pass Interference,4,15.0,3.75
+Texas Southern,Prairie View A&M,False Start,2,10.0,5.0
+Texas Southern,Prairie View A&M,Face Mask,1,15.0,15.0
+Texas Southern,Prairie View A&M,Unsportsmanlike Conduct,1,15.0,15.0
+Texas State,Eastern Michigan,Holding,2,8.0,4.0
+Texas State,Eastern Michigan,Face Mask,1,15.0,15.0
+Texas State,Eastern Michigan,False Start,1,5.0,5.0
+Texas State,Eastern Michigan,Other / Unclassified,1,7.0,7.0
+Texas Tech,Arkansas-Pine Bluff,False Start,1,5.0,5.0
+Texas Tech,Arkansas-Pine Bluff,Holding,1,30.0,30.0
+Texas Tech,Arkansas-Pine Bluff,Pass Interference,1,15.0,15.0
+Texas Tech,Arkansas-Pine Bluff,Roughing the Passer,1,12.0,12.0
+Thomas More College,Southern Illinois,Delay of Game,2,10.0,5.0
+Thomas More College,Southern Illinois,False Start,2,10.0,5.0
+Thomas More College,Southern Illinois,Offside,1,5.0,5.0
+Thomas More College,Southern Illinois,Other / Unclassified,1,0.0,0.0
+Thomas More College,Southern Illinois,Roughing the Passer,1,0.0,0.0
+Toledo,Kentucky,False Start,2,10.0,5.0
+Toledo,Kentucky,Pass Interference,1,15.0,15.0
+Toledo,Kentucky,Personal Foul,1,18.0,18.0
+Towson,Norfolk State,Holding,3,0.0,0.0
+Towson,Norfolk State,Delay of Game,1,0.0,0.0
+Towson,Norfolk State,False Start,1,0.0,0.0
+Towson,Norfolk State,Other / Unclassified,1,0.0,0.0
+Towson,Norfolk State,Unsportsmanlike Conduct,1,1.0,1.0
+Troy,Nicholls,False Start,1,5.0,5.0
+Troy,Nicholls,Personal Foul,1,6.0,6.0
+Troy,Nicholls,Roughing the Passer,1,0.0,0.0
+Tulane,Northwestern,Holding,2,0.0,0.0
+Tulane,Northwestern,Offside,1,0.0,0.0
+Tulane,Northwestern,Other / Unclassified,1,0.0,0.0
+Tulane,Northwestern,Pass Interference,1,14.0,14.0
+Tulsa,Abilene Christian,False Start,3,15.0,5.0
+Tulsa,Abilene Christian,Other / Unclassified,3,30.0,10.0
+Tulsa,Abilene Christian,Holding,1,7.0,7.0
+Tulsa,Abilene Christian,Offside,1,5.0,5.0
+Tulsa,Abilene Christian,Pass Interference,1,15.0,15.0
+UAB,Alabama State,Offside,2,5.0,2.5
+UAB,Alabama State,False Start,1,5.0,5.0
+UAB,Alabama State,Other / Unclassified,1,0.0,0.0
+UAB,Alabama State,Pass Interference,1,14.0,14.0
+UAlbany,Iowa,Illegal Formation,2,7.0,3.5
+UAlbany,Iowa,False Start,1,5.0,5.0
+UAlbany,Iowa,Pass Interference,1,15.0,15.0
+UC Davis,Utah Tech,Holding,2,50.0,25.0
+UC Davis,Utah Tech,Face Mask,1,0.0,0.0
+UC Davis,Utah Tech,Other / Unclassified,1,0.0,0.0
+UC Davis,Utah Tech,Pass Interference,1,0.0,0.0
+UC Davis,Utah Tech,Unsportsmanlike Conduct,1,0.0,0.0
+UCF,Jacksonville State,False Start,3,10.0,3.33
+UCF,Jacksonville State,Holding,2,29.0,14.5
+UCF,Jacksonville State,Targeting,2,14.0,7.0
+UCF,Jacksonville State,Other / Unclassified,1,1.0,1.0
+UCLA,Utah,False Start,1,0.0,0.0
+UCLA,Utah,Holding,1,0.0,0.0
+UConn,Central Connecticut,False Start,2,10.0,5.0
+UConn,Central Connecticut,Holding,1,0.0,0.0
+UConn,Central Connecticut,Other / Unclassified,1,0.0,0.0
+UConn,Central Connecticut,Personal Foul,1,2.0,2.0
+UL Monroe,St. Francis (PA),Holding,5,105.0,21.0
+UL Monroe,St. Francis (PA),Face Mask,2,23.0,11.5
+UL Monroe,St. Francis (PA),False Start,1,5.0,5.0
+UL Monroe,St. Francis (PA),Pass Interference,1,0.0,0.0
+UNLV,Idaho State,Holding,3,0.0,0.0
+UNLV,Sam Houston,Pass Interference,2,0.0,0.0
+UNLV,Idaho State,False Start,1,0.0,0.0
+UNLV,Idaho State,Pass Interference,1,0.0,0.0
+UNLV,Idaho State,Personal Foul,1,0.0,0.0
+UNLV,Sam Houston,Holding,1,0.0,0.0
+UNLV,Sam Houston,Illegal Formation,1,0.0,0.0
+UNLV,Sam Houston,Other / Unclassified,1,0.0,0.0
+USC,Missouri State,Other / Unclassified,2,0.0,0.0
+USC,Missouri State,Delay of Game,1,5.0,5.0
+USC,Missouri State,Holding,1,0.0,0.0
+USC,Missouri State,Illegal Formation,1,5.0,5.0
+USC,Missouri State,Offside,1,5.0,5.0
+USC,Missouri State,Pass Interference,1,15.0,15.0
+UT Martin,Oklahoma State,False Start,4,0.0,0.0
+UT Martin,Oklahoma State,Personal Foul,2,0.0,0.0
+UT Martin,Oklahoma State,Holding,1,0.0,0.0
+UT Martin,Oklahoma State,Other / Unclassified,1,1.0,1.0
+UT Rio Grande Valley,Sul Ross State,Holding,4,50.0,12.5
+UT Rio Grande Valley,Sul Ross State,Other / Unclassified,4,0.0,0.0
+UT Rio Grande Valley,Sul Ross State,Personal Foul,2,0.0,0.0
+UT Rio Grande Valley,Sul Ross State,False Start,1,0.0,0.0
+UT Rio Grande Valley,Sul Ross State,Roughing,1,50.0,50.0
+UT Rio Grande Valley,Sul Ross State,Unsportsmanlike Conduct,1,0.0,0.0
+UTEP,Utah State,Delay of Game,2,0.0,0.0
+UTEP,Utah State,Other / Unclassified,2,5.0,2.5
+UTEP,Utah State,Pass Interference,1,0.0,0.0
+UTEP,Utah State,Personal Foul,1,0.0,0.0
+UTEP,Utah State,Roughing,1,0.0,0.0
+UTSA,Texas A&M,False Start,1,5.0,5.0
+UTSA,Texas A&M,Holding,1,0.0,0.0
+Upper Iowa University,Drake,False Start,2,10.0,5.0
+Upper Iowa University,Drake,Delay of Game,1,5.0,5.0
+Upper Iowa University,Drake,Face Mask,1,8.0,8.0
+Upper Iowa University,Drake,Offside,1,0.0,0.0
+Upper Iowa University,Drake,Other / Unclassified,1,39.0,39.0
+Upper Iowa University,Drake,Pass Interference,1,15.0,15.0
+Utah,UCLA,Other / Unclassified,2,0.0,0.0
+Utah,UCLA,False Start,1,0.0,0.0
+Utah,UCLA,Holding,1,0.0,0.0
+Utah,UCLA,Pass Interference,1,0.0,0.0
+Utah State,UTEP,Other / Unclassified,4,15.0,3.75
+Utah State,UTEP,Holding,3,3.0,1.0
+Utah State,UTEP,Delay of Game,1,5.0,5.0
+Utah State,UTEP,False Start,1,0.0,0.0
+Utah State,UTEP,Illegal Formation,1,5.0,5.0
+Utah State,UTEP,Roughing,1,0.0,0.0
+Utah Tech,UC Davis,False Start,1,0.0,0.0
+Utah Tech,UC Davis,Holding,1,0.0,0.0
+Utah Tech,UC Davis,Personal Foul,1,0.0,0.0
+Utah Tech,UC Davis,Roughing,1,0.0,0.0
+VMI,Navy,False Start,3,15.0,5.0
+VMI,Navy,Delay of Game,1,5.0,5.0
+Valparaiso,Virginia University Of Lynchburg,False Start,3,15.0,5.0
+Valparaiso,Virginia University Of Lynchburg,Holding,2,20.0,10.0
+Valparaiso,Virginia University Of Lynchburg,Offside,2,70.0,35.0
+Valparaiso,Virginia University Of Lynchburg,Other / Unclassified,2,5.0,2.5
+Valparaiso,Virginia University Of Lynchburg,Delay of Game,1,5.0,5.0
+Valparaiso,Virginia University Of Lynchburg,Unsportsmanlike Conduct,1,0.0,0.0
+Vanderbilt,Charleston Southern,Holding,4,72.0,18.0
+Vanderbilt,Charleston Southern,Pass Interference,3,35.0,11.67
+Vanderbilt,Charleston Southern,False Start,2,10.0,5.0
+Vanderbilt,Charleston Southern,Delay of Game,1,5.0,5.0
+Virginia,Coastal Carolina,False Start,3,15.0,5.0
+Virginia,Coastal Carolina,Other / Unclassified,1,5.0,5.0
+Virginia,Coastal Carolina,Roughing the Passer,1,50.0,50.0
+Virginia Tech,South Carolina,Offside,3,10.0,3.33
+Virginia Tech,South Carolina,Personal Foul,3,0.0,0.0
+Virginia Tech,South Carolina,False Start,1,0.0,0.0
+Virginia Tech,South Carolina,Illegal Formation,1,5.0,5.0
+Virginia University Of Lynchburg,Valparaiso,Delay of Game,4,20.0,5.0
+Virginia University Of Lynchburg,Valparaiso,Face Mask,2,4.0,2.0
+Virginia University Of Lynchburg,Valparaiso,False Start,2,10.0,5.0
+Virginia University Of Lynchburg,Valparaiso,Holding,2,3.0,1.5
+Virginia University Of Lynchburg,Valparaiso,Other / Unclassified,1,41.0,41.0
+Virginia University Of Lynchburg,Valparaiso,Unsportsmanlike Conduct,1,15.0,15.0
+Wagner,Kansas,Delay of Game,4,20.0,5.0
+Wagner,Kansas,Other / Unclassified,2,10.0,5.0
+Wagner,Kansas,Holding,1,8.0,8.0
+Wake Forest,Kennesaw State,Holding,3,25.0,8.33
+Wake Forest,Kennesaw State,False Start,2,10.0,5.0
+Wake Forest,Kennesaw State,Other / Unclassified,2,24.0,12.0
+Wake Forest,Kennesaw State,Delay of Game,1,5.0,5.0
+Wake Forest,Kennesaw State,Offside,1,5.0,5.0
+Wake Forest,Kennesaw State,Unsportsmanlike Conduct,1,15.0,15.0
+Washington,Colorado State,False Start,3,10.0,3.33
+Washington,Colorado State,Offside,1,0.0,0.0
+Washington,Colorado State,Other / Unclassified,1,0.0,0.0
+Washington,Colorado State,Pass Interference,1,0.0,0.0
+Washington State,Idaho,False Start,3,8.0,2.67
+Washington State,Idaho,Delay of Game,1,5.0,5.0
+Washington State,Idaho,Offside,1,5.0,5.0
+Washington State,Idaho,Unsportsmanlike Conduct,1,0.0,0.0
+Webber International,Stetson,Other / Unclassified,3,0.0,0.0
+Webber International,Stetson,Face Mask,1,15.0,15.0
+Webber International,Stetson,False Start,1,0.0,0.0
+Webber International,Stetson,Holding,1,0.0,0.0
+Webber International,Stetson,Illegal Formation,1,0.0,0.0
+Webber International,Stetson,Roughing,1,0.0,0.0
+Webber International,Stetson,Unsportsmanlike Conduct,1,0.0,0.0
+Weber State,James Madison,Holding,2,0.0,0.0
+Weber State,James Madison,False Start,1,5.0,5.0
+Weber State,James Madison,Illegal Formation,1,0.0,0.0
+Weber State,James Madison,Pass Interference,1,15.0,15.0
+Weber State,James Madison,Roughing the Passer,1,15.0,15.0
+West Georgia,Samford,False Start,2,10.0,5.0
+West Georgia,Samford,Holding,2,18.0,9.0
+West Georgia,Samford,Pass Interference,2,5.0,2.5
+West Georgia,Samford,Delay of Game,1,5.0,5.0
+West Georgia,Samford,Other / Unclassified,1,0.0,0.0
+West Virginia,Robert Morris,False Start,4,20.0,5.0
+West Virginia,Robert Morris,Holding,3,36.0,12.0
+West Virginia,Robert Morris,Offside,1,5.0,5.0
+West Virginia,Robert Morris,Other / Unclassified,1,9.0,9.0
+Western Carolina,Gardner-Webb,False Start,2,0.0,0.0
+Western Carolina,Gardner-Webb,Delay of Game,1,0.0,0.0
+Western Carolina,Gardner-Webb,Other / Unclassified,1,0.0,0.0
+Western Carolina,Gardner-Webb,Pass Interference,1,0.0,0.0
+Western Carolina,Gardner-Webb,Personal Foul,1,0.0,0.0
+Western Carolina,Gardner-Webb,Roughing,1,0.0,0.0
+Western Illinois,Illinois,False Start,2,9.0,4.5
+Western Illinois,Illinois,Illegal Formation,2,95.0,47.5
+Western Illinois,Illinois,Pass Interference,2,0.0,0.0
+Western Illinois,Illinois,Delay of Game,1,5.0,5.0
+Western Illinois,Illinois,Other / Unclassified,1,3.0,3.0
+Western Illinois,Illinois,Personal Foul,1,0.0,0.0
+Western Kentucky,North Alabama,Holding,4,36.0,9.0
+Western Kentucky,North Alabama,False Start,2,10.0,5.0
+Western Kentucky,North Alabama,Unsportsmanlike Conduct,2,0.0,0.0
+Western Kentucky,Sam Houston,Pass Interference,2,6.0,3.0
+Western Kentucky,North Alabama,Offside,1,5.0,5.0
+Western Kentucky,North Alabama,Other / Unclassified,1,5.0,5.0
+Western Kentucky,North Alabama,Pass Interference,1,15.0,15.0
+Western Kentucky,North Alabama,Roughing the Passer,1,0.0,0.0
+Western Kentucky,Sam Houston,Face Mask,1,15.0,15.0
+Western Kentucky,Sam Houston,Holding,1,0.0,0.0
+Western Michigan,Michigan State,Holding,2,0.0,0.0
+Western Michigan,Michigan State,Other / Unclassified,2,21.0,10.5
+Western Michigan,Michigan State,Delay of Game,1,0.0,0.0
+William & Mary,Furman,Holding,3,40.0,13.33
+William & Mary,Furman,Pass Interference,3,30.0,10.0
+William & Mary,Furman,Other / Unclassified,2,3.0,1.5
+Wisconsin,Miami (OH),Delay of Game,1,5.0,5.0
+Wisconsin,Miami (OH),False Start,1,5.0,5.0
+Wisconsin,Miami (OH),Holding,1,1.0,1.0
+Wisconsin,Miami (OH),Offside,1,0.0,0.0
+Wisconsin,Miami (OH),Other / Unclassified,1,5.0,5.0
+Wisconsin,Miami (OH),Pass Interference,1,15.0,15.0
+Wofford,South Carolina State,False Start,2,0.0,0.0
+Wofford,South Carolina State,Pass Interference,2,50.0,25.0
+Wofford,South Carolina State,Personal Foul,2,0.0,0.0
+Wofford,South Carolina State,Holding,1,0.0,0.0
+Wyoming,Akron,False Start,4,0.0,0.0
+Wyoming,Akron,Delay of Game,1,0.0,0.0
+Wyoming,Akron,Face Mask,1,9.0,9.0
+Wyoming,Akron,Other / Unclassified,1,5.0,5.0
+Wyoming,Akron,Roughing,1,0.0,0.0
+Youngstown State,Mercyhurst,False Start,2,10.0,5.0
+Youngstown State,Mercyhurst,Holding,1,9.0,9.0
+Youngstown State,Mercyhurst,Offside,1,5.0,5.0
+Youngstown State,Mercyhurst,Other / Unclassified,1,12.0,12.0
+Youngstown State,Mercyhurst,Pass Interference,1,5.0,5.0

@@ -1,0 +1,1421 @@
+offense,conference,penalty_type,total_penalties,total_yards,average_yards_per_penalty
+Air Force,MWC,Holding,15,54.0,3.6
+Air Force,MWC,False Start,7,30.0,4.29
+Air Force,MWC,Other / Unclassified,6,32.0,5.33
+Air Force,MWC,Face Mask,4,21.0,5.25
+Air Force,MWC,Illegal Formation,3,11.0,3.67
+Air Force,MWC,Offside,3,10.0,3.33
+Air Force,MWC,Pass Interference,2,25.0,12.5
+Air Force,MWC,Roughing the Passer,2,28.0,14.0
+Air Force,MWC,Personal Foul,1,1.0,1.0
+Air Force,MWC,Unsportsmanlike Conduct,1,0.0,0.0
+Akron,MAC,False Start,12,105.0,8.75
+Akron,MAC,Other / Unclassified,8,12.0,1.5
+Akron,MAC,Pass Interference,8,126.0,15.75
+Akron,MAC,Holding,7,84.0,12.0
+Akron,MAC,Personal Foul,7,90.0,12.86
+Akron,MAC,Delay of Game,6,20.0,3.33
+Akron,MAC,Face Mask,6,102.0,17.0
+Akron,MAC,Offside,4,10.0,2.5
+Akron,MAC,Unsportsmanlike Conduct,2,15.0,7.5
+Akron,MAC,Illegal Formation,1,49.0,49.0
+Akron,MAC,Roughing the Passer,1,15.0,15.0
+Akron,MAC,Targeting,1,15.0,15.0
+Alabama,SEC,Holding,10,84.0,8.4
+Alabama,SEC,False Start,9,20.0,2.22
+Alabama,SEC,Offside,7,25.0,3.57
+Alabama,SEC,Personal Foul,7,102.0,14.57
+Alabama,SEC,Pass Interference,5,102.0,20.4
+Alabama,SEC,Delay of Game,3,15.0,5.0
+Alabama,SEC,Other / Unclassified,3,10.0,3.33
+Alabama,SEC,Unsportsmanlike Conduct,2,5.0,2.5
+Alabama,SEC,Illegal Formation,1,28.0,28.0
+Alabama,SEC,Illegal Motion,1,5.0,5.0
+Alabama,SEC,Roughing,1,0.0,0.0
+Alabama,SEC,Targeting,1,15.0,15.0
+App State,SBC,Pass Interference,11,76.0,6.91
+App State,SBC,False Start,10,50.0,5.0
+App State,SBC,Holding,9,31.0,3.44
+App State,SBC,Delay of Game,5,20.0,4.0
+App State,SBC,Face Mask,4,56.0,14.0
+App State,SBC,Roughing the Passer,4,30.0,7.5
+App State,SBC,Offside,3,37.0,12.33
+App State,SBC,Unsportsmanlike Conduct,3,39.0,13.0
+App State,SBC,Illegal Formation,2,13.0,6.5
+App State,SBC,Other / Unclassified,1,5.0,5.0
+Arizona,Big 12,Holding,27,169.0,6.26
+Arizona,Big 12,Offside,7,21.0,3.0
+Arizona,Big 12,Other / Unclassified,7,62.0,8.86
+Arizona,Big 12,False Start,6,30.0,5.0
+Arizona,Big 12,Pass Interference,5,20.0,4.0
+Arizona,Big 12,Face Mask,3,43.0,14.33
+Arizona,Big 12,Roughing the Passer,3,45.0,15.0
+Arizona,Big 12,Targeting,2,15.0,7.5
+Arizona,Big 12,Personal Foul,1,0.0,0.0
+Arizona State,Big 12,Holding,21,142.0,6.76
+Arizona State,Big 12,False Start,13,56.0,4.31
+Arizona State,Big 12,Pass Interference,12,110.0,9.17
+Arizona State,Big 12,Other / Unclassified,10,164.0,16.4
+Arizona State,Big 12,Delay of Game,6,20.0,3.33
+Arizona State,Big 12,Personal Foul,4,30.0,7.5
+Arizona State,Big 12,Illegal Formation,2,9.0,4.5
+Arizona State,Big 12,Offside,2,42.0,21.0
+Arizona State,Big 12,Roughing the Passer,2,3.0,1.5
+Arizona State,Big 12,Roughing,1,0.0,0.0
+Arizona State,Big 12,Unsportsmanlike Conduct,1,9.0,9.0
+Arkansas,SEC,Holding,21,207.0,9.86
+Arkansas,SEC,Other / Unclassified,7,52.0,7.43
+Arkansas,SEC,False Start,5,25.0,5.0
+Arkansas,SEC,Personal Foul,5,131.0,26.2
+Arkansas,SEC,Pass Interference,4,48.0,12.0
+Arkansas,SEC,Face Mask,2,45.0,22.5
+Arkansas,SEC,Illegal Formation,2,16.0,8.0
+Arkansas,SEC,Offside,2,5.0,2.5
+Arkansas,SEC,Unsportsmanlike Conduct,2,30.0,15.0
+Arkansas,SEC,Illegal Motion,1,9.0,9.0
+Arkansas State,SBC,Holding,25,201.0,8.04
+Arkansas State,SBC,Pass Interference,23,117.0,5.09
+Arkansas State,SBC,False Start,22,45.0,2.05
+Arkansas State,SBC,Other / Unclassified,8,30.0,3.75
+Arkansas State,SBC,Personal Foul,7,51.0,7.29
+Arkansas State,SBC,Illegal Formation,3,47.0,15.67
+Arkansas State,SBC,Offside,2,24.0,12.0
+Arkansas State,SBC,Roughing,2,0.0,0.0
+Army,American,Other / Unclassified,9,179.0,19.89
+Army,American,False Start,8,25.0,3.12
+Army,American,Holding,6,36.0,6.0
+Army,American,Offside,5,12.0,2.4
+Army,American,Pass Interference,5,68.0,13.6
+Army,American,Face Mask,2,30.0,15.0
+Army,American,Personal Foul,2,20.0,10.0
+Army,American,Illegal Formation,1,16.0,16.0
+Auburn,SEC,False Start,22,55.0,2.5
+Auburn,SEC,Holding,22,170.0,7.73
+Auburn,SEC,Pass Interference,8,46.0,5.75
+Auburn,SEC,Other / Unclassified,7,8.0,1.14
+Auburn,SEC,Delay of Game,4,15.0,3.75
+Auburn,SEC,Illegal Formation,2,39.0,19.5
+Auburn,SEC,Offside,2,5.0,2.5
+Auburn,SEC,Personal Foul,2,0.0,0.0
+Auburn,SEC,Roughing the Passer,2,15.0,7.5
+Auburn,SEC,Face Mask,1,10.0,10.0
+BYU,Big 12,Holding,17,127.0,7.47
+BYU,Big 12,False Start,14,62.0,4.43
+BYU,Big 12,Pass Interference,8,89.0,11.12
+BYU,Big 12,Delay of Game,4,20.0,5.0
+BYU,Big 12,Personal Foul,4,7.0,1.75
+BYU,Big 12,Other / Unclassified,3,11.0,3.67
+BYU,Big 12,Face Mask,2,10.0,5.0
+BYU,Big 12,Offside,2,5.0,2.5
+BYU,Big 12,Illegal Formation,1,42.0,42.0
+BYU,Big 12,Targeting,1,0.0,0.0
+Ball State,MAC,False Start,10,48.0,4.8
+Ball State,MAC,Offside,10,49.0,4.9
+Ball State,MAC,Holding,7,46.0,6.57
+Ball State,MAC,Personal Foul,7,22.0,3.14
+Ball State,MAC,Pass Interference,6,80.0,13.33
+Ball State,MAC,Delay of Game,5,25.0,5.0
+Ball State,MAC,Other / Unclassified,3,15.0,5.0
+Ball State,MAC,Unsportsmanlike Conduct,3,36.0,12.0
+Ball State,MAC,Face Mask,2,11.0,5.5
+Ball State,MAC,Illegal Formation,1,5.0,5.0
+Baylor,Big 12,Holding,27,131.0,4.85
+Baylor,Big 12,Pass Interference,19,166.0,8.74
+Baylor,Big 12,Other / Unclassified,6,24.0,4.0
+Baylor,Big 12,False Start,2,10.0,5.0
+Baylor,Big 12,Personal Foul,2,15.0,7.5
+Baylor,Big 12,Illegal Formation,1,2.0,2.0
+Baylor,Big 12,Roughing the Passer,1,0.0,0.0
+Baylor,Big 12,Unsportsmanlike Conduct,1,0.0,0.0
+Boise State,MWC,False Start,22,105.0,4.77
+Boise State,MWC,Holding,16,180.0,11.25
+Boise State,MWC,Other / Unclassified,12,87.0,7.25
+Boise State,MWC,Offside,7,52.0,7.43
+Boise State,MWC,Pass Interference,7,73.0,10.43
+Boise State,MWC,Delay of Game,3,11.0,3.67
+Boise State,MWC,Face Mask,2,25.0,12.5
+Boise State,MWC,Personal Foul,2,8.0,4.0
+Boise State,MWC,Illegal Formation,1,5.0,5.0
+Boise State,MWC,Roughing,1,11.0,11.0
+Boise State,MWC,Roughing the Passer,1,15.0,15.0
+Boise State,MWC,Unsportsmanlike Conduct,1,15.0,15.0
+Boston College,ACC,False Start,15,50.0,3.33
+Boston College,ACC,Other / Unclassified,11,162.0,14.73
+Boston College,ACC,Holding,8,63.0,7.88
+Boston College,ACC,Personal Foul,6,51.0,8.5
+Boston College,ACC,Offside,5,22.0,4.4
+Boston College,ACC,Pass Interference,5,0.0,0.0
+Boston College,ACC,Unsportsmanlike Conduct,5,21.0,4.2
+Boston College,ACC,Targeting,3,44.0,14.67
+Boston College,ACC,Delay of Game,2,10.0,5.0
+Boston College,ACC,Roughing,1,0.0,0.0
+Boston College,ACC,Roughing the Passer,1,25.0,25.0
+Bowling Green,MAC,Other / Unclassified,12,83.0,6.92
+Bowling Green,MAC,False Start,10,50.0,5.0
+Bowling Green,MAC,Holding,8,105.0,13.12
+Bowling Green,MAC,Pass Interference,8,111.0,13.88
+Bowling Green,MAC,Delay of Game,7,33.0,4.71
+Bowling Green,MAC,Offside,6,29.0,4.83
+Bowling Green,MAC,Unsportsmanlike Conduct,3,15.0,5.0
+Bowling Green,MAC,Personal Foul,2,0.0,0.0
+Bowling Green,MAC,Face Mask,1,26.0,26.0
+Bowling Green,MAC,Illegal Formation,1,2.0,2.0
+Buffalo,MAC,False Start,11,25.0,2.27
+Buffalo,MAC,Pass Interference,10,103.0,10.3
+Buffalo,MAC,Holding,9,76.0,8.44
+Buffalo,MAC,Other / Unclassified,4,8.0,2.0
+Buffalo,MAC,Delay of Game,3,10.0,3.33
+Buffalo,MAC,Illegal Formation,2,0.0,0.0
+Buffalo,MAC,Offside,2,10.0,5.0
+Buffalo,MAC,Personal Foul,1,12.0,12.0
+Buffalo,MAC,Unsportsmanlike Conduct,1,0.0,0.0
+C Michigan,MAC,False Start,16,60.0,3.75
+C Michigan,MAC,Other / Unclassified,14,82.0,5.86
+C Michigan,MAC,Holding,8,37.0,4.62
+C Michigan,MAC,Offside,8,48.0,6.0
+C Michigan,MAC,Unsportsmanlike Conduct,4,19.0,4.75
+C Michigan,MAC,Delay of Game,3,10.0,3.33
+C Michigan,MAC,Face Mask,2,25.0,12.5
+C Michigan,MAC,Pass Interference,1,8.0,8.0
+C Michigan,MAC,Personal Foul,1,1.0,1.0
+C Michigan,MAC,Roughing,1,0.0,0.0
+C Michigan,MAC,Roughing the Passer,1,6.0,6.0
+C Michigan,MAC,Targeting,1,2.0,2.0
+California,ACC,False Start,24,120.0,5.0
+California,ACC,Other / Unclassified,17,119.0,7.0
+California,ACC,Holding,15,113.0,7.53
+California,ACC,Pass Interference,10,90.0,9.0
+California,ACC,Offside,9,53.0,5.89
+California,ACC,Face Mask,3,30.0,10.0
+California,ACC,Illegal Formation,2,13.0,6.5
+California,ACC,Personal Foul,2,15.0,7.5
+California,ACC,Targeting,2,35.0,17.5
+California,ACC,Roughing the Passer,1,8.0,8.0
+California,ACC,Unsportsmanlike Conduct,1,0.0,0.0
+Charlotte,American,False Start,15,53.0,3.53
+Charlotte,American,Holding,12,127.0,10.58
+Charlotte,American,Personal Foul,10,69.0,6.9
+Charlotte,American,Pass Interference,6,70.0,11.67
+Charlotte,American,Other / Unclassified,4,29.0,7.25
+Charlotte,American,Offside,2,5.0,2.5
+Charlotte,American,Delay of Game,1,5.0,5.0
+Charlotte,American,Face Mask,1,15.0,15.0
+Charlotte,American,Illegal Formation,1,5.0,5.0
+Charlotte,American,Roughing,1,0.0,0.0
+Charlotte,American,Roughing the Passer,1,0.0,0.0
+Cincinnati,Big 12,Holding,17,139.0,8.18
+Cincinnati,Big 12,False Start,10,50.0,5.0
+Cincinnati,Big 12,Other / Unclassified,5,120.0,24.0
+Cincinnati,Big 12,Pass Interference,5,58.0,11.6
+Cincinnati,Big 12,Personal Foul,4,90.0,22.5
+Cincinnati,Big 12,Delay of Game,3,15.0,5.0
+Cincinnati,Big 12,Offside,3,9.0,3.0
+Cincinnati,Big 12,Face Mask,1,15.0,15.0
+Cincinnati,Big 12,Roughing,1,0.0,0.0
+Cincinnati,Big 12,Targeting,1,7.0,7.0
+Clemson,ACC,Holding,11,139.0,12.64
+Clemson,ACC,Pass Interference,9,74.0,8.22
+Clemson,ACC,Other / Unclassified,8,86.0,10.75
+Clemson,ACC,False Start,7,30.0,4.29
+Clemson,ACC,Offside,3,10.0,3.33
+Clemson,ACC,Unsportsmanlike Conduct,3,15.0,5.0
+Clemson,ACC,Delay of Game,1,5.0,5.0
+Clemson,ACC,Personal Foul,1,0.0,0.0
+Coastal Carolina,SBC,Holding,20,361.0,18.05
+Coastal Carolina,SBC,Offside,10,39.0,3.9
+Coastal Carolina,SBC,False Start,9,45.0,5.0
+Coastal Carolina,SBC,Other / Unclassified,8,178.0,22.25
+Coastal Carolina,SBC,Pass Interference,5,66.0,13.2
+Coastal Carolina,SBC,Face Mask,3,23.0,7.67
+Coastal Carolina,SBC,Delay of Game,2,10.0,5.0
+Coastal Carolina,SBC,Illegal Formation,2,47.0,23.5
+Coastal Carolina,SBC,Personal Foul,2,15.0,7.5
+Coastal Carolina,SBC,Roughing the Passer,2,15.0,7.5
+Coastal Carolina,SBC,Illegal Motion,1,0.0,0.0
+Coastal Carolina,SBC,Targeting,1,15.0,15.0
+Coastal Carolina,SBC,Unsportsmanlike Conduct,1,0.0,0.0
+Colorado,Big 12,Holding,16,245.0,15.31
+Colorado,Big 12,Delay of Game,9,40.0,4.44
+Colorado,Big 12,False Start,9,45.0,5.0
+Colorado,Big 12,Other / Unclassified,9,159.0,17.67
+Colorado,Big 12,Pass Interference,7,90.0,12.86
+Colorado,Big 12,Face Mask,5,55.0,11.0
+Colorado,Big 12,Offside,3,17.0,5.67
+Colorado,Big 12,Unsportsmanlike Conduct,3,25.0,8.33
+Colorado,Big 12,Personal Foul,2,1.0,0.5
+Colorado,Big 12,Illegal Formation,1,2.0,2.0
+Colorado,Big 12,Roughing the Passer,1,15.0,15.0
+Colorado State,MWC,Holding,15,240.0,16.0
+Colorado State,MWC,False Start,12,60.0,5.0
+Colorado State,MWC,Pass Interference,9,104.0,11.56
+Colorado State,MWC,Other / Unclassified,6,38.0,6.33
+Colorado State,MWC,Personal Foul,4,31.0,7.75
+Colorado State,MWC,Face Mask,3,21.0,7.0
+Colorado State,MWC,Illegal Formation,2,7.0,3.5
+Colorado State,MWC,Offside,2,7.0,3.5
+Colorado State,MWC,Delay of Game,1,5.0,5.0
+Delaware,CUSA,Other / Unclassified,17,151.0,8.88
+Delaware,CUSA,Holding,15,234.0,15.6
+Delaware,CUSA,Pass Interference,11,114.0,10.36
+Delaware,CUSA,False Start,5,25.0,5.0
+Delaware,CUSA,Face Mask,4,48.0,12.0
+Delaware,CUSA,Unsportsmanlike Conduct,3,30.0,10.0
+Delaware,CUSA,Delay of Game,2,5.0,2.5
+Delaware,CUSA,Offside,2,30.0,15.0
+Delaware,CUSA,Illegal Formation,1,7.0,7.0
+Delaware,CUSA,Personal Foul,1,22.0,22.0
+Duke,ACC,Pass Interference,14,145.0,10.36
+Duke,ACC,Holding,11,82.0,7.45
+Duke,ACC,False Start,7,37.0,5.29
+Duke,ACC,Offside,7,24.0,3.43
+Duke,ACC,Other / Unclassified,6,47.0,7.83
+Duke,ACC,Delay of Game,4,17.0,4.25
+Duke,ACC,Face Mask,3,17.0,5.67
+Duke,ACC,Personal Foul,2,32.0,16.0
+Duke,ACC,Roughing,1,6.0,6.0
+Duke,ACC,Roughing the Passer,1,0.0,0.0
+Duke,ACC,Unsportsmanlike Conduct,1,10.0,10.0
+E Michigan,MAC,Holding,16,206.0,12.88
+E Michigan,MAC,False Start,14,70.0,5.0
+E Michigan,MAC,Pass Interference,12,203.0,16.92
+E Michigan,MAC,Other / Unclassified,6,44.0,7.33
+E Michigan,MAC,Delay of Game,5,25.0,5.0
+E Michigan,MAC,Offside,4,15.0,3.75
+E Michigan,MAC,Unsportsmanlike Conduct,3,26.0,8.67
+E Michigan,MAC,Personal Foul,2,9.0,4.5
+E Michigan,MAC,Face Mask,1,2.0,2.0
+E Michigan,MAC,Illegal Formation,1,0.0,0.0
+E Michigan,MAC,Roughing the Passer,1,15.0,15.0
+East Carolina,American,False Start,17,76.0,4.47
+East Carolina,American,Holding,16,136.0,8.5
+East Carolina,American,Other / Unclassified,8,138.0,17.25
+East Carolina,American,Offside,7,54.0,7.71
+East Carolina,American,Pass Interference,6,67.0,11.17
+East Carolina,American,Delay of Game,4,17.0,4.25
+East Carolina,American,Illegal Formation,2,8.0,4.0
+East Carolina,American,Personal Foul,2,0.0,0.0
+East Carolina,American,Unsportsmanlike Conduct,2,1.0,0.5
+East Carolina,American,Face Mask,1,15.0,15.0
+East Carolina,American,Roughing the Passer,1,50.0,50.0
+FAU,American,False Start,18,90.0,5.0
+FAU,American,Holding,12,104.0,8.67
+FAU,American,Offside,9,43.0,4.78
+FAU,American,Pass Interference,8,89.0,11.12
+FAU,American,Other / Unclassified,6,60.0,10.0
+FAU,American,Delay of Game,2,10.0,5.0
+FAU,American,Personal Foul,2,64.0,32.0
+FAU,American,Face Mask,1,15.0,15.0
+FAU,American,Illegal Formation,1,0.0,0.0
+FAU,American,Roughing the Passer,1,0.0,0.0
+FAU,American,Targeting,1,15.0,15.0
+FAU,American,Unsportsmanlike Conduct,1,15.0,15.0
+FIU,CUSA,Holding,16,259.0,16.19
+FIU,CUSA,False Start,11,55.0,5.0
+FIU,CUSA,Other / Unclassified,10,173.0,17.3
+FIU,CUSA,Delay of Game,7,35.0,5.0
+FIU,CUSA,Personal Foul,6,68.0,11.33
+FIU,CUSA,Face Mask,5,121.0,24.2
+FIU,CUSA,Offside,4,10.0,2.5
+FIU,CUSA,Roughing the Passer,4,60.0,15.0
+FIU,CUSA,Unsportsmanlike Conduct,3,44.0,14.67
+FIU,CUSA,Pass Interference,2,18.0,9.0
+Florida,SEC,False Start,13,45.0,3.46
+Florida,SEC,Holding,13,151.0,11.62
+Florida,SEC,Offside,8,81.0,10.12
+Florida,SEC,Pass Interference,6,71.0,11.83
+Florida,SEC,Personal Foul,6,58.0,9.67
+Florida,SEC,Delay of Game,3,15.0,5.0
+Florida,SEC,Other / Unclassified,3,51.0,17.0
+Florida,SEC,Targeting,2,7.0,3.5
+Florida,SEC,Unsportsmanlike Conduct,2,57.0,28.5
+Florida,SEC,Face Mask,1,15.0,15.0
+Florida,SEC,Illegal Formation,1,20.0,20.0
+Florida,SEC,Roughing the Passer,1,15.0,15.0
+Florida State,ACC,Personal Foul,12,64.0,5.33
+Florida State,ACC,Other / Unclassified,10,77.0,7.7
+Florida State,ACC,False Start,9,30.0,3.33
+Florida State,ACC,Holding,8,92.0,11.5
+Florida State,ACC,Pass Interference,8,99.0,12.38
+Florida State,ACC,Delay of Game,4,20.0,5.0
+Florida State,ACC,Offside,4,5.0,1.25
+Florida State,ACC,Targeting,1,0.0,0.0
+Florida State,ACC,Unsportsmanlike Conduct,1,0.0,0.0
+Fresno State,MWC,Holding,23,160.0,6.96
+Fresno State,MWC,False Start,14,74.0,5.29
+Fresno State,MWC,Other / Unclassified,7,38.0,5.43
+Fresno State,MWC,Unsportsmanlike Conduct,5,50.0,10.0
+Fresno State,MWC,Pass Interference,4,56.0,14.0
+Fresno State,MWC,Delay of Game,3,15.0,5.0
+Fresno State,MWC,Face Mask,3,39.0,13.0
+Fresno State,MWC,Personal Foul,3,34.0,11.33
+Fresno State,MWC,Roughing the Passer,3,30.0,10.0
+Georgia,SEC,Holding,14,96.0,6.86
+Georgia,SEC,Pass Interference,8,72.0,9.0
+Georgia,SEC,Other / Unclassified,6,34.0,5.67
+Georgia,SEC,False Start,5,25.0,5.0
+Georgia,SEC,Offside,5,22.0,4.4
+Georgia,SEC,Personal Foul,5,5.0,1.0
+Georgia,SEC,Delay of Game,3,10.0,3.33
+Georgia,SEC,Roughing,1,15.0,15.0
+Georgia,SEC,Targeting,1,15.0,15.0
+Georgia Southern,SBC,Other / Unclassified,18,151.0,8.39
+Georgia Southern,SBC,Holding,15,234.0,15.6
+Georgia Southern,SBC,False Start,6,30.0,5.0
+Georgia Southern,SBC,Pass Interference,6,71.0,11.83
+Georgia Southern,SBC,Offside,4,19.0,4.75
+Georgia Southern,SBC,Delay of Game,2,10.0,5.0
+Georgia Southern,SBC,Face Mask,2,22.0,11.0
+Georgia Southern,SBC,Personal Foul,2,8.0,4.0
+Georgia Southern,SBC,Roughing the Passer,1,0.0,0.0
+Georgia Southern,SBC,Targeting,1,7.0,7.0
+Georgia State,SBC,False Start,23,104.0,4.52
+Georgia State,SBC,Other / Unclassified,16,64.0,4.0
+Georgia State,SBC,Holding,15,77.0,5.13
+Georgia State,SBC,Delay of Game,5,23.0,4.6
+Georgia State,SBC,Pass Interference,5,82.0,16.4
+Georgia State,SBC,Offside,4,15.0,3.75
+Georgia State,SBC,Face Mask,3,27.0,9.0
+Georgia State,SBC,Personal Foul,3,19.0,6.33
+Georgia State,SBC,Roughing the Passer,3,76.0,25.33
+Georgia State,SBC,Illegal Formation,2,76.0,38.0
+Georgia State,SBC,Targeting,1,15.0,15.0
+Georgia Tech,ACC,Other / Unclassified,13,91.0,7.0
+Georgia Tech,ACC,False Start,12,59.0,4.92
+Georgia Tech,ACC,Holding,12,147.0,12.25
+Georgia Tech,ACC,Personal Foul,7,69.0,9.86
+Georgia Tech,ACC,Pass Interference,4,49.0,12.25
+Georgia Tech,ACC,Offside,3,10.0,3.33
+Georgia Tech,ACC,Face Mask,2,49.0,24.5
+Georgia Tech,ACC,Illegal Formation,1,5.0,5.0
+Georgia Tech,ACC,Roughing the Passer,1,50.0,50.0
+Georgia Tech,ACC,Targeting,1,15.0,15.0
+Hawai'i,MWC,Holding,16,158.0,9.88
+Hawai'i,MWC,False Start,14,56.0,4.0
+Hawai'i,MWC,Other / Unclassified,11,52.0,4.73
+Hawai'i,MWC,Pass Interference,9,103.0,11.44
+Hawai'i,MWC,Personal Foul,5,9.0,1.8
+Hawai'i,MWC,Face Mask,4,49.0,12.25
+Hawai'i,MWC,Delay of Game,3,12.0,4.0
+Hawai'i,MWC,Offside,3,131.0,43.67
+Hawai'i,MWC,Unsportsmanlike Conduct,3,27.0,9.0
+Hawai'i,MWC,Roughing the Passer,2,15.0,7.5
+Hawai'i,MWC,Illegal Formation,1,0.0,0.0
+Hawai'i,MWC,Illegal Motion,1,5.0,5.0
+Houston,Big 12,Holding,18,240.0,13.33
+Houston,Big 12,False Start,17,45.0,2.65
+Houston,Big 12,Pass Interference,15,68.0,4.53
+Houston,Big 12,Other / Unclassified,11,76.0,6.91
+Houston,Big 12,Face Mask,7,84.0,12.0
+Houston,Big 12,Offside,5,32.0,6.4
+Houston,Big 12,Unsportsmanlike Conduct,4,22.0,5.5
+Houston,Big 12,Roughing the Passer,2,0.0,0.0
+Houston,Big 12,Delay of Game,1,5.0,5.0
+Houston,Big 12,Illegal Formation,1,3.0,3.0
+Houston,Big 12,Personal Foul,1,0.0,0.0
+Houston,Big 12,Targeting,1,6.0,6.0
+Illinois,Big 10,Pass Interference,13,172.0,13.23
+Illinois,Big 10,False Start,12,50.0,4.17
+Illinois,Big 10,Holding,11,64.0,5.82
+Illinois,Big 10,Offside,6,33.0,5.5
+Illinois,Big 10,Personal Foul,5,28.0,5.6
+Illinois,Big 10,Other / Unclassified,4,16.0,4.0
+Illinois,Big 10,Unsportsmanlike Conduct,3,69.0,23.0
+Illinois,Big 10,Roughing,2,15.0,7.5
+Illinois,Big 10,Roughing the Passer,2,19.0,9.5
+Illinois,Big 10,Delay of Game,1,5.0,5.0
+Illinois,Big 10,Face Mask,1,15.0,15.0
+Illinois,Big 10,Illegal Formation,1,8.0,8.0
+Indiana,Big 10,False Start,16,70.0,4.38
+Indiana,Big 10,Pass Interference,12,161.0,13.42
+Indiana,Big 10,Holding,9,110.0,12.22
+Indiana,Big 10,Delay of Game,6,30.0,5.0
+Indiana,Big 10,Offside,4,10.0,2.5
+Indiana,Big 10,Other / Unclassified,4,79.0,19.75
+Indiana,Big 10,Personal Foul,2,11.0,5.5
+Indiana,Big 10,Face Mask,1,15.0,15.0
+Indiana,Big 10,Illegal Formation,1,9.0,9.0
+Iowa,Big 10,Holding,6,65.0,10.83
+Iowa,Big 10,False Start,4,20.0,5.0
+Iowa,Big 10,Offside,3,5.0,1.67
+Iowa,Big 10,Pass Interference,3,30.0,10.0
+Iowa,Big 10,Personal Foul,3,12.0,4.0
+Iowa,Big 10,Unsportsmanlike Conduct,3,17.0,5.67
+Iowa,Big 10,Other / Unclassified,2,43.0,21.5
+Iowa,Big 10,Delay of Game,1,5.0,5.0
+Iowa,Big 10,Face Mask,1,13.0,13.0
+Iowa,Big 10,Illegal Formation,1,4.0,4.0
+Iowa State,Big 12,Holding,19,382.0,20.11
+Iowa State,Big 12,Pass Interference,12,157.0,13.08
+Iowa State,Big 12,False Start,8,39.0,4.88
+Iowa State,Big 12,Other / Unclassified,5,43.0,8.6
+Iowa State,Big 12,Face Mask,3,29.0,9.67
+Iowa State,Big 12,Personal Foul,3,21.0,7.0
+Iowa State,Big 12,Illegal Formation,2,26.0,13.0
+Iowa State,Big 12,Unsportsmanlike Conduct,2,30.0,15.0
+Iowa State,Big 12,Delay of Game,1,5.0,5.0
+Iowa State,Big 12,Offside,1,3.0,3.0
+Iowa State,Big 12,Roughing the Passer,1,7.0,7.0
+J Madison,SBC,Holding,11,64.0,5.82
+J Madison,SBC,False Start,7,25.0,3.57
+J Madison,SBC,Other / Unclassified,7,41.0,5.86
+J Madison,SBC,Pass Interference,6,57.0,9.5
+J Madison,SBC,Delay of Game,5,25.0,5.0
+J Madison,SBC,Offside,4,20.0,5.0
+J Madison,SBC,Personal Foul,3,38.0,12.67
+J Madison,SBC,Illegal Formation,2,13.0,6.5
+J Madison,SBC,Roughing the Passer,2,30.0,15.0
+J Madison,SBC,Targeting,1,0.0,0.0
+Jacksonville State,CUSA,Holding,11,61.0,5.55
+Jacksonville State,CUSA,Other / Unclassified,8,44.0,5.5
+Jacksonville State,CUSA,False Start,6,30.0,5.0
+Jacksonville State,CUSA,Offside,6,85.0,14.17
+Jacksonville State,CUSA,Pass Interference,5,43.0,8.6
+Jacksonville State,CUSA,Delay of Game,4,20.0,5.0
+Jacksonville State,CUSA,Face Mask,4,53.0,13.25
+Jacksonville State,CUSA,Personal Foul,3,86.0,28.67
+Jacksonville State,CUSA,Illegal Formation,2,9.0,4.5
+Jacksonville State,CUSA,Targeting,2,19.0,9.5
+Jacksonville State,CUSA,Unsportsmanlike Conduct,2,0.0,0.0
+Kansas,Big 12,Holding,16,110.0,6.88
+Kansas,Big 12,Other / Unclassified,11,133.0,12.09
+Kansas,Big 12,False Start,9,44.0,4.89
+Kansas,Big 12,Pass Interference,4,21.0,5.25
+Kansas,Big 12,Offside,3,12.0,4.0
+Kansas,Big 12,Unsportsmanlike Conduct,3,45.0,15.0
+Kansas,Big 12,Delay of Game,2,9.0,4.5
+Kansas,Big 12,Face Mask,2,18.0,9.0
+Kansas,Big 12,Illegal Formation,1,1.0,1.0
+Kansas,Big 12,Illegal Motion,1,3.0,3.0
+Kansas,Big 12,Roughing the Passer,1,0.0,0.0
+Kansas State,Big 12,Holding,9,104.0,11.56
+Kansas State,Big 12,Face Mask,5,61.0,12.2
+Kansas State,Big 12,Delay of Game,3,10.0,3.33
+Kansas State,Big 12,False Start,3,10.0,3.33
+Kansas State,Big 12,Other / Unclassified,3,17.0,5.67
+Kansas State,Big 12,Pass Interference,3,39.0,13.0
+Kansas State,Big 12,Unsportsmanlike Conduct,2,28.0,14.0
+Kansas State,Big 12,Illegal Formation,1,7.0,7.0
+Kansas State,Big 12,Personal Foul,1,0.0,0.0
+Kennesaw State,CUSA,Holding,16,276.0,17.25
+Kennesaw State,CUSA,False Start,9,45.0,5.0
+Kennesaw State,CUSA,Other / Unclassified,7,92.0,13.14
+Kennesaw State,CUSA,Illegal Formation,4,51.0,12.75
+Kennesaw State,CUSA,Offside,4,19.0,4.75
+Kennesaw State,CUSA,Pass Interference,4,60.0,15.0
+Kennesaw State,CUSA,Delay of Game,3,15.0,5.0
+Kennesaw State,CUSA,Unsportsmanlike Conduct,3,28.0,9.33
+Kennesaw State,CUSA,Roughing,1,15.0,15.0
+Kennesaw State,CUSA,Roughing the Passer,1,17.0,17.0
+Kennesaw State,CUSA,Targeting,1,6.0,6.0
+Kent State,MAC,False Start,14,58.0,4.14
+Kent State,MAC,Other / Unclassified,14,199.0,14.21
+Kent State,MAC,Delay of Game,6,25.0,4.17
+Kent State,MAC,Holding,6,99.0,16.5
+Kent State,MAC,Face Mask,4,34.0,8.5
+Kent State,MAC,Unsportsmanlike Conduct,4,37.0,9.25
+Kent State,MAC,Illegal Formation,3,10.0,3.33
+Kent State,MAC,Pass Interference,3,15.0,5.0
+Kent State,MAC,Personal Foul,2,35.0,17.5
+Kent State,MAC,Offside,1,2.0,2.0
+Kent State,MAC,Roughing,1,0.0,0.0
+Kent State,MAC,Roughing the Kicker,1,51.0,51.0
+Kentucky,SEC,Holding,14,131.0,9.36
+Kentucky,SEC,Pass Interference,10,127.0,12.7
+Kentucky,SEC,Other / Unclassified,9,60.0,6.67
+Kentucky,SEC,Offside,7,33.0,4.71
+Kentucky,SEC,False Start,6,30.0,5.0
+Kentucky,SEC,Personal Foul,4,42.0,10.5
+Kentucky,SEC,Illegal Formation,2,42.0,21.0
+Kentucky,SEC,Face Mask,1,15.0,15.0
+Kentucky,SEC,Roughing,1,50.0,50.0
+LSU,SEC,False Start,19,64.0,3.37
+LSU,SEC,Pass Interference,13,162.0,12.46
+LSU,SEC,Holding,11,56.0,5.09
+LSU,SEC,Other / Unclassified,6,61.0,10.17
+LSU,SEC,Offside,5,20.0,4.0
+LSU,SEC,Illegal Formation,4,22.0,5.5
+LSU,SEC,Unsportsmanlike Conduct,3,1.0,0.33
+LSU,SEC,Delay of Game,2,10.0,5.0
+LSU,SEC,Face Mask,1,0.0,0.0
+LSU,SEC,Personal Foul,1,0.0,0.0
+LSU,SEC,Roughing,1,0.0,0.0
+LSU,SEC,Targeting,1,59.0,59.0
+La Tech,CUSA,Other / Unclassified,14,238.0,17.0
+La Tech,CUSA,Holding,10,65.0,6.5
+La Tech,CUSA,False Start,7,35.0,5.0
+La Tech,CUSA,Pass Interference,7,97.0,13.86
+La Tech,CUSA,Offside,6,24.0,4.0
+La Tech,CUSA,Face Mask,5,89.0,17.8
+La Tech,CUSA,Unsportsmanlike Conduct,5,83.0,16.6
+La Tech,CUSA,Personal Foul,2,16.0,8.0
+La Tech,CUSA,Delay of Game,1,5.0,5.0
+La Tech,CUSA,Illegal Formation,1,39.0,39.0
+La Tech,CUSA,Roughing the Passer,1,15.0,15.0
+Liberty,CUSA,Holding,15,199.0,13.27
+Liberty,CUSA,False Start,8,35.0,4.38
+Liberty,CUSA,Personal Foul,7,68.0,9.71
+Liberty,CUSA,Other / Unclassified,6,76.0,12.67
+Liberty,CUSA,Delay of Game,4,20.0,5.0
+Liberty,CUSA,Unsportsmanlike Conduct,3,27.0,9.0
+Liberty,CUSA,Offside,2,10.0,5.0
+Liberty,CUSA,Roughing the Passer,2,15.0,7.5
+Liberty,CUSA,Pass Interference,1,15.0,15.0
+Louisiana,SBC,False Start,16,76.0,4.75
+Louisiana,SBC,Other / Unclassified,12,58.0,4.83
+Louisiana,SBC,Pass Interference,12,164.0,13.67
+Louisiana,SBC,Holding,10,92.0,9.2
+Louisiana,SBC,Offside,7,31.0,4.43
+Louisiana,SBC,Face Mask,5,39.0,7.8
+Louisiana,SBC,Personal Foul,5,145.0,29.0
+Louisiana,SBC,Roughing the Passer,5,75.0,15.0
+Louisiana,SBC,Delay of Game,3,15.0,5.0
+Louisiana,SBC,Illegal Formation,2,17.0,8.5
+Louisiana,SBC,Targeting,2,34.0,17.0
+Louisiana,SBC,Illegal Motion,1,22.0,22.0
+Louisiana,SBC,Unsportsmanlike Conduct,1,0.0,0.0
+Louisville,ACC,Holding,21,227.0,10.81
+Louisville,ACC,False Start,8,40.0,5.0
+Louisville,ACC,Other / Unclassified,8,47.0,5.88
+Louisville,ACC,Personal Foul,7,38.0,5.43
+Louisville,ACC,Delay of Game,6,20.0,3.33
+Louisville,ACC,Pass Interference,6,52.0,8.67
+Louisville,ACC,Unsportsmanlike Conduct,4,95.0,23.75
+Louisville,ACC,Face Mask,2,23.0,11.5
+Louisville,ACC,Roughing the Passer,2,28.0,14.0
+Louisville,ACC,Illegal Formation,1,3.0,3.0
+Louisville,ACC,Offside,1,2.0,2.0
+Louisville,ACC,Targeting,1,15.0,15.0
+MTSU,CUSA,Holding,14,138.0,9.86
+MTSU,CUSA,Other / Unclassified,12,83.0,6.92
+MTSU,CUSA,Delay of Game,6,30.0,5.0
+MTSU,CUSA,Face Mask,6,94.0,15.67
+MTSU,CUSA,False Start,6,25.0,4.17
+MTSU,CUSA,Pass Interference,5,72.0,14.4
+MTSU,CUSA,Roughing the Passer,3,30.0,10.0
+MTSU,CUSA,Illegal Formation,2,53.0,26.5
+MTSU,CUSA,Offside,2,64.0,32.0
+MTSU,CUSA,Unsportsmanlike Conduct,2,16.0,8.0
+Marshall,SBC,Holding,19,81.0,4.26
+Marshall,SBC,False Start,9,45.0,5.0
+Marshall,SBC,Offside,8,27.0,3.38
+Marshall,SBC,Other / Unclassified,8,65.0,8.12
+Marshall,SBC,Illegal Formation,5,36.0,7.2
+Marshall,SBC,Pass Interference,3,27.0,9.0
+Marshall,SBC,Personal Foul,3,57.0,19.0
+Marshall,SBC,Unsportsmanlike Conduct,2,3.0,1.5
+Marshall,SBC,Delay of Game,1,5.0,5.0
+Marshall,SBC,Face Mask,1,7.0,7.0
+Maryland,Big 10,False Start,9,40.0,4.44
+Maryland,Big 10,Pass Interference,7,43.0,6.14
+Maryland,Big 10,Holding,4,26.0,6.5
+Maryland,Big 10,Other / Unclassified,3,14.0,4.67
+Maryland,Big 10,Personal Foul,3,0.0,0.0
+Maryland,Big 10,Delay of Game,2,10.0,5.0
+Maryland,Big 10,Face Mask,2,27.0,13.5
+Maryland,Big 10,Illegal Formation,2,1.0,0.5
+Maryland,Big 10,Unsportsmanlike Conduct,1,15.0,15.0
+Memphis,American,False Start,19,94.0,4.95
+Memphis,American,Holding,16,120.0,7.5
+Memphis,American,Offside,9,75.0,8.33
+Memphis,American,Personal Foul,5,17.0,3.4
+Memphis,American,Face Mask,4,45.0,11.25
+Memphis,American,Pass Interference,4,45.0,11.25
+Memphis,American,Other / Unclassified,3,19.0,6.33
+Memphis,American,Roughing the Passer,3,28.0,9.33
+Memphis,American,Delay of Game,2,10.0,5.0
+Memphis,American,Unsportsmanlike Conduct,1,5.0,5.0
+Miami,ACC,False Start,21,74.0,3.52
+Miami,ACC,Holding,14,71.0,5.07
+Miami,ACC,Delay of Game,4,15.0,3.75
+Miami,ACC,Other / Unclassified,4,58.0,14.5
+Miami,ACC,Roughing the Passer,4,33.0,8.25
+Miami,ACC,Pass Interference,3,15.0,5.0
+Miami,ACC,Face Mask,1,0.0,0.0
+Miami,ACC,Illegal Motion,1,0.0,0.0
+Miami,ACC,Offside,1,0.0,0.0
+Miami,ACC,Personal Foul,1,0.0,0.0
+Miami,ACC,Targeting,1,0.0,0.0
+Miami,ACC,Unsportsmanlike Conduct,1,6.0,6.0
+Miami (OH),MAC,Holding,14,145.0,10.36
+Miami (OH),MAC,False Start,12,60.0,5.0
+Miami (OH),MAC,Offside,7,35.0,5.0
+Miami (OH),MAC,Pass Interference,7,100.0,14.29
+Miami (OH),MAC,Other / Unclassified,6,100.0,16.67
+Miami (OH),MAC,Delay of Game,5,25.0,5.0
+Miami (OH),MAC,Illegal Formation,3,60.0,20.0
+Miami (OH),MAC,Personal Foul,3,18.0,6.0
+Miami (OH),MAC,Unsportsmanlike Conduct,3,4.0,1.33
+Miami (OH),MAC,Face Mask,1,15.0,15.0
+Miami (OH),MAC,Targeting,1,20.0,20.0
+Michigan,Big 10,Holding,10,45.0,4.5
+Michigan,Big 10,False Start,5,25.0,5.0
+Michigan,Big 10,Offside,5,89.0,17.8
+Michigan,Big 10,Other / Unclassified,4,22.0,5.5
+Michigan,Big 10,Pass Interference,4,45.0,11.25
+Michigan,Big 10,Illegal Formation,2,0.0,0.0
+Michigan,Big 10,Delay of Game,1,5.0,5.0
+Michigan,Big 10,Face Mask,1,5.0,5.0
+Michigan,Big 10,Roughing the Kicker,1,0.0,0.0
+Michigan,Big 10,Unsportsmanlike Conduct,1,3.0,3.0
+Michigan State,Big 10,False Start,13,60.0,4.62
+Michigan State,Big 10,Holding,12,62.0,5.17
+Michigan State,Big 10,Other / Unclassified,12,97.0,8.08
+Michigan State,Big 10,Pass Interference,7,57.0,8.14
+Michigan State,Big 10,Personal Foul,4,23.0,5.75
+Michigan State,Big 10,Delay of Game,3,15.0,5.0
+Michigan State,Big 10,Face Mask,2,65.0,32.5
+Michigan State,Big 10,Unsportsmanlike Conduct,2,38.0,19.0
+Michigan State,Big 10,Offside,1,1.0,1.0
+Michigan State,Big 10,Roughing the Passer,1,0.0,0.0
+Minnesota,Big 10,Pass Interference,8,66.0,8.25
+Minnesota,Big 10,False Start,7,20.0,2.86
+Minnesota,Big 10,Holding,7,13.0,1.86
+Minnesota,Big 10,Offside,6,18.0,3.0
+Minnesota,Big 10,Face Mask,5,49.0,9.8
+Minnesota,Big 10,Personal Foul,5,59.0,11.8
+Minnesota,Big 10,Delay of Game,3,10.0,3.33
+Minnesota,Big 10,Unsportsmanlike Conduct,3,17.0,5.67
+Minnesota,Big 10,Other / Unclassified,2,10.0,5.0
+Minnesota,Big 10,Illegal Formation,1,37.0,37.0
+Mississippi State,SEC,Holding,19,138.0,7.26
+Mississippi State,SEC,False Start,15,60.0,4.0
+Mississippi State,SEC,Pass Interference,9,93.0,10.33
+Mississippi State,SEC,Offside,8,76.0,9.5
+Mississippi State,SEC,Other / Unclassified,8,96.0,12.0
+Mississippi State,SEC,Personal Foul,6,59.0,9.83
+Mississippi State,SEC,Illegal Formation,5,102.0,20.4
+Mississippi State,SEC,Delay of Game,3,15.0,5.0
+Mississippi State,SEC,Roughing the Passer,2,48.0,24.0
+Mississippi State,SEC,Roughing,1,0.0,0.0
+Mississippi State,SEC,Targeting,1,5.0,5.0
+Mississippi State,SEC,Unsportsmanlike Conduct,1,15.0,15.0
+Missouri,SEC,Offside,10,39.0,3.9
+Missouri,SEC,Holding,9,40.0,4.44
+Missouri,SEC,Other / Unclassified,9,70.0,7.78
+Missouri,SEC,False Start,7,35.0,5.0
+Missouri,SEC,Pass Interference,5,81.0,16.2
+Missouri,SEC,Face Mask,2,23.0,11.5
+Missouri,SEC,Delay of Game,1,5.0,5.0
+Missouri,SEC,Personal Foul,1,15.0,15.0
+Missouri State,CUSA,False Start,12,60.0,5.0
+Missouri State,CUSA,Holding,12,144.0,12.0
+Missouri State,CUSA,Other / Unclassified,11,57.0,5.18
+Missouri State,CUSA,Personal Foul,10,110.0,11.0
+Missouri State,CUSA,Pass Interference,6,101.0,16.83
+Missouri State,CUSA,Offside,4,38.0,9.5
+Missouri State,CUSA,Delay of Game,2,10.0,5.0
+Missouri State,CUSA,Face Mask,2,30.0,15.0
+Missouri State,CUSA,Roughing the Passer,2,30.0,15.0
+N Illinois,MAC,False Start,13,65.0,5.0
+N Illinois,MAC,Holding,9,141.0,15.67
+N Illinois,MAC,Other / Unclassified,7,22.0,3.14
+N Illinois,MAC,Delay of Game,5,20.0,4.0
+N Illinois,MAC,Offside,3,23.0,7.67
+N Illinois,MAC,Personal Foul,3,49.0,16.33
+N Illinois,MAC,Face Mask,2,21.0,10.5
+N Illinois,MAC,Pass Interference,2,14.0,7.0
+N Illinois,MAC,Illegal Formation,1,41.0,41.0
+N Illinois,MAC,Roughing the Passer,1,15.0,15.0
+N Illinois,MAC,Unsportsmanlike Conduct,1,0.0,0.0
+N Texas,American,Holding,19,179.0,9.42
+N Texas,American,False Start,13,50.0,3.85
+N Texas,American,Pass Interference,8,81.0,10.12
+N Texas,American,Offside,7,88.0,12.57
+N Texas,American,Other / Unclassified,7,23.0,3.29
+N Texas,American,Unsportsmanlike Conduct,4,34.0,8.5
+N Texas,American,Personal Foul,2,63.0,31.5
+N Texas,American,Delay of Game,1,5.0,5.0
+N Texas,American,Face Mask,1,15.0,15.0
+N Texas,American,Illegal Formation,1,5.0,5.0
+NC State,ACC,Holding,14,112.0,8.0
+NC State,ACC,False Start,9,38.0,4.22
+NC State,ACC,Pass Interference,8,86.0,10.75
+NC State,ACC,Unsportsmanlike Conduct,6,38.0,6.33
+NC State,ACC,Other / Unclassified,3,15.0,5.0
+NC State,ACC,Face Mask,2,84.0,42.0
+NC State,ACC,Illegal Formation,2,8.0,4.0
+NC State,ACC,Offside,2,3.0,1.5
+NC State,ACC,Roughing the Passer,2,15.0,7.5
+NC State,ACC,Personal Foul,1,15.0,15.0
+NC State,ACC,Roughing,1,15.0,15.0
+NC State,ACC,Targeting,1,15.0,15.0
+Navy,American,False Start,15,71.0,4.73
+Navy,American,Holding,11,60.0,5.45
+Navy,American,Other / Unclassified,7,51.0,7.29
+Navy,American,Delay of Game,6,30.0,5.0
+Navy,American,Offside,4,6.0,1.5
+Navy,American,Pass Interference,2,28.0,14.0
+Navy,American,Face Mask,1,5.0,5.0
+Navy,American,Personal Foul,1,15.0,15.0
+Navy,American,Unsportsmanlike Conduct,1,7.0,7.0
+Nebraska,Big 10,Holding,8,68.0,8.5
+Nebraska,Big 10,Pass Interference,8,104.0,13.0
+Nebraska,Big 10,Unsportsmanlike Conduct,8,143.0,17.88
+Nebraska,Big 10,False Start,7,34.0,4.86
+Nebraska,Big 10,Other / Unclassified,5,3.0,0.6
+Nebraska,Big 10,Delay of Game,3,9.0,3.0
+Nebraska,Big 10,Offside,2,5.0,2.5
+Nebraska,Big 10,Personal Foul,2,17.0,8.5
+Nebraska,Big 10,Face Mask,1,15.0,15.0
+Nebraska,Big 10,Illegal Formation,1,40.0,40.0
+Nebraska,Big 10,Illegal Motion,1,3.0,3.0
+Nevada,MWC,False Start,10,49.0,4.9
+Nevada,MWC,Holding,10,133.0,13.3
+Nevada,MWC,Pass Interference,10,103.0,10.3
+Nevada,MWC,Personal Foul,6,122.0,20.33
+Nevada,MWC,Offside,4,83.0,20.75
+Nevada,MWC,Other / Unclassified,3,15.0,5.0
+Nevada,MWC,Unsportsmanlike Conduct,2,25.0,12.5
+Nevada,MWC,Face Mask,1,15.0,15.0
+Nevada,MWC,Illegal Formation,1,8.0,8.0
+Nevada,MWC,Targeting,1,1.0,1.0
+New Mexico,MWC,Holding,14,252.0,18.0
+New Mexico,MWC,Other / Unclassified,12,57.0,4.75
+New Mexico,MWC,Pass Interference,11,97.0,8.82
+New Mexico,MWC,False Start,10,49.0,4.9
+New Mexico,MWC,Offside,8,77.0,9.62
+New Mexico,MWC,Delay of Game,4,20.0,5.0
+New Mexico,MWC,Personal Foul,4,20.0,5.0
+New Mexico,MWC,Unsportsmanlike Conduct,4,37.0,9.25
+New Mexico,MWC,Face Mask,3,25.0,8.33
+New Mexico,MWC,Illegal Formation,3,10.0,3.33
+New Mexico,MWC,Illegal Motion,1,4.0,4.0
+New Mexico,MWC,Targeting,1,12.0,12.0
+New Mexico State,CUSA,False Start,18,86.0,4.78
+New Mexico State,CUSA,Holding,15,74.0,4.93
+New Mexico State,CUSA,Other / Unclassified,15,288.0,19.2
+New Mexico State,CUSA,Offside,9,47.0,5.22
+New Mexico State,CUSA,Pass Interference,7,105.0,15.0
+New Mexico State,CUSA,Personal Foul,6,70.0,11.67
+New Mexico State,CUSA,Illegal Formation,4,30.0,7.5
+New Mexico State,CUSA,Roughing the Passer,2,21.0,10.5
+New Mexico State,CUSA,Delay of Game,1,5.0,5.0
+New Mexico State,CUSA,Roughing the Kicker,1,40.0,40.0
+New Mexico State,CUSA,Unsportsmanlike Conduct,1,15.0,15.0
+North Carolina,ACC,Holding,17,149.0,8.76
+North Carolina,ACC,False Start,10,37.0,3.7
+North Carolina,ACC,Other / Unclassified,6,50.0,8.33
+North Carolina,ACC,Pass Interference,5,60.0,12.0
+North Carolina,ACC,Personal Foul,5,27.0,5.4
+North Carolina,ACC,Offside,4,50.0,12.5
+North Carolina,ACC,Illegal Formation,3,57.0,19.0
+North Carolina,ACC,Roughing the Passer,3,37.0,12.33
+North Carolina,ACC,Delay of Game,2,5.0,2.5
+North Carolina,ACC,Face Mask,1,7.0,7.0
+North Carolina,ACC,Illegal Motion,1,3.0,3.0
+North Carolina,ACC,Unsportsmanlike Conduct,1,1.0,1.0
+Northwestern,Big 10,Other / Unclassified,9,25.0,2.78
+Northwestern,Big 10,Pass Interference,8,105.0,13.12
+Northwestern,Big 10,False Start,6,20.0,3.33
+Northwestern,Big 10,Holding,6,39.0,6.5
+Northwestern,Big 10,Face Mask,4,53.0,13.25
+Northwestern,Big 10,Illegal Formation,3,6.0,2.0
+Northwestern,Big 10,Offside,3,10.0,3.33
+Northwestern,Big 10,Unsportsmanlike Conduct,3,18.0,6.0
+Northwestern,Big 10,Delay of Game,2,5.0,2.5
+Northwestern,Big 10,Personal Foul,2,15.0,7.5
+Northwestern,Big 10,Roughing,1,0.0,0.0
+Notre Dame,Independent,Pass Interference,10,159.0,15.9
+Notre Dame,Independent,False Start,9,40.0,4.44
+Notre Dame,Independent,Holding,8,80.0,10.0
+Notre Dame,Independent,Other / Unclassified,8,54.0,6.75
+Notre Dame,Independent,Personal Foul,3,30.0,10.0
+Notre Dame,Independent,Roughing the Passer,3,43.0,14.33
+Notre Dame,Independent,Offside,2,14.0,7.0
+Notre Dame,Independent,Delay of Game,1,5.0,5.0
+Notre Dame,Independent,Face Mask,1,8.0,8.0
+ODU,SBC,Other / Unclassified,15,168.0,11.2
+ODU,SBC,Holding,11,83.0,7.55
+ODU,SBC,False Start,7,25.0,3.57
+ODU,SBC,Offside,7,21.0,3.0
+ODU,SBC,Pass Interference,7,76.0,10.86
+ODU,SBC,Face Mask,3,36.0,12.0
+ODU,SBC,Personal Foul,3,41.0,13.67
+ODU,SBC,Illegal Formation,2,32.0,16.0
+ODU,SBC,Targeting,2,30.0,15.0
+ODU,SBC,Unsportsmanlike Conduct,2,0.0,0.0
+ODU,SBC,Delay of Game,1,5.0,5.0
+Ohio,MAC,False Start,16,60.0,3.75
+Ohio,MAC,Holding,15,142.0,9.47
+Ohio,MAC,Other / Unclassified,9,71.0,7.89
+Ohio,MAC,Delay of Game,7,35.0,5.0
+Ohio,MAC,Face Mask,4,55.0,13.75
+Ohio,MAC,Offside,4,5.0,1.25
+Ohio,MAC,Pass Interference,4,59.0,14.75
+Ohio,MAC,Personal Foul,4,10.0,2.5
+Ohio,MAC,Unsportsmanlike Conduct,2,64.0,32.0
+Ohio,MAC,Illegal Formation,1,0.0,0.0
+Ohio,MAC,Roughing the Passer,1,15.0,15.0
+Ohio,MAC,Targeting,1,5.0,5.0
+Ohio State,Big 10,False Start,8,40.0,5.0
+Ohio State,Big 10,Holding,6,30.0,5.0
+Ohio State,Big 10,Offside,4,5.0,1.25
+Ohio State,Big 10,Other / Unclassified,4,128.0,32.0
+Ohio State,Big 10,Delay of Game,3,15.0,5.0
+Ohio State,Big 10,Face Mask,2,30.0,15.0
+Ohio State,Big 10,Illegal Formation,2,13.0,6.5
+Ohio State,Big 10,Pass Interference,2,23.0,11.5
+Ohio State,Big 10,Personal Foul,2,15.0,7.5
+Ohio State,Big 10,Roughing the Passer,2,30.0,15.0
+Ohio State,Big 10,Unsportsmanlike Conduct,2,0.0,0.0
+Oklahoma,SEC,Holding,14,70.0,5.0
+Oklahoma,SEC,False Start,11,35.0,3.18
+Oklahoma,SEC,Other / Unclassified,6,25.0,4.17
+Oklahoma,SEC,Pass Interference,6,48.0,8.0
+Oklahoma,SEC,Personal Foul,4,33.0,8.25
+Oklahoma,SEC,Delay of Game,3,15.0,5.0
+Oklahoma,SEC,Illegal Formation,3,10.0,3.33
+Oklahoma,SEC,Face Mask,2,24.0,12.0
+Oklahoma,SEC,Offside,1,0.0,0.0
+Oklahoma,SEC,Roughing the Passer,1,0.0,0.0
+Oklahoma State,Big 12,False Start,10,25.0,2.5
+Oklahoma State,Big 12,Other / Unclassified,10,39.0,3.9
+Oklahoma State,Big 12,Holding,9,0.0,0.0
+Oklahoma State,Big 12,Pass Interference,8,29.0,3.62
+Oklahoma State,Big 12,Delay of Game,3,15.0,5.0
+Oklahoma State,Big 12,Face Mask,2,5.0,2.5
+Oklahoma State,Big 12,Personal Foul,2,15.0,7.5
+Oklahoma State,Big 12,Targeting,2,22.0,11.0
+Oklahoma State,Big 12,Illegal Formation,1,2.0,2.0
+Oklahoma State,Big 12,Offside,1,45.0,45.0
+Oklahoma State,Big 12,Roughing,1,0.0,0.0
+Ole Miss,SEC,Holding,19,164.0,8.63
+Ole Miss,SEC,False Start,10,19.0,1.9
+Ole Miss,SEC,Other / Unclassified,8,50.0,6.25
+Ole Miss,SEC,Pass Interference,7,139.0,19.86
+Ole Miss,SEC,Delay of Game,4,20.0,5.0
+Ole Miss,SEC,Offside,4,9.0,2.25
+Ole Miss,SEC,Face Mask,3,62.0,20.67
+Ole Miss,SEC,Illegal Formation,3,100.0,33.33
+Ole Miss,SEC,Roughing,3,45.0,15.0
+Ole Miss,SEC,Personal Foul,2,1.0,0.5
+Ole Miss,SEC,Unsportsmanlike Conduct,1,15.0,15.0
+Oregon,Big 10,Holding,14,123.0,8.79
+Oregon,Big 10,False Start,11,49.0,4.45
+Oregon,Big 10,Offside,8,47.0,5.88
+Oregon,Big 10,Other / Unclassified,8,49.0,6.12
+Oregon,Big 10,Face Mask,3,35.0,11.67
+Oregon,Big 10,Pass Interference,3,28.0,9.33
+Oregon,Big 10,Unsportsmanlike Conduct,3,30.0,10.0
+Oregon,Big 10,Delay of Game,1,5.0,5.0
+Oregon,Big 10,Illegal Formation,1,41.0,41.0
+Oregon,Big 10,Personal Foul,1,15.0,15.0
+Oregon,Big 10,Roughing the Passer,1,0.0,0.0
+Oregon,Big 10,Targeting,1,7.0,7.0
+Oregon State,Pac 12,Holding,16,163.0,10.19
+Oregon State,Pac 12,False Start,12,60.0,5.0
+Oregon State,Pac 12,Other / Unclassified,11,19.0,1.73
+Oregon State,Pac 12,Offside,9,78.0,8.67
+Oregon State,Pac 12,Pass Interference,6,62.0,10.33
+Oregon State,Pac 12,Unsportsmanlike Conduct,5,44.0,8.8
+Oregon State,Pac 12,Delay of Game,4,20.0,5.0
+Oregon State,Pac 12,Face Mask,2,19.0,9.5
+Oregon State,Pac 12,Roughing the Passer,2,30.0,15.0
+Oregon State,Pac 12,Personal Foul,1,0.0,0.0
+Oregon State,Pac 12,Roughing,1,0.0,0.0
+Oregon State,Pac 12,Targeting,1,15.0,15.0
+Penn State,Big 10,False Start,9,25.0,2.78
+Penn State,Big 10,Offside,5,13.0,2.6
+Penn State,Big 10,Holding,3,1.0,0.33
+Penn State,Big 10,Pass Interference,3,30.0,10.0
+Penn State,Big 10,Other / Unclassified,2,9.0,4.5
+Penn State,Big 10,Delay of Game,1,5.0,5.0
+Penn State,Big 10,Illegal Motion,1,14.0,14.0
+Penn State,Big 10,Targeting,1,15.0,15.0
+Penn State,Big 10,Unsportsmanlike Conduct,1,0.0,0.0
+Pittsburgh,ACC,Holding,18,163.0,9.06
+Pittsburgh,ACC,Other / Unclassified,17,174.0,10.24
+Pittsburgh,ACC,False Start,14,70.0,5.0
+Pittsburgh,ACC,Pass Interference,9,136.0,15.11
+Pittsburgh,ACC,Personal Foul,7,61.0,8.71
+Pittsburgh,ACC,Offside,6,18.0,3.0
+Pittsburgh,ACC,Face Mask,5,54.0,10.8
+Pittsburgh,ACC,Unsportsmanlike Conduct,4,30.0,7.5
+Pittsburgh,ACC,Delay of Game,3,15.0,5.0
+Pittsburgh,ACC,Roughing the Passer,2,46.0,23.0
+Pittsburgh,ACC,Illegal Motion,1,5.0,5.0
+Pittsburgh,ACC,Targeting,1,0.0,0.0
+Purdue,Big 10,Holding,12,103.0,8.58
+Purdue,Big 10,Pass Interference,9,94.0,10.44
+Purdue,Big 10,Other / Unclassified,8,70.0,8.75
+Purdue,Big 10,Offside,6,45.0,7.5
+Purdue,Big 10,False Start,5,25.0,5.0
+Purdue,Big 10,Personal Foul,3,55.0,18.33
+Purdue,Big 10,Roughing the Passer,2,12.0,6.0
+Purdue,Big 10,Face Mask,1,0.0,0.0
+Purdue,Big 10,Illegal Formation,1,39.0,39.0
+Purdue,Big 10,Unsportsmanlike Conduct,1,15.0,15.0
+Rice,American,False Start,8,35.0,4.38
+Rice,American,Holding,8,132.0,16.5
+Rice,American,Other / Unclassified,8,131.0,16.38
+Rice,American,Personal Foul,5,55.0,11.0
+Rice,American,Offside,4,19.0,4.75
+Rice,American,Pass Interference,3,30.0,10.0
+Rice,American,Face Mask,2,21.0,10.5
+Rice,American,Roughing the Passer,2,1.0,0.5
+Rice,American,Unsportsmanlike Conduct,2,30.0,15.0
+Rice,American,Illegal Formation,1,0.0,0.0
+Rice,American,Illegal Motion,1,5.0,5.0
+Rutgers,Big 10,Pass Interference,13,138.0,10.62
+Rutgers,Big 10,False Start,8,31.0,3.88
+Rutgers,Big 10,Holding,7,32.0,4.57
+Rutgers,Big 10,Other / Unclassified,7,118.0,16.86
+Rutgers,Big 10,Delay of Game,4,20.0,5.0
+Rutgers,Big 10,Offside,4,11.0,2.75
+Rutgers,Big 10,Personal Foul,2,0.0,0.0
+Rutgers,Big 10,Illegal Formation,1,2.0,2.0
+Rutgers,Big 10,Unsportsmanlike Conduct,1,0.0,0.0
+S Alabama,SBC,Holding,19,112.0,5.89
+S Alabama,SBC,False Start,16,55.0,3.44
+S Alabama,SBC,Other / Unclassified,11,72.0,6.55
+S Alabama,SBC,Offside,10,39.0,3.9
+S Alabama,SBC,Illegal Formation,6,68.0,11.33
+S Alabama,SBC,Pass Interference,5,54.0,10.8
+S Alabama,SBC,Delay of Game,4,20.0,5.0
+S Alabama,SBC,Face Mask,2,30.0,15.0
+S Alabama,SBC,Roughing the Passer,2,30.0,15.0
+S Alabama,SBC,Personal Foul,1,0.0,0.0
+S Alabama,SBC,Roughing,1,0.0,0.0
+S Alabama,SBC,Targeting,1,6.0,6.0
+S Alabama,SBC,Unsportsmanlike Conduct,1,15.0,15.0
+SMU,ACC,Holding,18,180.0,10.0
+SMU,ACC,Other / Unclassified,14,59.0,4.21
+SMU,ACC,Personal Foul,9,110.0,12.22
+SMU,ACC,Unsportsmanlike Conduct,9,105.0,11.67
+SMU,ACC,Pass Interference,7,86.0,12.29
+SMU,ACC,Offside,6,30.0,5.0
+SMU,ACC,False Start,4,20.0,5.0
+SMU,ACC,Face Mask,3,18.0,6.0
+SMU,ACC,Illegal Formation,2,11.0,5.5
+SMU,ACC,Delay of Game,1,5.0,5.0
+Sam Houston,CUSA,Holding,13,153.0,11.77
+Sam Houston,CUSA,Other / Unclassified,11,94.0,8.55
+Sam Houston,CUSA,Pass Interference,10,77.0,7.7
+Sam Houston,CUSA,Delay of Game,8,40.0,5.0
+Sam Houston,CUSA,False Start,7,35.0,5.0
+Sam Houston,CUSA,Personal Foul,4,0.0,0.0
+Sam Houston,CUSA,Face Mask,3,38.0,12.67
+Sam Houston,CUSA,Offside,2,8.0,4.0
+Sam Houston,CUSA,Unsportsmanlike Conduct,2,30.0,15.0
+Sam Houston,CUSA,Illegal Formation,1,45.0,45.0
+Sam Houston,CUSA,Illegal Motion,1,46.0,46.0
+Sam Houston,CUSA,Targeting,1,15.0,15.0
+San Diego State,MWC,Holding,17,134.0,7.88
+San Diego State,MWC,False Start,10,50.0,5.0
+San Diego State,MWC,Offside,9,32.0,3.56
+San Diego State,MWC,Other / Unclassified,6,46.0,7.67
+San Diego State,MWC,Pass Interference,6,117.0,19.5
+San Diego State,MWC,Delay of Game,3,10.0,3.33
+San Diego State,MWC,Illegal Formation,2,51.0,25.5
+San Diego State,MWC,Personal Foul,1,0.0,0.0
+San Diego State,MWC,Targeting,1,15.0,15.0
+San Diego State,MWC,Unsportsmanlike Conduct,1,15.0,15.0
+San Jose St,MWC,Holding,15,120.0,8.0
+San Jose St,MWC,False Start,14,105.0,7.5
+San Jose St,MWC,Other / Unclassified,12,95.0,7.92
+San Jose St,MWC,Offside,9,49.0,5.44
+San Jose St,MWC,Pass Interference,5,63.0,12.6
+San Jose St,MWC,Unsportsmanlike Conduct,4,31.0,7.75
+San Jose St,MWC,Delay of Game,2,6.0,3.0
+San Jose St,MWC,Personal Foul,2,6.0,3.0
+San Jose St,MWC,Roughing the Kicker,2,52.0,26.0
+San Jose St,MWC,Illegal Formation,1,48.0,48.0
+San Jose St,MWC,Roughing,1,15.0,15.0
+South Carolina,SEC,False Start,23,108.0,4.7
+South Carolina,SEC,Other / Unclassified,15,135.0,9.0
+South Carolina,SEC,Holding,11,72.0,6.55
+South Carolina,SEC,Pass Interference,9,116.0,12.89
+South Carolina,SEC,Offside,4,15.0,3.75
+South Carolina,SEC,Delay of Game,3,15.0,5.0
+South Carolina,SEC,Personal Foul,1,0.0,0.0
+Southern Miss,SBC,Other / Unclassified,16,149.0,9.31
+Southern Miss,SBC,Holding,13,79.0,6.08
+Southern Miss,SBC,False Start,11,55.0,5.0
+Southern Miss,SBC,Offside,11,35.0,3.18
+Southern Miss,SBC,Pass Interference,8,78.0,9.75
+Southern Miss,SBC,Delay of Game,6,25.0,4.17
+Southern Miss,SBC,Personal Foul,4,45.0,11.25
+Southern Miss,SBC,Roughing the Passer,4,15.0,3.75
+Southern Miss,SBC,Face Mask,1,2.0,2.0
+Southern Miss,SBC,Targeting,1,0.0,0.0
+Stanford,ACC,Holding,12,123.0,10.25
+Stanford,ACC,Other / Unclassified,12,141.0,11.75
+Stanford,ACC,False Start,10,40.0,4.0
+Stanford,ACC,Offside,9,108.0,12.0
+Stanford,ACC,Pass Interference,9,75.0,8.33
+Stanford,ACC,Delay of Game,6,20.0,3.33
+Stanford,ACC,Personal Foul,3,7.0,2.33
+Stanford,ACC,Unsportsmanlike Conduct,3,38.0,12.67
+Stanford,ACC,Face Mask,1,15.0,15.0
+Stanford,ACC,Illegal Motion,1,42.0,42.0
+Stanford,ACC,Roughing,1,0.0,0.0
+Stanford,ACC,Roughing the Passer,1,15.0,15.0
+Syracuse,ACC,False Start,13,65.0,5.0
+Syracuse,ACC,Holding,13,139.0,10.69
+Syracuse,ACC,Pass Interference,9,77.0,8.56
+Syracuse,ACC,Delay of Game,7,35.0,5.0
+Syracuse,ACC,Offside,7,36.0,5.14
+Syracuse,ACC,Other / Unclassified,6,15.0,2.5
+Syracuse,ACC,Personal Foul,5,134.0,26.8
+Syracuse,ACC,Roughing the Passer,3,30.0,10.0
+Syracuse,ACC,Illegal Motion,2,52.0,26.0
+TCU,Big 12,False Start,15,65.0,4.33
+TCU,Big 12,Holding,14,159.0,11.36
+TCU,Big 12,Pass Interference,12,174.0,14.5
+TCU,Big 12,Other / Unclassified,8,78.0,9.75
+TCU,Big 12,Face Mask,3,49.0,16.33
+TCU,Big 12,Personal Foul,3,0.0,0.0
+TCU,Big 12,Unsportsmanlike Conduct,2,15.0,7.5
+TCU,Big 12,Delay of Game,1,5.0,5.0
+TCU,Big 12,Illegal Formation,1,48.0,48.0
+TCU,Big 12,Offside,1,0.0,0.0
+Temple,American,Offside,8,53.0,6.62
+Temple,American,Holding,7,67.0,9.57
+Temple,American,Other / Unclassified,7,50.0,7.14
+Temple,American,False Start,5,25.0,5.0
+Temple,American,Pass Interference,4,48.0,12.0
+Tennessee,SEC,False Start,16,65.0,4.06
+Tennessee,SEC,Holding,13,119.0,9.15
+Tennessee,SEC,Pass Interference,11,167.0,15.18
+Tennessee,SEC,Other / Unclassified,10,93.0,9.3
+Tennessee,SEC,Personal Foul,7,44.0,6.29
+Tennessee,SEC,Offside,5,25.0,5.0
+Tennessee,SEC,Unsportsmanlike Conduct,3,65.0,21.67
+Tennessee,SEC,Delay of Game,2,9.0,4.5
+Tennessee,SEC,Face Mask,2,14.0,7.0
+Tennessee,SEC,Illegal Formation,2,29.0,14.5
+Tennessee,SEC,Roughing the Passer,2,15.0,7.5
+Texas,SEC,False Start,21,95.0,4.52
+Texas,SEC,Holding,17,108.0,6.35
+Texas,SEC,Other / Unclassified,11,43.0,3.91
+Texas,SEC,Pass Interference,4,32.0,8.0
+Texas,SEC,Delay of Game,3,15.0,5.0
+Texas,SEC,Offside,3,8.0,2.67
+Texas,SEC,Face Mask,2,15.0,7.5
+Texas,SEC,Roughing the Passer,2,21.0,10.5
+Texas,SEC,Illegal Formation,1,5.0,5.0
+Texas A&M,SEC,Holding,18,167.0,9.28
+Texas A&M,SEC,False Start,16,20.0,1.25
+Texas A&M,SEC,Other / Unclassified,8,42.0,5.25
+Texas A&M,SEC,Pass Interference,5,26.0,5.2
+Texas A&M,SEC,Personal Foul,5,15.0,3.0
+Texas A&M,SEC,Delay of Game,4,20.0,5.0
+Texas A&M,SEC,Offside,3,5.0,1.67
+Texas A&M,SEC,Unsportsmanlike Conduct,3,15.0,5.0
+Texas A&M,SEC,Face Mask,1,1.0,1.0
+Texas A&M,SEC,Illegal Formation,1,5.0,5.0
+Texas A&M,SEC,Roughing the Passer,1,15.0,15.0
+Texas State,SBC,Holding,16,135.0,8.44
+Texas State,SBC,Other / Unclassified,11,208.0,18.91
+Texas State,SBC,False Start,10,35.0,3.5
+Texas State,SBC,Pass Interference,5,66.0,13.2
+Texas State,SBC,Face Mask,3,36.0,12.0
+Texas State,SBC,Personal Foul,3,65.0,21.67
+Texas State,SBC,Offside,2,0.0,0.0
+Texas State,SBC,Roughing the Passer,1,6.0,6.0
+Texas Tech,Big 12,False Start,23,80.0,3.48
+Texas Tech,Big 12,Holding,15,106.0,7.07
+Texas Tech,Big 12,Other / Unclassified,7,27.0,3.86
+Texas Tech,Big 12,Offside,6,70.0,11.67
+Texas Tech,Big 12,Pass Interference,5,56.0,11.2
+Texas Tech,Big 12,Face Mask,2,17.0,8.5
+Texas Tech,Big 12,Personal Foul,2,15.0,7.5
+Texas Tech,Big 12,Unsportsmanlike Conduct,2,27.0,13.5
+Texas Tech,Big 12,Illegal Motion,1,1.0,1.0
+Texas Tech,Big 12,Roughing the Passer,1,12.0,12.0
+Toledo,MAC,False Start,14,69.0,4.93
+Toledo,MAC,Holding,12,120.0,10.0
+Toledo,MAC,Pass Interference,11,129.0,11.73
+Toledo,MAC,Delay of Game,4,20.0,5.0
+Toledo,MAC,Other / Unclassified,3,7.0,2.33
+Toledo,MAC,Unsportsmanlike Conduct,3,0.0,0.0
+Toledo,MAC,Offside,2,2.0,1.0
+Toledo,MAC,Personal Foul,2,18.0,9.0
+Toledo,MAC,Face Mask,1,12.0,12.0
+Toledo,MAC,Roughing the Passer,1,15.0,15.0
+Troy,SBC,False Start,10,45.0,4.5
+Troy,SBC,Holding,10,48.0,4.8
+Troy,SBC,Other / Unclassified,6,34.0,5.67
+Troy,SBC,Pass Interference,6,44.0,7.33
+Troy,SBC,Personal Foul,4,76.0,19.0
+Troy,SBC,Roughing the Passer,3,30.0,10.0
+Troy,SBC,Unsportsmanlike Conduct,3,15.0,5.0
+Troy,SBC,Delay of Game,2,10.0,5.0
+Troy,SBC,Illegal Formation,2,73.0,36.5
+Troy,SBC,Offside,2,5.0,2.5
+Tulane,American,Holding,17,197.0,11.59
+Tulane,American,False Start,14,59.0,4.21
+Tulane,American,Pass Interference,9,136.0,15.11
+Tulane,American,Other / Unclassified,6,28.0,4.67
+Tulane,American,Face Mask,3,14.0,4.67
+Tulane,American,Personal Foul,3,19.0,6.33
+Tulane,American,Delay of Game,2,10.0,5.0
+Tulane,American,Roughing the Passer,2,15.0,7.5
+Tulane,American,Unsportsmanlike Conduct,2,0.0,0.0
+Tulane,American,Illegal Formation,1,0.0,0.0
+Tulane,American,Illegal Motion,1,0.0,0.0
+Tulane,American,Offside,1,0.0,0.0
+Tulane,American,Roughing,1,15.0,15.0
+Tulane,American,Roughing the Kicker,1,41.0,41.0
+Tulsa,American,Pass Interference,15,217.0,14.47
+Tulsa,American,False Start,9,45.0,5.0
+Tulsa,American,Other / Unclassified,9,39.0,4.33
+Tulsa,American,Holding,8,27.0,3.38
+Tulsa,American,Delay of Game,3,10.0,3.33
+Tulsa,American,Offside,3,13.0,4.33
+Tulsa,American,Personal Foul,2,24.0,12.0
+Tulsa,American,Roughing the Passer,2,58.0,29.0
+Tulsa,American,Illegal Formation,1,0.0,0.0
+UAB,American,False Start,17,82.0,4.82
+UAB,American,Holding,15,191.0,12.73
+UAB,American,Other / Unclassified,10,45.0,4.5
+UAB,American,Pass Interference,5,65.0,13.0
+UAB,American,Offside,4,10.0,2.5
+UAB,American,Delay of Game,3,15.0,5.0
+UAB,American,Illegal Formation,3,48.0,16.0
+UAB,American,Personal Foul,3,6.0,2.0
+UAB,American,Illegal Motion,1,10.0,10.0
+UAB,American,Unsportsmanlike Conduct,1,65.0,65.0
+UCF,Big 12,False Start,20,90.0,4.5
+UCF,Big 12,Other / Unclassified,15,121.0,8.07
+UCF,Big 12,Holding,12,100.0,8.33
+UCF,Big 12,Delay of Game,8,30.0,3.75
+UCF,Big 12,Offside,4,37.0,9.25
+UCF,Big 12,Pass Interference,3,45.0,15.0
+UCF,Big 12,Face Mask,2,21.0,10.5
+UCF,Big 12,Illegal Formation,2,43.0,21.5
+UCF,Big 12,Targeting,2,14.0,7.0
+UCF,Big 12,Illegal Motion,1,5.0,5.0
+UCF,Big 12,Personal Foul,1,4.0,4.0
+UCF,Big 12,Roughing the Passer,1,15.0,15.0
+UCLA,Big 10,False Start,22,61.0,2.77
+UCLA,Big 10,Holding,12,73.0,6.08
+UCLA,Big 10,Other / Unclassified,8,64.0,8.0
+UCLA,Big 10,Unsportsmanlike Conduct,6,53.0,8.83
+UCLA,Big 10,Pass Interference,5,53.0,10.6
+UCLA,Big 10,Personal Foul,5,12.0,2.4
+UCLA,Big 10,Illegal Formation,4,11.0,2.75
+UCLA,Big 10,Delay of Game,1,0.0,0.0
+UCLA,Big 10,Roughing the Passer,1,0.0,0.0
+UConn,Independent,Holding,21,140.0,6.67
+UConn,Independent,Other / Unclassified,7,30.0,4.29
+UConn,Independent,Personal Foul,7,102.0,14.57
+UConn,Independent,False Start,6,30.0,5.0
+UConn,Independent,Pass Interference,6,72.0,12.0
+UConn,Independent,Offside,4,47.0,11.75
+UConn,Independent,Unsportsmanlike Conduct,4,131.0,32.75
+UConn,Independent,Roughing the Passer,3,22.0,7.33
+UConn,Independent,Illegal Formation,1,8.0,8.0
+UL Monroe,SBC,Holding,19,216.0,11.37
+UL Monroe,SBC,False Start,11,28.0,2.55
+UL Monroe,SBC,Other / Unclassified,11,104.0,9.45
+UL Monroe,SBC,Pass Interference,5,36.0,7.2
+UL Monroe,SBC,Delay of Game,4,15.0,3.75
+UL Monroe,SBC,Face Mask,4,45.0,11.25
+UL Monroe,SBC,Illegal Formation,4,81.0,20.25
+UL Monroe,SBC,Offside,3,19.0,6.33
+UL Monroe,SBC,Unsportsmanlike Conduct,3,17.0,5.67
+UL Monroe,SBC,Personal Foul,1,8.0,8.0
+UL Monroe,SBC,Targeting,1,34.0,34.0
+UMass,MAC,False Start,17,57.0,3.35
+UMass,MAC,Holding,17,161.0,9.47
+UMass,MAC,Other / Unclassified,17,72.0,4.24
+UMass,MAC,Face Mask,4,31.0,7.75
+UMass,MAC,Personal Foul,4,105.0,26.25
+UMass,MAC,Illegal Formation,3,35.0,11.67
+UMass,MAC,Pass Interference,3,30.0,10.0
+UMass,MAC,Offside,2,10.0,5.0
+UMass,MAC,Unsportsmanlike Conduct,2,7.0,3.5
+UMass,MAC,Illegal Motion,1,0.0,0.0
+UMass,MAC,Roughing the Passer,1,18.0,18.0
+UNLV,MWC,Holding,19,202.0,10.63
+UNLV,MWC,False Start,13,56.0,4.31
+UNLV,MWC,Pass Interference,10,144.0,14.4
+UNLV,MWC,Personal Foul,9,132.0,14.67
+UNLV,MWC,Offside,6,84.0,14.0
+UNLV,MWC,Other / Unclassified,6,77.0,12.83
+UNLV,MWC,Unsportsmanlike Conduct,3,31.0,10.33
+UNLV,MWC,Delay of Game,2,10.0,5.0
+UNLV,MWC,Face Mask,2,9.0,4.5
+UNLV,MWC,Illegal Formation,1,0.0,0.0
+USC,Big 10,Pass Interference,15,176.0,11.73
+USC,Big 10,Other / Unclassified,13,135.0,10.38
+USC,Big 10,False Start,8,39.0,4.88
+USC,Big 10,Holding,5,21.0,4.2
+USC,Big 10,Delay of Game,4,21.0,5.25
+USC,Big 10,Offside,4,27.0,6.75
+USC,Big 10,Illegal Formation,3,46.0,15.33
+USC,Big 10,Face Mask,2,14.0,7.0
+USC,Big 10,Unsportsmanlike Conduct,2,1.0,0.5
+USC,Big 10,Personal Foul,1,0.0,0.0
+USF,American,Holding,11,125.0,11.36
+USF,American,Other / Unclassified,10,61.0,6.1
+USF,American,False Start,7,35.0,5.0
+USF,American,Pass Interference,6,106.0,17.67
+USF,American,Personal Foul,6,30.0,5.0
+USF,American,Offside,4,20.0,5.0
+USF,American,Unsportsmanlike Conduct,4,45.0,11.25
+USF,American,Face Mask,1,15.0,15.0
+USF,American,Illegal Motion,1,46.0,46.0
+USF,American,Roughing the Passer,1,0.0,0.0
+UTEP,CUSA,Holding,14,188.0,13.43
+UTEP,CUSA,Other / Unclassified,9,70.0,7.78
+UTEP,CUSA,Offside,5,15.0,3.0
+UTEP,CUSA,Personal Foul,5,72.0,14.4
+UTEP,CUSA,Unsportsmanlike Conduct,5,71.0,14.2
+UTEP,CUSA,False Start,4,17.0,4.25
+UTEP,CUSA,Pass Interference,4,41.0,10.25
+UTEP,CUSA,Delay of Game,3,5.0,1.67
+UTEP,CUSA,Face Mask,1,6.0,6.0
+UTEP,CUSA,Illegal Formation,1,0.0,0.0
+UTEP,CUSA,Roughing,1,0.0,0.0
+UTEP,CUSA,Roughing the Passer,1,14.0,14.0
+UTSA,American,False Start,15,78.0,5.2
+UTSA,American,Other / Unclassified,14,82.0,5.86
+UTSA,American,Holding,11,110.0,10.0
+UTSA,American,Pass Interference,10,147.0,14.7
+UTSA,American,Face Mask,4,46.0,11.5
+UTSA,American,Offside,4,42.0,10.5
+UTSA,American,Delay of Game,2,10.0,5.0
+UTSA,American,Personal Foul,2,31.0,15.5
+UTSA,American,Unsportsmanlike Conduct,2,14.0,7.0
+UTSA,American,Illegal Formation,1,1.0,1.0
+UTSA,American,Targeting,1,15.0,15.0
+Utah,Big 12,Pass Interference,13,87.0,6.69
+Utah,Big 12,Holding,11,61.0,5.55
+Utah,Big 12,Other / Unclassified,10,37.0,3.7
+Utah,Big 12,False Start,9,26.0,2.89
+Utah,Big 12,Personal Foul,5,17.0,3.4
+Utah,Big 12,Face Mask,3,26.0,8.67
+Utah,Big 12,Delay of Game,2,10.0,5.0
+Utah,Big 12,Offside,2,6.0,3.0
+Utah,Big 12,Illegal Motion,1,6.0,6.0
+Utah,Big 12,Unsportsmanlike Conduct,1,15.0,15.0
+Utah State,MWC,Holding,26,181.0,6.96
+Utah State,MWC,Other / Unclassified,13,55.0,4.23
+Utah State,MWC,False Start,10,37.0,3.7
+Utah State,MWC,Pass Interference,6,49.0,8.17
+Utah State,MWC,Face Mask,5,111.0,22.2
+Utah State,MWC,Delay of Game,4,20.0,5.0
+Utah State,MWC,Illegal Formation,4,18.0,4.5
+Utah State,MWC,Offside,3,75.0,25.0
+Utah State,MWC,Personal Foul,2,0.0,0.0
+Utah State,MWC,Roughing,2,15.0,7.5
+Utah State,MWC,Roughing the Kicker,1,36.0,36.0
+Utah State,MWC,Unsportsmanlike Conduct,1,39.0,39.0
+Vanderbilt,SEC,Holding,22,186.0,8.45
+Vanderbilt,SEC,False Start,13,53.0,4.08
+Vanderbilt,SEC,Pass Interference,10,110.0,11.0
+Vanderbilt,SEC,Other / Unclassified,7,98.0,14.0
+Vanderbilt,SEC,Delay of Game,6,30.0,5.0
+Vanderbilt,SEC,Personal Foul,6,82.0,13.67
+Vanderbilt,SEC,Roughing the Passer,5,30.0,6.0
+Vanderbilt,SEC,Face Mask,4,21.0,5.25
+Vanderbilt,SEC,Offside,4,15.0,3.75
+Vanderbilt,SEC,Unsportsmanlike Conduct,3,0.0,0.0
+Vanderbilt,SEC,Illegal Formation,1,46.0,46.0
+Virginia,ACC,False Start,19,95.0,5.0
+Virginia,ACC,Holding,15,155.0,10.33
+Virginia,ACC,Other / Unclassified,11,114.0,10.36
+Virginia,ACC,Offside,3,14.0,4.67
+Virginia,ACC,Pass Interference,3,41.0,13.67
+Virginia,ACC,Personal Foul,3,70.0,23.33
+Virginia,ACC,Illegal Formation,2,50.0,25.0
+Virginia,ACC,Roughing the Passer,2,65.0,32.5
+Virginia,ACC,Delay of Game,1,5.0,5.0
+Virginia,ACC,Roughing,1,15.0,15.0
+Virginia,ACC,Unsportsmanlike Conduct,1,15.0,15.0
+Virginia Tech,ACC,False Start,16,70.0,4.38
+Virginia Tech,ACC,Other / Unclassified,12,51.0,4.25
+Virginia Tech,ACC,Holding,11,85.0,7.73
+Virginia Tech,ACC,Offside,7,13.0,1.86
+Virginia Tech,ACC,Pass Interference,7,68.0,9.71
+Virginia Tech,ACC,Personal Foul,5,0.0,0.0
+Virginia Tech,ACC,Delay of Game,4,20.0,5.0
+Virginia Tech,ACC,Face Mask,4,45.0,11.25
+Virginia Tech,ACC,Illegal Formation,1,5.0,5.0
+Virginia Tech,ACC,Roughing the Passer,1,15.0,15.0
+Virginia Tech,ACC,Unsportsmanlike Conduct,1,5.0,5.0
+W Michigan,MAC,Holding,9,47.0,5.22
+W Michigan,MAC,Pass Interference,7,89.0,12.71
+W Michigan,MAC,Other / Unclassified,6,56.0,9.33
+W Michigan,MAC,Personal Foul,6,94.0,15.67
+W Michigan,MAC,False Start,4,15.0,3.75
+W Michigan,MAC,Unsportsmanlike Conduct,4,7.0,1.75
+W Michigan,MAC,Delay of Game,3,10.0,3.33
+W Michigan,MAC,Offside,2,10.0,5.0
+W Michigan,MAC,Face Mask,1,15.0,15.0
+W Michigan,MAC,Illegal Formation,1,35.0,35.0
+WKU,CUSA,Holding,13,104.0,8.0
+WKU,CUSA,Offside,8,36.0,4.5
+WKU,CUSA,Pass Interference,7,74.0,10.57
+WKU,CUSA,False Start,6,29.0,4.83
+WKU,CUSA,Other / Unclassified,4,69.0,17.25
+WKU,CUSA,Face Mask,2,30.0,15.0
+WKU,CUSA,Illegal Formation,2,12.0,6.0
+WKU,CUSA,Personal Foul,2,16.0,8.0
+WKU,CUSA,Roughing the Passer,2,0.0,0.0
+WKU,CUSA,Unsportsmanlike Conduct,2,0.0,0.0
+WKU,CUSA,Targeting,1,11.0,11.0
+Wake Forest,ACC,Holding,16,206.0,12.88
+Wake Forest,ACC,False Start,15,70.0,4.67
+Wake Forest,ACC,Other / Unclassified,14,88.0,6.29
+Wake Forest,ACC,Pass Interference,6,90.0,15.0
+Wake Forest,ACC,Unsportsmanlike Conduct,5,103.0,20.6
+Wake Forest,ACC,Illegal Formation,3,46.0,15.33
+Wake Forest,ACC,Offside,3,10.0,3.33
+Wake Forest,ACC,Personal Foul,2,14.0,7.0
+Wake Forest,ACC,Roughing the Passer,2,30.0,15.0
+Wake Forest,ACC,Delay of Game,1,5.0,5.0
+Wake Forest,ACC,Illegal Motion,1,0.0,0.0
+Washington,Big 10,False Start,15,70.0,4.67
+Washington,Big 10,Holding,8,54.0,6.75
+Washington,Big 10,Other / Unclassified,8,135.0,16.88
+Washington,Big 10,Personal Foul,5,16.0,3.2
+Washington,Big 10,Unsportsmanlike Conduct,4,23.0,5.75
+Washington,Big 10,Offside,3,0.0,0.0
+Washington,Big 10,Face Mask,2,18.0,9.0
+Washington,Big 10,Illegal Formation,2,36.0,18.0
+Washington,Big 10,Pass Interference,1,0.0,0.0
+Washington,Big 10,Roughing the Passer,1,0.0,0.0
+Washington,Big 10,Targeting,1,3.0,3.0
+Washington State,Pac 12,False Start,17,74.0,4.35
+Washington State,Pac 12,Holding,16,136.0,8.5
+Washington State,Pac 12,Other / Unclassified,10,102.0,10.2
+Washington State,Pac 12,Offside,9,78.0,8.67
+Washington State,Pac 12,Pass Interference,5,74.0,14.8
+Washington State,Pac 12,Delay of Game,4,20.0,5.0
+Washington State,Pac 12,Face Mask,3,21.0,7.0
+Washington State,Pac 12,Illegal Formation,3,28.0,9.33
+Washington State,Pac 12,Personal Foul,1,15.0,15.0
+Washington State,Pac 12,Roughing the Passer,1,15.0,15.0
+Washington State,Pac 12,Unsportsmanlike Conduct,1,0.0,0.0
+West Virginia,Big 12,False Start,16,80.0,5.0
+West Virginia,Big 12,Holding,12,114.0,9.5
+West Virginia,Big 12,Pass Interference,10,144.0,14.4
+West Virginia,Big 12,Offside,9,121.0,13.44
+West Virginia,Big 12,Other / Unclassified,7,33.0,4.71
+West Virginia,Big 12,Face Mask,3,59.0,19.67
+West Virginia,Big 12,Personal Foul,3,0.0,0.0
+West Virginia,Big 12,Delay of Game,1,5.0,5.0
+West Virginia,Big 12,Illegal Formation,1,28.0,28.0
+Wisconsin,Big 10,Other / Unclassified,8,66.0,8.25
+Wisconsin,Big 10,False Start,6,30.0,5.0
+Wisconsin,Big 10,Holding,5,20.0,4.0
+Wisconsin,Big 10,Personal Foul,5,33.0,6.6
+Wisconsin,Big 10,Pass Interference,4,47.0,11.75
+Wisconsin,Big 10,Delay of Game,3,10.0,3.33
+Wisconsin,Big 10,Offside,3,5.0,1.67
+Wisconsin,Big 10,Roughing the Passer,1,15.0,15.0
+Wisconsin,Big 10,Unsportsmanlike Conduct,1,15.0,15.0
+Wyoming,MWC,False Start,17,61.0,3.59
+Wyoming,MWC,Holding,17,151.0,8.88
+Wyoming,MWC,Pass Interference,11,136.0,12.36
+Wyoming,MWC,Delay of Game,7,26.0,3.71
+Wyoming,MWC,Other / Unclassified,7,25.0,3.57
+Wyoming,MWC,Face Mask,5,39.0,7.8
+Wyoming,MWC,Personal Foul,3,123.0,41.0
+Wyoming,MWC,Offside,2,24.0,12.0
+Wyoming,MWC,Unsportsmanlike Conduct,2,25.0,12.5
+Wyoming,MWC,Roughing,1,0.0,0.0
+Wyoming,MWC,Roughing the Passer,1,1.0,1.0
