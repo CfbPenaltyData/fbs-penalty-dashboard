@@ -1,0 +1,1746 @@
+committer,penalty_type,penalty_category,total_penalties,total_yards,avg_yards_per_penalty
+Air Force,Delay of Game,Procedural,1,2.0,2.0
+Air Force,Face Mask,Other,2,17.0,8.5
+Air Force,False Start,Procedural,8,35.0,4.38
+Air Force,Holding,Blocking / Holding,11,48.0,4.36
+Air Force,Illegal Formation,Procedural,3,11.0,3.67
+Air Force,Offside,Procedural,3,10.0,3.33
+Air Force,Other / Unclassified,Administrative,2,5.0,2.5
+Air Force,Other / Unclassified,Blocking / Holding,1,4.0,4.0
+Air Force,Other / Unclassified,Other,1,10.0,10.0
+Air Force,Pass Interference,Personal / Contact,2,7.0,3.5
+Air Force,Personal Foul,Personal / Contact,4,9.0,2.25
+Air Force,Roughing the Passer,Personal / Contact,2,28.0,14.0
+Akron,Delay of Game,Procedural,9,35.0,3.89
+Akron,Face Mask,Other,7,117.0,16.71
+Akron,False Start,Procedural,13,110.0,8.46
+Akron,Holding,Blocking / Holding,8,109.0,13.62
+Akron,Illegal Formation,Procedural,1,49.0,49.0
+Akron,Offside,Procedural,8,24.0,3.0
+Akron,Other / Unclassified,Administrative,3,7.0,2.33
+Akron,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Akron,Other / Unclassified,Other,8,51.0,6.38
+Akron,Pass Interference,Personal / Contact,9,126.0,14.0
+Akron,Personal Foul,Personal / Contact,9,90.0,10.0
+Akron,Roughing,Personal / Contact,2,0.0,0.0
+Akron,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Akron,Targeting,Personal / Contact,1,15.0,15.0
+Akron,Unsportsmanlike Conduct,Personal / Contact,2,15.0,7.5
+Alabama,Delay of Game,Procedural,3,15.0,5.0
+Alabama,False Start,Procedural,9,20.0,2.22
+Alabama,Holding,Blocking / Holding,11,97.0,8.82
+Alabama,Illegal Formation,Procedural,1,28.0,28.0
+Alabama,Illegal Motion,Other,1,5.0,5.0
+Alabama,Offside,Procedural,7,25.0,3.57
+Alabama,Other / Unclassified,Administrative,1,5.0,5.0
+Alabama,Other / Unclassified,Other,3,13.0,4.33
+Alabama,Other / Unclassified,Procedural,2,8.0,4.0
+Alabama,Pass Interference,Personal / Contact,6,112.0,18.67
+Alabama,Personal Foul,Personal / Contact,11,132.0,12.0
+Alabama,Roughing,Personal / Contact,1,0.0,0.0
+Alabama,Targeting,Personal / Contact,1,15.0,15.0
+Alabama,Unsportsmanlike Conduct,Personal / Contact,2,5.0,2.5
+App State,Delay of Game,Procedural,5,20.0,4.0
+App State,Face Mask,Other,4,56.0,14.0
+App State,False Start,Procedural,5,25.0,5.0
+App State,Holding,Blocking / Holding,12,31.0,2.58
+App State,Illegal Formation,Procedural,2,13.0,6.5
+App State,Offside,Procedural,10,46.0,4.6
+App State,Other / Unclassified,Administrative,1,7.0,7.0
+App State,Other / Unclassified,Other,1,0.0,0.0
+App State,Other / Unclassified,Safety / Tackling,1,0.0,0.0
+App State,Pass Interference,Personal / Contact,13,121.0,9.31
+App State,Pass Interference,Procedural,1,0.0,0.0
+App State,Personal Foul,Personal / Contact,2,30.0,15.0
+App State,Roughing the Passer,Personal / Contact,7,32.0,4.57
+App State,Targeting,Personal / Contact,1,15.0,15.0
+App State,Unsportsmanlike Conduct,Personal / Contact,2,30.0,15.0
+Arizona,Face Mask,Other,3,43.0,14.33
+Arizona,False Start,Procedural,7,35.0,5.0
+Arizona,Holding,Blocking / Holding,30,232.0,7.73
+Arizona,Offside,Procedural,7,21.0,3.0
+Arizona,Other / Unclassified,Administrative,3,7.0,2.33
+Arizona,Other / Unclassified,Blocking / Holding,2,16.0,8.0
+Arizona,Other / Unclassified,Other,4,41.0,10.25
+Arizona,Other / Unclassified,Procedural,1,5.0,5.0
+Arizona,Pass Interference,Personal / Contact,8,61.0,7.62
+Arizona,Personal Foul,Personal / Contact,1,0.0,0.0
+Arizona,Roughing the Passer,Personal / Contact,3,45.0,15.0
+Arizona,Targeting,Personal / Contact,2,15.0,7.5
+Arizona State,Delay of Game,Procedural,5,20.0,4.0
+Arizona State,Face Mask,Other,2,19.0,9.5
+Arizona State,False Start,Procedural,14,61.0,4.36
+Arizona State,Holding,Blocking / Holding,24,309.0,12.88
+Arizona State,Illegal Formation,Procedural,2,9.0,4.5
+Arizona State,Offside,Procedural,4,49.0,12.25
+Arizona State,Other / Unclassified,Administrative,4,77.0,19.25
+Arizona State,Other / Unclassified,Blocking / Holding,1,4.0,4.0
+Arizona State,Other / Unclassified,Other,3,6.0,2.0
+Arizona State,Other / Unclassified,Procedural,1,21.0,21.0
+Arizona State,Pass Interference,Personal / Contact,14,134.0,9.57
+Arizona State,Personal Foul,Personal / Contact,2,15.0,7.5
+Arizona State,Roughing,Personal / Contact,1,0.0,0.0
+Arizona State,Roughing the Passer,Personal / Contact,4,44.0,11.0
+Arizona State,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+Arkansas,Delay of Game,Procedural,1,5.0,5.0
+Arkansas,Face Mask,Other,3,61.0,20.33
+Arkansas,False Start,Procedural,6,30.0,5.0
+Arkansas,Holding,Blocking / Holding,23,215.0,9.35
+Arkansas,Illegal Formation,Procedural,2,16.0,8.0
+Arkansas,Illegal Motion,Other,1,9.0,9.0
+Arkansas,Offside,Procedural,7,73.0,10.43
+Arkansas,Other / Unclassified,Administrative,3,5.0,1.67
+Arkansas,Other / Unclassified,Other,6,58.0,9.67
+Arkansas,Pass Interference,Personal / Contact,7,97.0,13.86
+Arkansas,Personal Foul,Personal / Contact,5,131.0,26.2
+Arkansas,Roughing the Passer,Personal / Contact,1,33.0,33.0
+Arkansas,Targeting,Personal / Contact,1,5.0,5.0
+Arkansas,Unsportsmanlike Conduct,Personal / Contact,2,30.0,15.0
+Arkansas State,Face Mask,Other,1,15.0,15.0
+Arkansas State,False Start,Procedural,22,45.0,2.05
+Arkansas State,Holding,Blocking / Holding,24,71.0,2.96
+Arkansas State,Illegal Formation,Procedural,3,47.0,15.67
+Arkansas State,Offside,Procedural,2,24.0,12.0
+Arkansas State,Other / Unclassified,Administrative,1,4.0,4.0
+Arkansas State,Other / Unclassified,Other,5,22.0,4.4
+Arkansas State,Pass Interference,Personal / Contact,25,117.0,4.68
+Arkansas State,Personal Foul,Personal / Contact,8,51.0,6.38
+Arkansas State,Roughing,Personal / Contact,1,0.0,0.0
+Arkansas State,Targeting,Personal / Contact,1,7.0,7.0
+Arkansas State,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+Army,Face Mask,Other,2,30.0,15.0
+Army,False Start,Procedural,11,40.0,3.64
+Army,Holding,Blocking / Holding,12,102.0,8.5
+Army,Illegal Formation,Procedural,2,23.0,11.5
+Army,Offside,Procedural,6,16.0,2.67
+Army,Other / Unclassified,Administrative,3,38.0,12.67
+Army,Other / Unclassified,Blocking / Holding,2,62.0,31.0
+Army,Other / Unclassified,Other,3,70.0,23.33
+Army,Other / Unclassified,Procedural,1,9.0,9.0
+Army,Pass Interference,Personal / Contact,6,83.0,13.83
+Army,Personal Foul,Personal / Contact,2,20.0,10.0
+Auburn,Delay of Game,Procedural,4,15.0,3.75
+Auburn,Face Mask,Other,1,10.0,10.0
+Auburn,False Start,Procedural,22,55.0,2.5
+Auburn,Holding,Blocking / Holding,23,180.0,7.83
+Auburn,Illegal Formation,Procedural,2,39.0,19.5
+Auburn,Offside,Procedural,2,5.0,2.5
+Auburn,Other / Unclassified,Administrative,1,5.0,5.0
+Auburn,Other / Unclassified,Blocking / Holding,2,0.0,0.0
+Auburn,Other / Unclassified,Other,2,2.0,1.0
+Auburn,Other / Unclassified,Procedural,1,0.0,0.0
+Auburn,Other / Unclassified,Safety / Tackling,1,1.0,1.0
+Auburn,Pass Interference,Personal / Contact,8,46.0,5.75
+Auburn,Personal Foul,Personal / Contact,4,1.0,0.25
+Auburn,Roughing the Passer,Personal / Contact,2,15.0,7.5
+BYU,Delay of Game,Procedural,3,15.0,5.0
+BYU,Face Mask,Other,2,10.0,5.0
+BYU,False Start,Procedural,14,62.0,4.43
+BYU,Holding,Blocking / Holding,21,263.0,12.52
+BYU,Illegal Formation,Procedural,1,42.0,42.0
+BYU,Offside,Procedural,2,5.0,2.5
+BYU,Other / Unclassified,Administrative,1,0.0,0.0
+BYU,Other / Unclassified,Blocking / Holding,3,6.0,2.0
+BYU,Other / Unclassified,Other,1,5.0,5.0
+BYU,Pass Interference,Personal / Contact,13,146.0,11.23
+BYU,Personal Foul,Personal / Contact,5,7.0,1.4
+BYU,Targeting,Personal / Contact,1,0.0,0.0
+BYU,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+Ball State,Delay of Game,Procedural,5,25.0,5.0
+Ball State,Face Mask,Other,2,11.0,5.5
+Ball State,False Start,Procedural,11,53.0,4.82
+Ball State,Holding,Blocking / Holding,7,39.0,5.57
+Ball State,Illegal Formation,Procedural,2,24.0,12.0
+Ball State,Offside,Procedural,7,35.0,5.0
+Ball State,Other / Unclassified,Administrative,2,5.0,2.5
+Ball State,Other / Unclassified,Other,4,34.0,8.5
+Ball State,Pass Interference,Personal / Contact,4,50.0,12.5
+Ball State,Personal Foul,Personal / Contact,2,20.0,10.0
+Ball State,Targeting,Personal / Contact,1,7.0,7.0
+Ball State,Unsportsmanlike Conduct,Personal / Contact,5,39.0,7.8
+Baylor,Delay of Game,Procedural,1,5.0,5.0
+Baylor,Face Mask,Other,2,29.0,14.5
+Baylor,False Start,Procedural,5,25.0,5.0
+Baylor,Holding,Blocking / Holding,29,131.0,4.52
+Baylor,Illegal Formation,Procedural,1,2.0,2.0
+Baylor,Other / Unclassified,Administrative,1,0.0,0.0
+Baylor,Other / Unclassified,Other,5,14.0,2.8
+Baylor,Other / Unclassified,Procedural,1,13.0,13.0
+Baylor,Pass Interference,Personal / Contact,22,196.0,8.91
+Baylor,Pass Interference,Procedural,1,9.0,9.0
+Baylor,Personal Foul,Personal / Contact,4,30.0,7.5
+Baylor,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+Boise State,Delay of Game,Procedural,3,11.0,3.67
+Boise State,Face Mask,Other,1,12.0,12.0
+Boise State,False Start,Procedural,24,115.0,4.79
+Boise State,Holding,Blocking / Holding,15,125.0,8.33
+Boise State,Illegal Formation,Procedural,1,5.0,5.0
+Boise State,Offside,Procedural,4,43.0,10.75
+Boise State,Other / Unclassified,Administrative,3,50.0,16.67
+Boise State,Other / Unclassified,Other,4,33.0,8.25
+Boise State,Pass Interference,Personal / Contact,5,39.0,7.8
+Boise State,Personal Foul,Personal / Contact,2,15.0,7.5
+Boise State,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Boise State,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+Boston College,Face Mask,Other,1,15.0,15.0
+Boston College,Face Mask,Safety / Tackling,1,50.0,50.0
+Boston College,False Start,Procedural,16,55.0,3.44
+Boston College,Holding,Blocking / Holding,9,65.0,7.22
+Boston College,Offside,Procedural,6,27.0,4.5
+Boston College,Other / Unclassified,Administrative,2,23.0,11.5
+Boston College,Other / Unclassified,Other,8,74.0,9.25
+Boston College,Pass Interference,Personal / Contact,2,0.0,0.0
+Boston College,Personal Foul,Personal / Contact,3,20.0,6.67
+Boston College,Roughing the Passer,Personal / Contact,1,19.0,19.0
+Boston College,Targeting,Personal / Contact,2,41.0,20.5
+Boston College,Unsportsmanlike Conduct,Personal / Contact,6,37.0,6.17
+Bowling Green,Delay of Game,Procedural,8,38.0,4.75
+Bowling Green,Face Mask,Other,1,26.0,26.0
+Bowling Green,False Start,Procedural,10,50.0,5.0
+Bowling Green,Holding,Blocking / Holding,10,217.0,21.7
+Bowling Green,Illegal Formation,Procedural,1,2.0,2.0
+Bowling Green,Offside,Procedural,5,18.0,3.6
+Bowling Green,Other / Unclassified,Administrative,2,10.0,5.0
+Bowling Green,Other / Unclassified,Other,10,116.0,11.6
+Bowling Green,Other / Unclassified,Procedural,1,5.0,5.0
+Bowling Green,Pass Interference,Personal / Contact,6,84.0,14.0
+Bowling Green,Personal Foul,Personal / Contact,2,15.0,7.5
+Bowling Green,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Bowling Green,Unsportsmanlike Conduct,Personal / Contact,2,19.0,9.5
+Buffalo,Delay of Game,Procedural,3,10.0,3.33
+Buffalo,False Start,Procedural,11,25.0,2.27
+Buffalo,Holding,Blocking / Holding,8,76.0,9.5
+Buffalo,Illegal Formation,Procedural,2,22.0,11.0
+Buffalo,Offside,Procedural,3,10.0,3.33
+Buffalo,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Buffalo,Other / Unclassified,Other,4,8.0,2.0
+Buffalo,Pass Interference,Personal / Contact,11,117.0,10.64
+Buffalo,Personal Foul,Personal / Contact,2,27.0,13.5
+California,Delay of Game,Procedural,1,5.0,5.0
+California,Face Mask,Other,3,30.0,10.0
+California,False Start,Procedural,24,120.0,5.0
+California,Holding,Blocking / Holding,18,165.0,9.17
+California,Holding,Procedural,1,0.0,0.0
+California,Illegal Formation,Procedural,2,13.0,6.5
+California,Offside,Procedural,8,58.0,7.25
+California,Other / Unclassified,Administrative,4,11.0,2.75
+California,Other / Unclassified,Blocking / Holding,3,110.0,36.67
+California,Other / Unclassified,Other,11,57.0,5.18
+California,Pass Interference,Personal / Contact,12,90.0,7.5
+California,Personal Foul,Personal / Contact,1,0.0,0.0
+California,Roughing,Personal / Contact,1,0.0,0.0
+California,Roughing the Passer,Personal / Contact,1,8.0,8.0
+California,Targeting,Personal / Contact,2,35.0,17.5
+California,Unsportsmanlike Conduct,Personal / Contact,3,1.0,0.33
+Central Michigan,Delay of Game,Procedural,3,10.0,3.33
+Central Michigan,False Start,Procedural,16,60.0,3.75
+Central Michigan,Holding,Blocking / Holding,5,15.0,3.0
+Central Michigan,Offside,Procedural,4,20.0,5.0
+Central Michigan,Other / Unclassified,Administrative,2,13.0,6.5
+Central Michigan,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Central Michigan,Other / Unclassified,Other,3,6.0,2.0
+Central Michigan,Other / Unclassified,Procedural,2,8.0,4.0
+Central Michigan,Pass Interference,Personal / Contact,3,28.0,9.33
+Central Michigan,Personal Foul,Personal / Contact,3,6.0,2.0
+Central Michigan,Unsportsmanlike Conduct,Personal / Contact,2,15.0,7.5
+Central Michigan,Unsportsmanlike Conduct,Procedural,1,0.0,0.0
+Charlotte,Delay of Game,Procedural,1,5.0,5.0
+Charlotte,Face Mask,Other,1,15.0,15.0
+Charlotte,False Start,Procedural,15,53.0,3.53
+Charlotte,Holding,Blocking / Holding,14,201.0,14.36
+Charlotte,Illegal Formation,Procedural,1,5.0,5.0
+Charlotte,Offside,Procedural,2,3.0,1.5
+Charlotte,Other / Unclassified,Administrative,3,20.0,6.67
+Charlotte,Other / Unclassified,Blocking / Holding,2,71.0,35.5
+Charlotte,Other / Unclassified,Other,3,24.0,8.0
+Charlotte,Pass Interference,Personal / Contact,9,111.0,12.33
+Charlotte,Personal Foul,Personal / Contact,13,132.0,10.15
+Charlotte,Roughing,Personal / Contact,1,0.0,0.0
+Charlotte,Roughing the Passer,Personal / Contact,1,0.0,0.0
+Cincinnati,Delay of Game,Procedural,3,15.0,5.0
+Cincinnati,Face Mask,Other,5,68.0,13.6
+Cincinnati,False Start,Procedural,11,55.0,5.0
+Cincinnati,Holding,Blocking / Holding,19,149.0,7.84
+Cincinnati,Offside,Procedural,4,11.0,2.75
+Cincinnati,Other / Unclassified,Administrative,3,78.0,26.0
+Cincinnati,Other / Unclassified,Blocking / Holding,1,4.0,4.0
+Cincinnati,Other / Unclassified,Other,5,82.0,16.4
+Cincinnati,Pass Interference,Personal / Contact,13,144.0,11.08
+Cincinnati,Personal Foul,Personal / Contact,5,90.0,18.0
+Cincinnati,Roughing,Personal / Contact,1,0.0,0.0
+Cincinnati,Targeting,Personal / Contact,1,7.0,7.0
+Clemson,Delay of Game,Procedural,2,10.0,5.0
+Clemson,False Start,Procedural,7,30.0,4.29
+Clemson,Holding,Blocking / Holding,16,231.0,14.44
+Clemson,Offside,Procedural,2,5.0,2.5
+Clemson,Other / Unclassified,Blocking / Holding,4,76.0,19.0
+Clemson,Other / Unclassified,Other,6,43.0,7.17
+Clemson,Other / Unclassified,Safety / Tackling,1,8.0,8.0
+Clemson,Pass Interference,Personal / Contact,11,84.0,7.64
+Clemson,Personal Foul,Personal / Contact,3,30.0,10.0
+Clemson,Roughing,Personal / Contact,1,0.0,0.0
+Clemson,Unsportsmanlike Conduct,Personal / Contact,5,33.0,6.6
+Coastal Carolina,Delay of Game,Procedural,4,20.0,5.0
+Coastal Carolina,Face Mask,Other,1,15.0,15.0
+Coastal Carolina,False Start,Procedural,12,60.0,5.0
+Coastal Carolina,Holding,Blocking / Holding,17,171.0,10.06
+Coastal Carolina,Illegal Formation,Procedural,1,5.0,5.0
+Coastal Carolina,Illegal Motion,Other,1,0.0,0.0
+Coastal Carolina,Offside,Procedural,12,99.0,8.25
+Coastal Carolina,Other / Unclassified,Administrative,3,52.0,17.33
+Coastal Carolina,Other / Unclassified,Blocking / Holding,1,65.0,65.0
+Coastal Carolina,Other / Unclassified,Other,2,5.0,2.5
+Coastal Carolina,Other / Unclassified,Procedural,2,54.0,27.0
+Coastal Carolina,Other / Unclassified,Safety / Tackling,1,0.0,0.0
+Coastal Carolina,Pass Interference,Personal / Contact,6,59.0,9.83
+Coastal Carolina,Personal Foul,Personal / Contact,2,71.0,35.5
+Coastal Carolina,Roughing the Passer,Personal / Contact,1,0.0,0.0
+Coastal Carolina,Targeting,Personal / Contact,1,15.0,15.0
+Coastal Carolina,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+Colorado,Delay of Game,Procedural,9,40.0,4.44
+Colorado,Face Mask,Other,6,59.0,9.83
+Colorado,False Start,Procedural,9,45.0,5.0
+Colorado,Holding,Blocking / Holding,16,205.0,12.81
+Colorado,Illegal Formation,Procedural,1,2.0,2.0
+Colorado,Offside,Procedural,4,20.0,5.0
+Colorado,Other / Unclassified,Administrative,3,80.0,26.67
+Colorado,Other / Unclassified,Other,4,66.0,16.5
+Colorado,Other / Unclassified,Safety / Tackling,1,8.0,8.0
+Colorado,Pass Interference,Personal / Contact,7,90.0,12.86
+Colorado,Personal Foul,Personal / Contact,2,1.0,0.5
+Colorado,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Colorado,Unsportsmanlike Conduct,Personal / Contact,3,25.0,8.33
+Colorado State,Delay of Game,Procedural,2,6.0,3.0
+Colorado State,Face Mask,Other,3,30.0,10.0
+Colorado State,False Start,Procedural,15,75.0,5.0
+Colorado State,Holding,Blocking / Holding,16,199.0,12.44
+Colorado State,Holding,Procedural,1,16.0,16.0
+Colorado State,Illegal Formation,Procedural,4,10.0,2.5
+Colorado State,Offside,Procedural,6,15.0,2.5
+Colorado State,Other / Unclassified,Administrative,1,4.0,4.0
+Colorado State,Other / Unclassified,Other,2,15.0,7.5
+Colorado State,Other / Unclassified,Procedural,1,1.0,1.0
+Colorado State,Pass Interference,Personal / Contact,6,75.0,12.5
+Colorado State,Personal Foul,Personal / Contact,4,43.0,10.75
+Colorado State,Unsportsmanlike Conduct,Personal / Contact,2,30.0,15.0
+Delaware,Delay of Game,Procedural,4,15.0,3.75
+Delaware,Face Mask,Other,5,49.0,9.8
+Delaware,False Start,Procedural,6,30.0,5.0
+Delaware,Holding,Blocking / Holding,18,247.0,13.72
+Delaware,Illegal Formation,Procedural,1,7.0,7.0
+Delaware,Offside,Procedural,3,30.0,10.0
+Delaware,Other / Unclassified,Administrative,6,61.0,10.17
+Delaware,Other / Unclassified,Blocking / Holding,3,39.0,13.0
+Delaware,Other / Unclassified,Other,7,49.0,7.0
+Delaware,Other / Unclassified,Procedural,2,5.0,2.5
+Delaware,Other / Unclassified,Safety / Tackling,2,17.0,8.5
+Delaware,Pass Interference,Personal / Contact,18,167.0,9.28
+Delaware,Personal Foul,Personal / Contact,4,127.0,31.75
+Delaware,Roughing the Passer,Personal / Contact,2,20.0,10.0
+Delaware,Unsportsmanlike Conduct,Personal / Contact,3,30.0,10.0
+Duke,Delay of Game,Procedural,4,17.0,4.25
+Duke,Face Mask,Other,5,36.0,7.2
+Duke,False Start,Procedural,8,42.0,5.25
+Duke,Holding,Blocking / Holding,13,132.0,10.15
+Duke,Offside,Procedural,9,29.0,3.22
+Duke,Other / Unclassified,Administrative,3,9.0,3.0
+Duke,Other / Unclassified,Blocking / Holding,1,35.0,35.0
+Duke,Other / Unclassified,Other,2,0.0,0.0
+Duke,Other / Unclassified,Procedural,1,3.0,3.0
+Duke,Pass Interference,Personal / Contact,15,160.0,10.67
+Duke,Personal Foul,Personal / Contact,4,47.0,11.75
+Duke,Roughing,Personal / Contact,1,6.0,6.0
+Duke,Roughing the Passer,Personal / Contact,1,0.0,0.0
+Duke,Unsportsmanlike Conduct,Personal / Contact,2,25.0,12.5
+East Carolina,Delay of Game,Procedural,3,12.0,4.0
+East Carolina,Face Mask,Other,1,15.0,15.0
+East Carolina,False Start,Procedural,21,96.0,4.57
+East Carolina,Holding,Blocking / Holding,14,113.0,8.07
+East Carolina,Holding,Procedural,1,59.0,59.0
+East Carolina,Illegal Formation,Procedural,2,8.0,4.0
+East Carolina,Offside,Procedural,4,36.0,9.0
+East Carolina,Other / Unclassified,Administrative,4,57.0,14.25
+East Carolina,Other / Unclassified,Other,2,12.0,6.0
+East Carolina,Pass Interference,Personal / Contact,6,107.0,17.83
+East Carolina,Personal Foul,Personal / Contact,1,0.0,0.0
+East Carolina,Roughing the Passer,Personal / Contact,2,65.0,32.5
+East Carolina,Unsportsmanlike Conduct,Personal / Contact,1,1.0,1.0
+Eastern Michigan,Delay of Game,Procedural,4,20.0,5.0
+Eastern Michigan,Face Mask,Other,3,32.0,10.67
+Eastern Michigan,False Start,Procedural,16,80.0,5.0
+Eastern Michigan,Holding,Blocking / Holding,21,227.0,10.81
+Eastern Michigan,Illegal Formation,Procedural,1,0.0,0.0
+Eastern Michigan,Offside,Procedural,1,5.0,5.0
+Eastern Michigan,Other / Unclassified,Administrative,2,13.0,6.5
+Eastern Michigan,Other / Unclassified,Blocking / Holding,2,5.0,2.5
+Eastern Michigan,Other / Unclassified,Other,3,35.0,11.67
+Eastern Michigan,Pass Interference,Personal / Contact,9,164.0,18.22
+Eastern Michigan,Personal Foul,Personal / Contact,3,22.0,7.33
+Eastern Michigan,Unsportsmanlike Conduct,Personal / Contact,2,15.0,7.5
+Florida,Delay of Game,Procedural,3,15.0,5.0
+Florida,Face Mask,Other,2,18.0,9.0
+Florida,False Start,Procedural,15,55.0,3.67
+Florida,Holding,Blocking / Holding,14,153.0,10.93
+Florida,Illegal Formation,Procedural,1,20.0,20.0
+Florida,Offside,Procedural,9,86.0,9.56
+Florida,Other / Unclassified,Administrative,3,10.0,3.33
+Florida,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Florida,Other / Unclassified,Other,3,46.0,15.33
+Florida,Pass Interference,Personal / Contact,6,71.0,11.83
+Florida,Personal Foul,Personal / Contact,6,58.0,9.67
+Florida,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Florida,Targeting,Personal / Contact,2,7.0,3.5
+Florida,Unsportsmanlike Conduct,Personal / Contact,1,7.0,7.0
+Florida Atlantic,Delay of Game,Procedural,1,5.0,5.0
+Florida Atlantic,Face Mask,Other,1,15.0,15.0
+Florida Atlantic,False Start,Procedural,19,95.0,5.0
+Florida Atlantic,Holding,Blocking / Holding,15,182.0,12.13
+Florida Atlantic,Illegal Formation,Procedural,2,2.0,1.0
+Florida Atlantic,Offside,Procedural,4,5.0,1.25
+Florida Atlantic,Other / Unclassified,Administrative,1,5.0,5.0
+Florida Atlantic,Other / Unclassified,Other,5,55.0,11.0
+Florida Atlantic,Pass Interference,Personal / Contact,5,57.0,11.4
+Florida Atlantic,Personal Foul,Personal / Contact,5,22.0,4.4
+Florida Atlantic,Targeting,Personal / Contact,2,30.0,15.0
+Florida Atlantic,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+Florida International,Delay of Game,Procedural,8,40.0,5.0
+Florida International,Face Mask,Other,3,106.0,35.33
+Florida International,False Start,Procedural,13,65.0,5.0
+Florida International,Holding,Blocking / Holding,13,141.0,10.85
+Florida International,Offside,Procedural,2,31.0,15.5
+Florida International,Other / Unclassified,Administrative,6,54.0,9.0
+Florida International,Other / Unclassified,Other,1,45.0,45.0
+Florida International,Other / Unclassified,Procedural,1,5.0,5.0
+Florida International,Pass Interference,Personal / Contact,2,15.0,7.5
+Florida International,Personal Foul,Personal / Contact,5,46.0,9.2
+Florida International,Roughing the Passer,Personal / Contact,4,61.0,15.25
+Florida International,Unsportsmanlike Conduct,Personal / Contact,2,44.0,22.0
+Florida State,Delay of Game,Procedural,3,15.0,5.0
+Florida State,False Start,Procedural,10,35.0,3.5
+Florida State,Holding,Blocking / Holding,8,92.0,11.5
+Florida State,Offside,Procedural,5,5.0,1.0
+Florida State,Other / Unclassified,Blocking / Holding,1,6.0,6.0
+Florida State,Other / Unclassified,Other,7,49.0,7.0
+Florida State,Pass Interference,Personal / Contact,6,83.0,13.83
+Florida State,Pass Interference,Procedural,1,15.0,15.0
+Florida State,Personal Foul,Personal / Contact,6,25.0,4.17
+Florida State,Roughing,Personal / Contact,1,0.0,0.0
+Florida State,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Florida State,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+Fresno State,Delay of Game,Procedural,4,20.0,5.0
+Fresno State,Face Mask,Other,1,15.0,15.0
+Fresno State,False Start,Procedural,14,74.0,5.29
+Fresno State,Holding,Blocking / Holding,28,337.0,12.04
+Fresno State,Offside,Procedural,2,9.0,4.5
+Fresno State,Other / Unclassified,Administrative,3,21.0,7.0
+Fresno State,Other / Unclassified,Other,3,22.0,7.33
+Fresno State,Pass Interference,Personal / Contact,4,56.0,14.0
+Fresno State,Personal Foul,Personal / Contact,3,34.0,11.33
+Fresno State,Roughing the Passer,Personal / Contact,2,30.0,15.0
+Fresno State,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+Georgia,Delay of Game,Procedural,3,10.0,3.33
+Georgia,False Start,Procedural,5,25.0,5.0
+Georgia,Holding,Blocking / Holding,18,175.0,9.72
+Georgia,Offside,Procedural,4,15.0,3.75
+Georgia,Other / Unclassified,Administrative,3,18.0,6.0
+Georgia,Other / Unclassified,Blocking / Holding,1,10.0,10.0
+Georgia,Other / Unclassified,Other,2,16.0,8.0
+Georgia,Other / Unclassified,Safety / Tackling,1,0.0,0.0
+Georgia,Pass Interference,Personal / Contact,11,92.0,8.36
+Georgia,Personal Foul,Personal / Contact,4,5.0,1.25
+Georgia,Roughing,Personal / Contact,1,15.0,15.0
+Georgia,Targeting,Personal / Contact,1,15.0,15.0
+Georgia Southern,False Start,Procedural,4,20.0,5.0
+Georgia Southern,Holding,Blocking / Holding,18,340.0,18.89
+Georgia Southern,Offside,Procedural,3,13.0,4.33
+Georgia Southern,Other / Unclassified,Administrative,1,5.0,5.0
+Georgia Southern,Other / Unclassified,Blocking / Holding,2,47.0,23.5
+Georgia Southern,Other / Unclassified,Other,16,115.0,7.19
+Georgia Southern,Pass Interference,Personal / Contact,2,30.0,15.0
+Georgia Southern,Personal Foul,Personal / Contact,1,8.0,8.0
+Georgia Southern,Unsportsmanlike Conduct,Personal / Contact,4,30.0,7.5
+Georgia State,Delay of Game,Procedural,6,28.0,4.67
+Georgia State,Face Mask,Other,3,27.0,9.0
+Georgia State,False Start,Procedural,24,109.0,4.54
+Georgia State,Holding,Blocking / Holding,14,117.0,8.36
+Georgia State,Holding,Procedural,1,13.0,13.0
+Georgia State,Illegal Formation,Procedural,2,76.0,38.0
+Georgia State,Offside,Procedural,5,20.0,4.0
+Georgia State,Other / Unclassified,Administrative,3,13.0,4.33
+Georgia State,Other / Unclassified,Blocking / Holding,1,4.0,4.0
+Georgia State,Other / Unclassified,Other,10,39.0,3.9
+Georgia State,Pass Interference,Personal / Contact,6,97.0,16.17
+Georgia State,Personal Foul,Personal / Contact,6,44.0,7.33
+Georgia State,Roughing the Passer,Personal / Contact,4,91.0,22.75
+Georgia State,Targeting,Personal / Contact,1,15.0,15.0
+Georgia Tech,Delay of Game,Procedural,1,0.0,0.0
+Georgia Tech,Face Mask,Blocking / Holding,1,44.0,44.0
+Georgia Tech,Face Mask,Other,2,74.0,37.0
+Georgia Tech,False Start,Procedural,16,79.0,4.94
+Georgia Tech,Holding,Blocking / Holding,11,93.0,8.45
+Georgia Tech,Illegal Formation,Procedural,1,5.0,5.0
+Georgia Tech,Offside,Procedural,3,15.0,5.0
+Georgia Tech,Other / Unclassified,Administrative,2,14.0,7.0
+Georgia Tech,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Georgia Tech,Other / Unclassified,Other,7,33.0,4.71
+Georgia Tech,Pass Interference,Personal / Contact,5,60.0,12.0
+Georgia Tech,Personal Foul,Personal / Contact,4,54.0,13.5
+Georgia Tech,Roughing the Passer,Personal / Contact,1,14.0,14.0
+Georgia Tech,Targeting,Personal / Contact,2,30.0,15.0
+Hawai'i,Delay of Game,Procedural,2,10.0,5.0
+Hawai'i,Face Mask,Other,5,51.0,10.2
+Hawai'i,False Start,Procedural,14,56.0,4.0
+Hawai'i,Holding,Blocking / Holding,17,161.0,9.47
+Hawai'i,Illegal Formation,Procedural,1,0.0,0.0
+Hawai'i,Illegal Motion,Other,1,5.0,5.0
+Hawai'i,Offside,Procedural,7,165.0,23.57
+Hawai'i,Other / Unclassified,Administrative,6,50.0,8.33
+Hawai'i,Other / Unclassified,Other,7,3.0,0.43
+Hawai'i,Other / Unclassified,Procedural,2,5.0,2.5
+Hawai'i,Pass Interference,Personal / Contact,9,103.0,11.44
+Hawai'i,Personal Foul,Personal / Contact,7,9.0,1.29
+Hawai'i,Roughing the Passer,Personal / Contact,2,15.0,7.5
+Hawai'i,Targeting,Personal / Contact,1,15.0,15.0
+Hawai'i,Unsportsmanlike Conduct,Personal / Contact,3,27.0,9.0
+Houston,Delay of Game,Procedural,1,5.0,5.0
+Houston,Face Mask,Other,7,84.0,12.0
+Houston,False Start,Procedural,17,45.0,2.65
+Houston,Holding,Blocking / Holding,19,240.0,12.63
+Houston,Illegal Formation,Procedural,1,3.0,3.0
+Houston,Offside,Procedural,6,38.0,6.33
+Houston,Other / Unclassified,Administrative,3,5.0,1.67
+Houston,Other / Unclassified,Blocking / Holding,1,56.0,56.0
+Houston,Other / Unclassified,Other,7,15.0,2.14
+Houston,Other / Unclassified,Procedural,1,0.0,0.0
+Houston,Pass Interference,Personal / Contact,17,68.0,4.0
+Houston,Personal Foul,Personal / Contact,1,0.0,0.0
+Houston,Roughing the Passer,Personal / Contact,2,0.0,0.0
+Houston,Targeting,Personal / Contact,1,6.0,6.0
+Houston,Unsportsmanlike Conduct,Personal / Contact,3,22.0,7.33
+Illinois,Delay of Game,Procedural,2,10.0,5.0
+Illinois,Face Mask,Other,1,15.0,15.0
+Illinois,False Start,Procedural,12,50.0,4.17
+Illinois,Holding,Blocking / Holding,13,93.0,7.15
+Illinois,Illegal Formation,Procedural,1,8.0,8.0
+Illinois,Offside,Procedural,9,65.0,7.22
+Illinois,Other / Unclassified,Administrative,1,0.0,0.0
+Illinois,Other / Unclassified,Other,2,5.0,2.5
+Illinois,Other / Unclassified,Safety / Tackling,1,11.0,11.0
+Illinois,Pass Interference,Personal / Contact,13,160.0,12.31
+Illinois,Pass Interference,Procedural,2,38.0,19.0
+Illinois,Personal Foul,Personal / Contact,6,46.0,7.67
+Illinois,Roughing,Personal / Contact,2,15.0,7.5
+Illinois,Roughing the Passer,Personal / Contact,2,19.0,9.5
+Illinois,Unsportsmanlike Conduct,Personal / Contact,4,69.0,17.25
+Indiana,Delay of Game,Procedural,6,30.0,5.0
+Indiana,Face Mask,Other,1,15.0,15.0
+Indiana,False Start,Procedural,16,70.0,4.38
+Indiana,Holding,Blocking / Holding,10,121.0,12.1
+Indiana,Illegal Formation,Procedural,1,9.0,9.0
+Indiana,Offside,Procedural,7,18.0,2.57
+Indiana,Other / Unclassified,Administrative,1,14.0,14.0
+Indiana,Other / Unclassified,Blocking / Holding,1,65.0,65.0
+Indiana,Other / Unclassified,Other,1,0.0,0.0
+Indiana,Pass Interference,Personal / Contact,13,176.0,13.54
+Indiana,Personal Foul,Personal / Contact,3,26.0,8.67
+Iowa,Delay of Game,Procedural,1,5.0,5.0
+Iowa,Face Mask,Other,1,13.0,13.0
+Iowa,False Start,Procedural,5,25.0,5.0
+Iowa,Holding,Blocking / Holding,8,71.0,8.88
+Iowa,Illegal Formation,Procedural,1,4.0,4.0
+Iowa,Offside,Procedural,5,7.0,1.4
+Iowa,Other / Unclassified,Administrative,1,4.0,4.0
+Iowa,Other / Unclassified,Other,1,39.0,39.0
+Iowa,Pass Interference,Personal / Contact,5,60.0,12.0
+Iowa,Personal Foul,Personal / Contact,3,12.0,4.0
+Iowa,Unsportsmanlike Conduct,Personal / Contact,3,17.0,5.67
+Iowa State,Delay of Game,Procedural,1,5.0,5.0
+Iowa State,False Start,Procedural,8,39.0,4.88
+Iowa State,Holding,Blocking / Holding,12,123.0,10.25
+Iowa State,Illegal Formation,Procedural,2,26.0,13.0
+Iowa State,Other / Unclassified,Administrative,2,5.0,2.5
+Iowa State,Other / Unclassified,Blocking / Holding,2,75.0,37.5
+Iowa State,Other / Unclassified,Other,1,12.0,12.0
+Iowa State,Other / Unclassified,Procedural,1,16.0,16.0
+Iowa State,Pass Interference,Personal / Contact,5,73.0,14.6
+Iowa State,Personal Foul,Personal / Contact,2,21.0,10.5
+Iowa State,Roughing the Passer,Personal / Contact,1,7.0,7.0
+Iowa State,Unsportsmanlike Conduct,Personal / Contact,3,39.0,13.0
+Jacksonville State,Delay of Game,Procedural,3,12.0,4.0
+Jacksonville State,Face Mask,Other,2,39.0,19.5
+Jacksonville State,False Start,Procedural,6,30.0,5.0
+Jacksonville State,Holding,Blocking / Holding,7,81.0,11.57
+Jacksonville State,Illegal Formation,Procedural,2,9.0,4.5
+Jacksonville State,Offside,Procedural,5,26.0,5.2
+Jacksonville State,Other / Unclassified,Administrative,1,4.0,4.0
+Jacksonville State,Other / Unclassified,Blocking / Holding,1,10.0,10.0
+Jacksonville State,Other / Unclassified,Other,6,63.0,10.5
+Jacksonville State,Pass Interference,Personal / Contact,2,28.0,14.0
+Jacksonville State,Personal Foul,Personal / Contact,1,15.0,15.0
+Jacksonville State,Targeting,Personal / Contact,1,15.0,15.0
+James Madison,Delay of Game,Procedural,7,35.0,5.0
+James Madison,Face Mask,Other,1,6.0,6.0
+James Madison,False Start,Procedural,9,35.0,3.89
+James Madison,Holding,Blocking / Holding,14,64.0,4.57
+James Madison,Illegal Formation,Procedural,2,13.0,6.5
+James Madison,Offside,Procedural,2,10.0,5.0
+James Madison,Other / Unclassified,Administrative,3,51.0,17.0
+James Madison,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+James Madison,Other / Unclassified,Other,6,86.0,14.33
+James Madison,Other / Unclassified,Procedural,1,5.0,5.0
+James Madison,Other / Unclassified,Safety / Tackling,1,6.0,6.0
+James Madison,Pass Interference,Personal / Contact,7,79.0,11.29
+James Madison,Personal Foul,Personal / Contact,4,142.0,35.5
+James Madison,Roughing the Passer,Personal / Contact,2,30.0,15.0
+Kansas,Delay of Game,Procedural,2,9.0,4.5
+Kansas,Face Mask,Other,3,21.0,7.0
+Kansas,False Start,Procedural,9,44.0,4.89
+Kansas,Holding,Blocking / Holding,10,70.0,7.0
+Kansas,Illegal Formation,Procedural,1,1.0,1.0
+Kansas,Illegal Motion,Other,1,3.0,3.0
+Kansas,Offside,Procedural,2,50.0,25.0
+Kansas,Other / Unclassified,Administrative,2,26.0,13.0
+Kansas,Other / Unclassified,Other,7,71.0,10.14
+Kansas,Pass Interference,Personal / Contact,3,29.0,9.67
+Kansas,Roughing the Passer,Personal / Contact,1,0.0,0.0
+Kansas,Unsportsmanlike Conduct,Personal / Contact,3,45.0,15.0
+Kansas State,Delay of Game,Procedural,4,15.0,3.75
+Kansas State,Face Mask,Other,4,35.0,8.75
+Kansas State,False Start,Procedural,3,10.0,3.33
+Kansas State,Holding,Blocking / Holding,10,106.0,10.6
+Kansas State,Illegal Formation,Procedural,1,4.0,4.0
+Kansas State,Offside,Procedural,1,1.0,1.0
+Kansas State,Other / Unclassified,Administrative,1,15.0,15.0
+Kansas State,Other / Unclassified,Other,6,27.0,4.5
+Kansas State,Pass Interference,Personal / Contact,3,45.0,15.0
+Kansas State,Unsportsmanlike Conduct,Personal / Contact,2,28.0,14.0
+Kennesaw State,Delay of Game,Procedural,2,10.0,5.0
+Kennesaw State,Face Mask,Other,2,23.0,11.5
+Kennesaw State,False Start,Procedural,13,65.0,5.0
+Kennesaw State,Holding,Blocking / Holding,20,430.0,21.5
+Kennesaw State,Illegal Formation,Procedural,3,10.0,3.33
+Kennesaw State,Offside,Procedural,4,18.0,4.5
+Kennesaw State,Other / Unclassified,Administrative,1,5.0,5.0
+Kennesaw State,Other / Unclassified,Blocking / Holding,1,63.0,63.0
+Kennesaw State,Other / Unclassified,Other,9,121.0,13.44
+Kennesaw State,Pass Interference,Personal / Contact,3,42.0,14.0
+Kennesaw State,Personal Foul,Personal / Contact,1,0.0,0.0
+Kennesaw State,Roughing,Personal / Contact,1,0.0,0.0
+Kennesaw State,Roughing the Passer,Personal / Contact,4,43.0,10.75
+Kennesaw State,Targeting,Personal / Contact,1,11.0,11.0
+Kennesaw State,Unsportsmanlike Conduct,Personal / Contact,3,28.0,9.33
+Kent State,Delay of Game,Procedural,5,20.0,4.0
+Kent State,Face Mask,Other,4,34.0,8.5
+Kent State,False Start,Procedural,13,53.0,4.08
+Kent State,Holding,Blocking / Holding,5,34.0,6.8
+Kent State,Illegal Formation,Procedural,3,10.0,3.33
+Kent State,Offside,Procedural,2,7.0,3.5
+Kent State,Other / Unclassified,Administrative,1,15.0,15.0
+Kent State,Other / Unclassified,Blocking / Holding,1,65.0,65.0
+Kent State,Other / Unclassified,Other,4,15.0,3.75
+Kent State,Other / Unclassified,Procedural,2,0.0,0.0
+Kent State,Pass Interference,Personal / Contact,1,15.0,15.0
+Kent State,Pass Interference,Procedural,1,15.0,15.0
+Kent State,Personal Foul,Personal / Contact,2,20.0,10.0
+Kent State,Roughing the Kicker,Personal / Contact,1,51.0,51.0
+Kent State,Unsportsmanlike Conduct,Personal / Contact,4,37.0,9.25
+Kentucky,Face Mask,Other,1,15.0,15.0
+Kentucky,False Start,Procedural,8,40.0,5.0
+Kentucky,Holding,Blocking / Holding,16,89.0,5.56
+Kentucky,Illegal Formation,Procedural,2,42.0,21.0
+Kentucky,Offside,Procedural,7,34.0,4.86
+Kentucky,Other / Unclassified,Administrative,4,23.0,5.75
+Kentucky,Other / Unclassified,Other,6,46.0,7.67
+Kentucky,Other / Unclassified,Procedural,2,2.0,1.0
+Kentucky,Pass Interference,Personal / Contact,7,102.0,14.57
+Kentucky,Personal Foul,Personal / Contact,4,30.0,7.5
+Kentucky,Roughing,Personal / Contact,1,50.0,50.0
+LSU,Delay of Game,Procedural,2,10.0,5.0
+LSU,Face Mask,Other,3,30.0,10.0
+LSU,False Start,Procedural,21,73.0,3.48
+LSU,Holding,Blocking / Holding,17,109.0,6.41
+LSU,Illegal Formation,Procedural,5,66.0,13.2
+LSU,Offside,Procedural,7,25.0,3.57
+LSU,Other / Unclassified,Administrative,2,1.0,0.5
+LSU,Other / Unclassified,Blocking / Holding,1,40.0,40.0
+LSU,Other / Unclassified,Other,2,15.0,7.5
+LSU,Other / Unclassified,Procedural,2,5.0,2.5
+LSU,Pass Interference,Personal / Contact,16,254.0,15.88
+LSU,Personal Foul,Personal / Contact,1,0.0,0.0
+LSU,Roughing,Personal / Contact,1,0.0,0.0
+LSU,Targeting,Procedural,1,59.0,59.0
+LSU,Unsportsmanlike Conduct,Personal / Contact,4,51.0,12.75
+Liberty,Delay of Game,Procedural,5,25.0,5.0
+Liberty,False Start,Procedural,12,55.0,4.58
+Liberty,Holding,Blocking / Holding,15,199.0,13.27
+Liberty,Offside,Procedural,5,54.0,10.8
+Liberty,Other / Unclassified,Blocking / Holding,1,9.0,9.0
+Liberty,Other / Unclassified,Other,7,89.0,12.71
+Liberty,Other / Unclassified,Procedural,1,7.0,7.0
+Liberty,Pass Interference,Personal / Contact,5,74.0,14.8
+Liberty,Personal Foul,Personal / Contact,8,71.0,8.88
+Liberty,Roughing the Passer,Personal / Contact,2,15.0,7.5
+Liberty,Unsportsmanlike Conduct,Personal / Contact,5,42.0,8.4
+Louisiana,Delay of Game,Procedural,3,15.0,5.0
+Louisiana,Face Mask,Other,5,39.0,7.8
+Louisiana,False Start,Procedural,16,76.0,4.75
+Louisiana,Holding,Blocking / Holding,13,182.0,14.0
+Louisiana,Illegal Formation,Procedural,2,17.0,8.5
+Louisiana,Illegal Motion,Other,1,22.0,22.0
+Louisiana,Offside,Procedural,9,36.0,4.0
+Louisiana,Other / Unclassified,Administrative,1,7.0,7.0
+Louisiana,Other / Unclassified,Blocking / Holding,4,88.0,22.0
+Louisiana,Other / Unclassified,Other,10,48.0,4.8
+Louisiana,Pass Interference,Personal / Contact,12,155.0,12.92
+Louisiana,Pass Interference,Procedural,2,30.0,15.0
+Louisiana,Personal Foul,Personal / Contact,6,145.0,24.17
+Louisiana,Roughing the Passer,Personal / Contact,6,81.0,13.5
+Louisiana,Targeting,Personal / Contact,2,34.0,17.0
+Louisiana,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+Louisiana Tech,Delay of Game,Procedural,2,7.0,3.5
+Louisiana Tech,Face Mask,Other,5,89.0,17.8
+Louisiana Tech,False Start,Procedural,7,35.0,5.0
+Louisiana Tech,Holding,Blocking / Holding,13,102.0,7.85
+Louisiana Tech,Illegal Formation,Procedural,3,80.0,26.67
+Louisiana Tech,Offside,Procedural,7,27.0,3.86
+Louisiana Tech,Other / Unclassified,Administrative,5,44.0,8.8
+Louisiana Tech,Other / Unclassified,Blocking / Holding,2,43.0,21.5
+Louisiana Tech,Other / Unclassified,Other,10,187.0,18.7
+Louisiana Tech,Other / Unclassified,Safety / Tackling,1,9.0,9.0
+Louisiana Tech,Pass Interference,Personal / Contact,10,119.0,11.9
+Louisiana Tech,Personal Foul,Personal / Contact,2,16.0,8.0
+Louisiana Tech,Roughing,Personal / Contact,1,15.0,15.0
+Louisiana Tech,Roughing the Passer,Personal / Contact,3,30.0,10.0
+Louisiana Tech,Targeting,Personal / Contact,1,0.0,0.0
+Louisiana Tech,Unsportsmanlike Conduct,Personal / Contact,6,87.0,14.5
+Louisville,Delay of Game,Procedural,6,20.0,3.33
+Louisville,Face Mask,Other,2,23.0,11.5
+Louisville,False Start,Procedural,9,45.0,5.0
+Louisville,Holding,Blocking / Holding,25,272.0,10.88
+Louisville,Illegal Formation,Procedural,1,3.0,3.0
+Louisville,Offside,Procedural,2,2.0,1.0
+Louisville,Other / Unclassified,Administrative,3,9.0,3.0
+Louisville,Other / Unclassified,Blocking / Holding,4,17.0,4.25
+Louisville,Other / Unclassified,Other,3,54.0,18.0
+Louisville,Other / Unclassified,Procedural,1,16.0,16.0
+Louisville,Pass Interference,Personal / Contact,7,56.0,8.0
+Louisville,Personal Foul,Personal / Contact,8,45.0,5.62
+Louisville,Roughing the Passer,Personal / Contact,2,28.0,14.0
+Louisville,Targeting,Personal / Contact,2,18.0,9.0
+Louisville,Unsportsmanlike Conduct,Personal / Contact,5,98.0,19.6
+Marshall,Delay of Game,Procedural,1,5.0,5.0
+Marshall,Face Mask,Other,2,8.0,4.0
+Marshall,False Start,Procedural,12,60.0,5.0
+Marshall,Holding,Blocking / Holding,25,309.0,12.36
+Marshall,Illegal Formation,Procedural,5,36.0,7.2
+Marshall,Offside,Procedural,12,51.0,4.25
+Marshall,Other / Unclassified,Administrative,3,23.0,7.67
+Marshall,Other / Unclassified,Blocking / Holding,1,3.0,3.0
+Marshall,Other / Unclassified,Other,8,110.0,13.75
+Marshall,Other / Unclassified,Procedural,1,5.0,5.0
+Marshall,Pass Interference,Personal / Contact,5,57.0,11.4
+Marshall,Personal Foul,Personal / Contact,4,107.0,26.75
+Marshall,Roughing the Passer,Personal / Contact,1,0.0,0.0
+Marshall,Unsportsmanlike Conduct,Personal / Contact,2,3.0,1.5
+Maryland,Delay of Game,Procedural,3,15.0,5.0
+Maryland,Face Mask,Other,2,27.0,13.5
+Maryland,False Start,Procedural,11,50.0,4.55
+Maryland,Holding,Blocking / Holding,5,26.0,5.2
+Maryland,Illegal Formation,Procedural,2,1.0,0.5
+Maryland,Offside,Procedural,4,16.0,4.0
+Maryland,Other / Unclassified,Administrative,3,32.0,10.67
+Maryland,Other / Unclassified,Other,2,14.0,7.0
+Maryland,Other / Unclassified,Procedural,1,5.0,5.0
+Maryland,Pass Interference,Personal / Contact,7,43.0,6.14
+Maryland,Personal Foul,Personal / Contact,3,0.0,0.0
+Maryland,Roughing the Passer,Personal / Contact,1,0.0,0.0
+Maryland,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+Massachusetts,Face Mask,Other,4,31.0,7.75
+Massachusetts,False Start,Procedural,17,57.0,3.35
+Massachusetts,Holding,Blocking / Holding,17,161.0,9.47
+Massachusetts,Illegal Formation,Procedural,3,35.0,11.67
+Massachusetts,Illegal Motion,Other,1,0.0,0.0
+Massachusetts,Offside,Procedural,4,43.0,10.75
+Massachusetts,Other / Unclassified,Administrative,2,9.0,4.5
+Massachusetts,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Massachusetts,Other / Unclassified,Other,14,40.0,2.86
+Massachusetts,Other / Unclassified,Procedural,1,23.0,23.0
+Massachusetts,Pass Interference,Personal / Contact,5,30.0,6.0
+Massachusetts,Personal Foul,Personal / Contact,3,55.0,18.33
+Massachusetts,Roughing,Personal / Contact,1,0.0,0.0
+Massachusetts,Roughing the Passer,Personal / Contact,1,18.0,18.0
+Massachusetts,Unsportsmanlike Conduct,Personal / Contact,2,7.0,3.5
+Memphis,Delay of Game,Procedural,2,10.0,5.0
+Memphis,Face Mask,Other,3,45.0,15.0
+Memphis,Face Mask,Safety / Tackling,1,0.0,0.0
+Memphis,False Start,Procedural,20,99.0,4.95
+Memphis,Holding,Blocking / Holding,20,144.0,7.2
+Memphis,Offside,Procedural,9,75.0,8.33
+Memphis,Other / Unclassified,Other,3,19.0,6.33
+Memphis,Pass Interference,Personal / Contact,6,75.0,12.5
+Memphis,Personal Foul,Personal / Contact,4,17.0,4.25
+Memphis,Roughing the Passer,Personal / Contact,4,43.0,10.75
+Memphis,Unsportsmanlike Conduct,Personal / Contact,3,29.0,9.67
+Miami,Delay of Game,Procedural,7,30.0,4.29
+Miami,Face Mask,Other,1,0.0,0.0
+Miami,False Start,Procedural,24,89.0,3.71
+Miami,Holding,Blocking / Holding,18,135.0,7.5
+Miami,Illegal Motion,Other,1,0.0,0.0
+Miami,Other / Unclassified,Administrative,1,30.0,30.0
+Miami,Other / Unclassified,Other,4,28.0,7.0
+Miami,Other / Unclassified,Procedural,1,21.0,21.0
+Miami,Pass Interference,Personal / Contact,6,41.0,6.83
+Miami,Personal Foul,Personal / Contact,4,1.0,0.25
+Miami,Roughing the Passer,Personal / Contact,3,33.0,11.0
+Miami,Targeting,Personal / Contact,1,0.0,0.0
+Miami,Unsportsmanlike Conduct,Personal / Contact,1,6.0,6.0
+Miami (OH),Delay of Game,Procedural,1,5.0,5.0
+Miami (OH),False Start,Procedural,2,10.0,5.0
+Miami (OH),Holding,Blocking / Holding,5,43.0,8.6
+Miami (OH),Illegal Formation,Procedural,1,0.0,0.0
+Miami (OH),Offside,Procedural,1,0.0,0.0
+Michigan,Delay of Game,Procedural,1,5.0,5.0
+Michigan,Face Mask,Other,2,15.0,7.5
+Michigan,False Start,Procedural,5,25.0,5.0
+Michigan,Holding,Blocking / Holding,11,62.0,5.64
+Michigan,Illegal Formation,Procedural,2,0.0,0.0
+Michigan,Offside,Procedural,6,99.0,16.5
+Michigan,Other / Unclassified,Administrative,3,17.0,5.67
+Michigan,Other / Unclassified,Other,2,6.0,3.0
+Michigan,Other / Unclassified,Procedural,1,5.0,5.0
+Michigan,Pass Interference,Personal / Contact,8,85.0,10.62
+Michigan,Roughing the Kicker,Personal / Contact,1,0.0,0.0
+Michigan,Unsportsmanlike Conduct,Personal / Contact,1,3.0,3.0
+Michigan State,Delay of Game,Procedural,3,15.0,5.0
+Michigan State,False Start,Procedural,13,60.0,4.62
+Michigan State,Holding,Blocking / Holding,14,62.0,4.43
+Michigan State,Other / Unclassified,Administrative,2,10.0,5.0
+Michigan State,Other / Unclassified,Other,6,85.0,14.17
+Michigan State,Pass Interference,Personal / Contact,2,30.0,15.0
+Michigan State,Personal Foul,Personal / Contact,4,23.0,5.75
+Michigan State,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Michigan State,Unsportsmanlike Conduct,Personal / Contact,2,30.0,15.0
+Middle Tennessee,Delay of Game,Other,1,5.0,5.0
+Middle Tennessee,Delay of Game,Procedural,7,35.0,5.0
+Middle Tennessee,Face Mask,Other,5,68.0,13.6
+Middle Tennessee,False Start,Procedural,9,40.0,4.44
+Middle Tennessee,Holding,Blocking / Holding,19,179.0,9.42
+Middle Tennessee,Illegal Formation,Procedural,2,53.0,26.5
+Middle Tennessee,Offside,Procedural,2,65.0,32.5
+Middle Tennessee,Other / Unclassified,Administrative,3,12.0,4.0
+Middle Tennessee,Other / Unclassified,Other,6,51.0,8.5
+Middle Tennessee,Other / Unclassified,Procedural,3,5.0,1.67
+Middle Tennessee,Pass Interference,Personal / Contact,3,42.0,14.0
+Middle Tennessee,Personal Foul,Personal / Contact,1,50.0,50.0
+Middle Tennessee,Roughing the Passer,Personal / Contact,1,0.0,0.0
+Middle Tennessee,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+Minnesota,Delay of Game,Procedural,4,15.0,3.75
+Minnesota,Face Mask,Other,5,49.0,9.8
+Minnesota,False Start,Procedural,9,30.0,3.33
+Minnesota,Holding,Blocking / Holding,8,26.0,3.25
+Minnesota,Illegal Formation,Procedural,1,37.0,37.0
+Minnesota,Offside,Procedural,6,23.0,3.83
+Minnesota,Other / Unclassified,Blocking / Holding,2,10.0,5.0
+Minnesota,Other / Unclassified,Other,1,0.0,0.0
+Minnesota,Pass Interference,Personal / Contact,11,94.0,8.55
+Minnesota,Personal Foul,Personal / Contact,4,44.0,11.0
+Minnesota,Unsportsmanlike Conduct,Personal / Contact,3,17.0,5.67
+Mississippi State,Delay of Game,Procedural,4,20.0,5.0
+Mississippi State,Face Mask,Other,2,19.0,9.5
+Mississippi State,False Start,Procedural,18,75.0,4.17
+Mississippi State,Holding,Blocking / Holding,24,188.0,7.83
+Mississippi State,Illegal Formation,Procedural,5,102.0,20.4
+Mississippi State,Offside,Procedural,5,39.0,7.8
+Mississippi State,Other / Unclassified,Administrative,4,45.0,11.25
+Mississippi State,Other / Unclassified,Other,2,5.0,2.5
+Mississippi State,Other / Unclassified,Procedural,2,6.0,3.0
+Mississippi State,Pass Interference,Personal / Contact,7,81.0,11.57
+Mississippi State,Personal Foul,Personal / Contact,4,66.0,16.5
+Mississippi State,Roughing,Personal / Contact,1,0.0,0.0
+Mississippi State,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Mississippi State,Unsportsmanlike Conduct,Personal / Contact,2,15.0,7.5
+Missouri,Delay of Game,Procedural,1,5.0,5.0
+Missouri,Face Mask,Other,3,24.0,8.0
+Missouri,False Start,Procedural,7,35.0,5.0
+Missouri,Holding,Blocking / Holding,11,108.0,9.82
+Missouri,Offside,Procedural,12,70.0,5.83
+Missouri,Other / Unclassified,Blocking / Holding,2,16.0,8.0
+Missouri,Other / Unclassified,Other,17,142.0,8.35
+Missouri,Pass Interference,Personal / Contact,7,104.0,14.86
+Missouri,Personal Foul,Personal / Contact,1,15.0,15.0
+Missouri,Targeting,Personal / Contact,2,9.0,4.5
+Missouri State,Delay of Game,Procedural,2,10.0,5.0
+Missouri State,Face Mask,Other,2,26.0,13.0
+Missouri State,False Start,Procedural,11,55.0,5.0
+Missouri State,Holding,Blocking / Holding,15,156.0,10.4
+Missouri State,Offside,Procedural,2,10.0,5.0
+Missouri State,Other / Unclassified,Administrative,2,22.0,11.0
+Missouri State,Other / Unclassified,Other,5,10.0,2.0
+Missouri State,Other / Unclassified,Procedural,2,0.0,0.0
+Missouri State,Pass Interference,Personal / Contact,4,53.0,13.25
+Missouri State,Personal Foul,Personal / Contact,5,77.0,15.4
+Missouri State,Roughing the Passer,Personal / Contact,3,30.0,10.0
+Missouri State,Targeting,Personal / Contact,1,2.0,2.0
+Missouri State,Unsportsmanlike Conduct,Personal / Contact,3,31.0,10.33
+NC State,False Start,Procedural,4,13.0,3.25
+NC State,Holding,Blocking / Holding,9,79.0,8.78
+NC State,Illegal Formation,Procedural,1,6.0,6.0
+NC State,Offside,Procedural,2,0.0,0.0
+NC State,Other / Unclassified,Other,2,0.0,0.0
+NC State,Other / Unclassified,Safety / Tackling,1,0.0,0.0
+NC State,Pass Interference,Personal / Contact,3,29.0,9.67
+NC State,Personal Foul,Personal / Contact,2,15.0,7.5
+NC State,Roughing,Personal / Contact,1,15.0,15.0
+NC State,Roughing the Passer,Personal / Contact,1,0.0,0.0
+NC State,Unsportsmanlike Conduct,Personal / Contact,7,53.0,7.57
+Navy,Delay of Game,Procedural,7,35.0,5.0
+Navy,Face Mask,Other,1,5.0,5.0
+Navy,False Start,Procedural,16,76.0,4.75
+Navy,Holding,Blocking / Holding,12,70.0,5.83
+Navy,Offside,Procedural,7,47.0,6.71
+Navy,Other / Unclassified,Administrative,1,0.0,0.0
+Navy,Other / Unclassified,Other,7,79.0,11.29
+Navy,Other / Unclassified,Procedural,2,15.0,7.5
+Navy,Pass Interference,Personal / Contact,6,83.0,13.83
+Navy,Personal Foul,Personal / Contact,3,90.0,30.0
+Navy,Roughing the Passer,Personal / Contact,1,12.0,12.0
+Navy,Unsportsmanlike Conduct,Personal / Contact,1,7.0,7.0
+Nebraska,Delay of Game,Procedural,3,9.0,3.0
+Nebraska,Face Mask,Other,1,15.0,15.0
+Nebraska,False Start,Procedural,7,34.0,4.86
+Nebraska,Holding,Blocking / Holding,8,68.0,8.5
+Nebraska,Illegal Formation,Procedural,1,40.0,40.0
+Nebraska,Illegal Motion,Other,1,3.0,3.0
+Nebraska,Offside,Procedural,2,5.0,2.5
+Nebraska,Other / Unclassified,Administrative,1,3.0,3.0
+Nebraska,Other / Unclassified,Blocking / Holding,2,0.0,0.0
+Nebraska,Other / Unclassified,Other,2,0.0,0.0
+Nebraska,Other / Unclassified,Safety / Tackling,1,0.0,0.0
+Nebraska,Pass Interference,Personal / Contact,9,108.0,12.0
+Nebraska,Pass Interference,Procedural,1,5.0,5.0
+Nebraska,Personal Foul,Personal / Contact,3,17.0,5.67
+Nebraska,Unsportsmanlike Conduct,Personal / Contact,8,143.0,17.88
+Nevada,Delay of Game,Procedural,2,10.0,5.0
+Nevada,Face Mask,Other,5,80.0,16.0
+Nevada,False Start,Procedural,14,65.0,4.64
+Nevada,Holding,Blocking / Holding,14,162.0,11.57
+Nevada,Illegal Formation,Procedural,1,8.0,8.0
+Nevada,Offside,Procedural,7,88.0,12.57
+Nevada,Other / Unclassified,Administrative,1,5.0,5.0
+Nevada,Other / Unclassified,Other,4,55.0,13.75
+Nevada,Pass Interference,Personal / Contact,13,133.0,10.23
+Nevada,Pass Interference,Procedural,2,14.0,7.0
+Nevada,Personal Foul,Personal / Contact,7,122.0,17.43
+Nevada,Targeting,Personal / Contact,1,1.0,1.0
+Nevada,Unsportsmanlike Conduct,Personal / Contact,2,25.0,12.5
+New Mexico,Delay of Game,Procedural,3,15.0,5.0
+New Mexico,Face Mask,Other,4,35.0,8.75
+New Mexico,False Start,Procedural,11,54.0,4.91
+New Mexico,Holding,Blocking / Holding,18,278.0,15.44
+New Mexico,Illegal Formation,Procedural,3,10.0,3.33
+New Mexico,Illegal Motion,Other,1,4.0,4.0
+New Mexico,Offside,Procedural,4,17.0,4.25
+New Mexico,Other / Unclassified,Administrative,3,16.0,5.33
+New Mexico,Other / Unclassified,Blocking / Holding,1,9.0,9.0
+New Mexico,Other / Unclassified,Other,4,22.0,5.5
+New Mexico,Pass Interference,Personal / Contact,7,69.0,9.86
+New Mexico,Personal Foul,Personal / Contact,2,20.0,10.0
+New Mexico,Targeting,Personal / Contact,1,12.0,12.0
+New Mexico,Unsportsmanlike Conduct,Personal / Contact,4,37.0,9.25
+New Mexico State,Delay of Game,Procedural,1,5.0,5.0
+New Mexico State,False Start,Procedural,18,86.0,4.78
+New Mexico State,Holding,Blocking / Holding,13,74.0,5.69
+New Mexico State,Illegal Formation,Procedural,4,30.0,7.5
+New Mexico State,Offside,Procedural,7,37.0,5.29
+New Mexico State,Other / Unclassified,Administrative,1,5.0,5.0
+New Mexico State,Other / Unclassified,Blocking / Holding,2,80.0,40.0
+New Mexico State,Other / Unclassified,Other,10,196.0,19.6
+New Mexico State,Pass Interference,Personal / Contact,4,47.0,11.75
+New Mexico State,Personal Foul,Personal / Contact,4,40.0,10.0
+New Mexico State,Roughing the Kicker,Personal / Contact,1,40.0,40.0
+New Mexico State,Roughing the Passer,Personal / Contact,3,25.0,8.33
+New Mexico State,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+North Carolina,Delay of Game,Procedural,2,5.0,2.5
+North Carolina,Face Mask,Blocking / Holding,1,2.0,2.0
+North Carolina,Face Mask,Other,1,7.0,7.0
+North Carolina,False Start,Procedural,11,42.0,3.82
+North Carolina,Holding,Blocking / Holding,13,95.0,7.31
+North Carolina,Illegal Formation,Procedural,3,57.0,19.0
+North Carolina,Illegal Motion,Other,1,3.0,3.0
+North Carolina,Offside,Procedural,3,50.0,16.67
+North Carolina,Other / Unclassified,Administrative,2,16.0,8.0
+North Carolina,Other / Unclassified,Other,4,24.0,6.0
+North Carolina,Other / Unclassified,Procedural,1,1.0,1.0
+North Carolina,Pass Interference,Personal / Contact,8,94.0,11.75
+North Carolina,Personal Foul,Personal / Contact,4,21.0,5.25
+North Carolina,Roughing the Passer,Personal / Contact,4,45.0,11.25
+North Texas,Delay of Game,Procedural,1,5.0,5.0
+North Texas,False Start,Procedural,15,60.0,4.0
+North Texas,Holding,Blocking / Holding,16,106.0,6.62
+North Texas,Illegal Formation,Procedural,1,5.0,5.0
+North Texas,Offside,Procedural,3,62.0,20.67
+North Texas,Other / Unclassified,Other,5,5.0,1.0
+North Texas,Pass Interference,Personal / Contact,11,120.0,10.91
+North Texas,Unsportsmanlike Conduct,Personal / Contact,4,34.0,8.5
+Northern Illinois,Delay of Game,Procedural,5,20.0,4.0
+Northern Illinois,Face Mask,Other,1,6.0,6.0
+Northern Illinois,False Start,Procedural,15,75.0,5.0
+Northern Illinois,Holding,Blocking / Holding,10,137.0,13.7
+Northern Illinois,Illegal Formation,Procedural,1,41.0,41.0
+Northern Illinois,Offside,Procedural,4,17.0,4.25
+Northern Illinois,Other / Unclassified,Administrative,3,15.0,5.0
+Northern Illinois,Other / Unclassified,Blocking / Holding,2,10.0,5.0
+Northern Illinois,Other / Unclassified,Other,4,8.0,2.0
+Northern Illinois,Pass Interference,Personal / Contact,4,54.0,13.5
+Northern Illinois,Personal Foul,Personal / Contact,4,36.0,9.0
+Northern Illinois,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Northern Illinois,Unsportsmanlike Conduct,Personal / Contact,1,11.0,11.0
+Northwestern,Delay of Game,Procedural,2,5.0,2.5
+Northwestern,Face Mask,Other,4,53.0,13.25
+Northwestern,False Start,Procedural,9,35.0,3.89
+Northwestern,Holding,Blocking / Holding,8,78.0,9.75
+Northwestern,Illegal Formation,Procedural,3,6.0,2.0
+Northwestern,Offside,Procedural,5,20.0,4.0
+Northwestern,Other / Unclassified,Administrative,2,4.0,2.0
+Northwestern,Other / Unclassified,Blocking / Holding,1,10.0,10.0
+Northwestern,Other / Unclassified,Other,10,40.0,4.0
+Northwestern,Other / Unclassified,Safety / Tackling,1,0.0,0.0
+Northwestern,Pass Interference,Personal / Contact,10,112.0,11.2
+Northwestern,Personal Foul,Personal / Contact,2,15.0,7.5
+Northwestern,Roughing,Personal / Contact,2,0.0,0.0
+Northwestern,Unsportsmanlike Conduct,Personal / Contact,3,18.0,6.0
+Notre Dame,Delay of Game,Procedural,2,10.0,5.0
+Notre Dame,Face Mask,Other,2,9.0,4.5
+Notre Dame,False Start,Procedural,10,45.0,4.5
+Notre Dame,Holding,Blocking / Holding,10,77.0,7.7
+Notre Dame,Offside,Procedural,2,44.0,22.0
+Notre Dame,Other / Unclassified,Blocking / Holding,3,0.0,0.0
+Notre Dame,Other / Unclassified,Other,6,39.0,6.5
+Notre Dame,Pass Interference,Personal / Contact,6,93.0,15.5
+Notre Dame,Personal Foul,Personal / Contact,4,41.0,10.25
+Notre Dame,Roughing the Passer,Personal / Contact,1,12.0,12.0
+Ohio,Delay of Game,Procedural,8,40.0,5.0
+Ohio,Face Mask,Other,4,55.0,13.75
+Ohio,False Start,Procedural,16,60.0,3.75
+Ohio,Holding,Blocking / Holding,18,189.0,10.5
+Ohio,Illegal Formation,Procedural,2,48.0,24.0
+Ohio,Offside,Procedural,5,10.0,2.0
+Ohio,Other / Unclassified,Administrative,2,44.0,22.0
+Ohio,Other / Unclassified,Other,7,42.0,6.0
+Ohio,Other / Unclassified,Procedural,1,0.0,0.0
+Ohio,Pass Interference,Personal / Contact,6,89.0,14.83
+Ohio,Personal Foul,Personal / Contact,5,28.0,5.6
+Ohio,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Ohio,Targeting,Personal / Contact,1,5.0,5.0
+Ohio,Unsportsmanlike Conduct,Personal / Contact,2,64.0,32.0
+Ohio State,Delay of Game,Procedural,3,15.0,5.0
+Ohio State,False Start,Procedural,9,45.0,5.0
+Ohio State,Holding,Blocking / Holding,6,28.0,4.67
+Ohio State,Illegal Formation,Procedural,3,18.0,6.0
+Ohio State,Offside,Procedural,3,5.0,1.67
+Ohio State,Other / Unclassified,Blocking / Holding,1,70.0,70.0
+Ohio State,Other / Unclassified,Other,2,43.0,21.5
+Ohio State,Pass Interference,Personal / Contact,1,8.0,8.0
+Ohio State,Personal Foul,Personal / Contact,2,15.0,7.5
+Ohio State,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Ohio State,Targeting,Personal / Contact,1,15.0,15.0
+Ohio State,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+Oklahoma,Delay of Game,Procedural,3,15.0,5.0
+Oklahoma,Face Mask,Other,2,24.0,12.0
+Oklahoma,False Start,Procedural,12,40.0,3.33
+Oklahoma,Holding,Blocking / Holding,15,78.0,5.2
+Oklahoma,Illegal Formation,Procedural,4,14.0,3.5
+Oklahoma,Offside,Procedural,1,0.0,0.0
+Oklahoma,Other / Unclassified,Administrative,2,10.0,5.0
+Oklahoma,Other / Unclassified,Blocking / Holding,4,21.0,5.25
+Oklahoma,Other / Unclassified,Other,5,27.0,5.4
+Oklahoma,Pass Interference,Personal / Contact,9,76.0,8.44
+Oklahoma,Personal Foul,Personal / Contact,4,33.0,8.25
+Oklahoma,Roughing the Passer,Personal / Contact,1,0.0,0.0
+Oklahoma State,Delay of Game,Procedural,4,20.0,5.0
+Oklahoma State,Face Mask,Other,3,7.0,2.33
+Oklahoma State,False Start,Procedural,10,25.0,2.5
+Oklahoma State,Holding,Blocking / Holding,9,48.0,5.33
+Oklahoma State,Illegal Formation,Procedural,1,2.0,2.0
+Oklahoma State,Offside,Procedural,1,53.0,53.0
+Oklahoma State,Other / Unclassified,Administrative,4,46.0,11.5
+Oklahoma State,Other / Unclassified,Other,3,12.0,4.0
+Oklahoma State,Other / Unclassified,Procedural,1,16.0,16.0
+Oklahoma State,Pass Interference,Personal / Contact,2,15.0,7.5
+Oklahoma State,Personal Foul,Personal / Contact,5,15.0,3.0
+Oklahoma State,Targeting,Personal / Contact,3,28.0,9.33
+Old Dominion,Delay of Game,Procedural,2,10.0,5.0
+Old Dominion,Face Mask,Other,4,51.0,12.75
+Old Dominion,False Start,Procedural,8,30.0,3.75
+Old Dominion,Holding,Blocking / Holding,14,119.0,8.5
+Old Dominion,Illegal Formation,Procedural,2,32.0,16.0
+Old Dominion,Offside,Procedural,7,29.0,4.14
+Old Dominion,Other / Unclassified,Administrative,2,6.0,3.0
+Old Dominion,Other / Unclassified,Blocking / Holding,3,68.0,22.67
+Old Dominion,Other / Unclassified,Other,12,192.0,16.0
+Old Dominion,Other / Unclassified,Procedural,1,0.0,0.0
+Old Dominion,Pass Interference,Personal / Contact,8,68.0,8.5
+Old Dominion,Personal Foul,Personal / Contact,3,41.0,13.67
+Old Dominion,Targeting,Personal / Contact,3,30.0,10.0
+Old Dominion,Unsportsmanlike Conduct,Personal / Contact,2,0.0,0.0
+Ole Miss,Delay of Game,Procedural,5,25.0,5.0
+Ole Miss,Face Mask,Other,3,48.0,16.0
+Ole Miss,False Start,Procedural,10,19.0,1.9
+Ole Miss,Holding,Blocking / Holding,17,157.0,9.24
+Ole Miss,Illegal Formation,Procedural,3,102.0,34.0
+Ole Miss,Offside,Procedural,5,20.0,4.0
+Ole Miss,Other / Unclassified,Administrative,5,28.0,5.6
+Ole Miss,Other / Unclassified,Other,3,30.0,10.0
+Ole Miss,Pass Interference,Personal / Contact,5,68.0,13.6
+Ole Miss,Personal Foul,Personal / Contact,2,16.0,8.0
+Ole Miss,Roughing,Personal / Contact,2,30.0,15.0
+Ole Miss,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+Oregon,Delay of Game,Procedural,1,5.0,5.0
+Oregon,Face Mask,Other,3,35.0,11.67
+Oregon,False Start,Procedural,11,49.0,4.45
+Oregon,Holding,Blocking / Holding,14,123.0,8.79
+Oregon,Illegal Formation,Procedural,2,53.0,26.5
+Oregon,Offside,Procedural,9,61.0,6.78
+Oregon,Other / Unclassified,Administrative,1,0.0,0.0
+Oregon,Other / Unclassified,Blocking / Holding,1,19.0,19.0
+Oregon,Other / Unclassified,Other,3,20.0,6.67
+Oregon,Other / Unclassified,Procedural,3,10.0,3.33
+Oregon,Pass Interference,Personal / Contact,3,28.0,9.33
+Oregon,Personal Foul,Personal / Contact,1,15.0,15.0
+Oregon,Roughing the Passer,Personal / Contact,1,0.0,0.0
+Oregon,Targeting,Personal / Contact,1,7.0,7.0
+Oregon,Unsportsmanlike Conduct,Personal / Contact,3,30.0,10.0
+Oregon State,Delay of Game,Procedural,4,20.0,5.0
+Oregon State,Face Mask,Other,1,1.0,1.0
+Oregon State,False Start,Procedural,14,70.0,5.0
+Oregon State,Holding,Blocking / Holding,14,144.0,10.29
+Oregon State,Offside,Procedural,5,77.0,15.4
+Oregon State,Other / Unclassified,Administrative,3,9.0,3.0
+Oregon State,Other / Unclassified,Other,5,0.0,0.0
+Oregon State,Other / Unclassified,Safety / Tackling,1,10.0,10.0
+Oregon State,Pass Interference,Personal / Contact,6,77.0,12.83
+Oregon State,Roughing the Passer,Personal / Contact,1,8.0,8.0
+Oregon State,Unsportsmanlike Conduct,Personal / Contact,4,47.0,11.75
+Penn State,Delay of Game,Procedural,2,10.0,5.0
+Penn State,False Start,Procedural,9,25.0,2.78
+Penn State,Holding,Blocking / Holding,4,49.0,12.25
+Penn State,Illegal Motion,Other,1,14.0,14.0
+Penn State,Offside,Procedural,2,10.0,5.0
+Penn State,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Penn State,Other / Unclassified,Other,1,9.0,9.0
+Penn State,Pass Interference,Personal / Contact,2,30.0,15.0
+Penn State,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Penn State,Unsportsmanlike Conduct,Personal / Contact,2,8.0,4.0
+Pittsburgh,Delay of Game,Procedural,3,15.0,5.0
+Pittsburgh,Face Mask,Other,6,58.0,9.67
+Pittsburgh,False Start,Procedural,16,80.0,5.0
+Pittsburgh,Holding,Blocking / Holding,22,184.0,8.36
+Pittsburgh,Illegal Formation,Procedural,1,0.0,0.0
+Pittsburgh,Illegal Motion,Other,1,5.0,5.0
+Pittsburgh,Offside,Procedural,9,44.0,4.89
+Pittsburgh,Other / Unclassified,Administrative,3,8.0,2.67
+Pittsburgh,Other / Unclassified,Blocking / Holding,3,62.0,20.67
+Pittsburgh,Other / Unclassified,Other,14,119.0,8.5
+Pittsburgh,Other / Unclassified,Procedural,1,9.0,9.0
+Pittsburgh,Pass Interference,Personal / Contact,12,165.0,13.75
+Pittsburgh,Personal Foul,Personal / Contact,7,61.0,8.71
+Pittsburgh,Roughing the Passer,Personal / Contact,4,76.0,19.0
+Pittsburgh,Targeting,Personal / Contact,1,0.0,0.0
+Pittsburgh,Unsportsmanlike Conduct,Personal / Contact,4,30.0,7.5
+Purdue,Face Mask,Other,1,0.0,0.0
+Purdue,False Start,Procedural,8,40.0,5.0
+Purdue,Holding,Blocking / Holding,14,122.0,8.71
+Purdue,Illegal Formation,Procedural,1,39.0,39.0
+Purdue,Offside,Procedural,6,45.0,7.5
+Purdue,Other / Unclassified,Administrative,7,54.0,7.71
+Purdue,Other / Unclassified,Other,3,38.0,12.67
+Purdue,Pass Interference,Personal / Contact,9,97.0,10.78
+Purdue,Pass Interference,Procedural,1,7.0,7.0
+Purdue,Personal Foul,Personal / Contact,5,65.0,13.0
+Purdue,Roughing the Passer,Personal / Contact,3,12.0,4.0
+Purdue,Unsportsmanlike Conduct,Personal / Contact,4,42.0,10.5
+Rice,Face Mask,Other,2,21.0,10.5
+Rice,False Start,Procedural,8,35.0,4.38
+Rice,Holding,Blocking / Holding,8,132.0,16.5
+Rice,Illegal Formation,Procedural,1,0.0,0.0
+Rice,Illegal Motion,Other,1,5.0,5.0
+Rice,Offside,Procedural,4,19.0,4.75
+Rice,Other / Unclassified,Administrative,2,9.0,4.5
+Rice,Other / Unclassified,Blocking / Holding,1,10.0,10.0
+Rice,Other / Unclassified,Other,5,112.0,22.4
+Rice,Pass Interference,Personal / Contact,4,45.0,11.25
+Rice,Personal Foul,Personal / Contact,5,55.0,11.0
+Rice,Roughing the Passer,Personal / Contact,2,1.0,0.5
+Rice,Unsportsmanlike Conduct,Personal / Contact,2,30.0,15.0
+Rutgers,Delay of Game,Procedural,5,25.0,5.0
+Rutgers,Face Mask,Other,2,30.0,15.0
+Rutgers,False Start,Procedural,9,36.0,4.0
+Rutgers,Holding,Blocking / Holding,9,42.0,4.67
+Rutgers,Illegal Formation,Procedural,2,14.0,7.0
+Rutgers,Offside,Procedural,4,11.0,2.75
+Rutgers,Other / Unclassified,Administrative,2,5.0,2.5
+Rutgers,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Rutgers,Other / Unclassified,Other,3,53.0,17.67
+Rutgers,Other / Unclassified,Procedural,1,60.0,60.0
+Rutgers,Pass Interference,Personal / Contact,14,170.0,12.14
+Rutgers,Personal Foul,Personal / Contact,2,0.0,0.0
+Rutgers,Unsportsmanlike Conduct,Personal / Contact,2,4.0,2.0
+SMU,Delay of Game,Procedural,2,10.0,5.0
+SMU,Face Mask,Other,3,18.0,6.0
+SMU,False Start,Procedural,5,25.0,5.0
+SMU,Holding,Blocking / Holding,20,190.0,9.5
+SMU,Illegal Formation,Procedural,4,24.0,6.0
+SMU,Offside,Procedural,8,36.0,4.5
+SMU,Other / Unclassified,Administrative,4,14.0,3.5
+SMU,Other / Unclassified,Blocking / Holding,3,60.0,20.0
+SMU,Other / Unclassified,Other,9,45.0,5.0
+SMU,Other / Unclassified,Procedural,1,0.0,0.0
+SMU,Other / Unclassified,Safety / Tackling,1,0.0,0.0
+SMU,Pass Interference,Personal / Contact,8,109.0,13.62
+SMU,Personal Foul,Personal / Contact,12,115.0,9.58
+SMU,Roughing the Passer,Personal / Contact,2,25.0,12.5
+SMU,Unsportsmanlike Conduct,Personal / Contact,9,105.0,11.67
+Sam Houston,Delay of Game,Procedural,5,25.0,5.0
+Sam Houston,Face Mask,Other,6,64.0,10.67
+Sam Houston,False Start,Procedural,7,35.0,5.0
+Sam Houston,Holding,Blocking / Holding,15,158.0,10.53
+Sam Houston,Offside,Procedural,2,9.0,4.5
+Sam Houston,Other / Unclassified,Administrative,3,22.0,7.33
+Sam Houston,Other / Unclassified,Other,7,31.0,4.43
+Sam Houston,Pass Interference,Blocking / Holding,2,28.0,14.0
+Sam Houston,Pass Interference,Personal / Contact,11,106.0,9.64
+Sam Houston,Personal Foul,Personal / Contact,5,15.0,3.0
+Sam Houston,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Sam Houston,Targeting,Personal / Contact,2,15.0,7.5
+Sam Houston,Unsportsmanlike Conduct,Personal / Contact,3,45.0,15.0
+San Diego State,Delay of Game,Procedural,3,10.0,3.33
+San Diego State,False Start,Procedural,11,55.0,5.0
+San Diego State,Holding,Blocking / Holding,16,178.0,11.12
+San Diego State,Illegal Formation,Procedural,1,51.0,51.0
+San Diego State,Offside,Procedural,3,56.0,18.67
+San Diego State,Other / Unclassified,Administrative,4,26.0,6.5
+San Diego State,Other / Unclassified,Blocking / Holding,1,4.0,4.0
+San Diego State,Other / Unclassified,Other,3,30.0,10.0
+San Diego State,Pass Interference,Personal / Contact,5,117.0,23.4
+San Diego State,Personal Foul,Personal / Contact,1,3.0,3.0
+San Diego State,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+San Jose St,Delay of Game,Procedural,3,11.0,3.67
+San Jose St,Face Mask,Other,1,14.0,14.0
+San Jose St,False Start,Procedural,15,110.0,7.33
+San Jose St,Holding,Blocking / Holding,15,130.0,8.67
+San Jose St,Illegal Formation,Procedural,1,48.0,48.0
+San Jose St,Offside,Procedural,3,15.0,5.0
+San Jose St,Other / Unclassified,Administrative,2,10.0,5.0
+San Jose St,Other / Unclassified,Other,9,103.0,11.44
+San Jose St,Other / Unclassified,Procedural,1,5.0,5.0
+San Jose St,Other / Unclassified,Safety / Tackling,1,6.0,6.0
+San Jose St,Pass Interference,Personal / Contact,3,30.0,10.0
+San Jose St,Personal Foul,Personal / Contact,2,6.0,3.0
+San Jose St,Roughing,Personal / Contact,1,15.0,15.0
+San Jose St,Roughing the Kicker,Personal / Contact,2,52.0,26.0
+San Jose St,Unsportsmanlike Conduct,Personal / Contact,4,31.0,7.75
+South Alabama,Delay of Game,Procedural,6,30.0,5.0
+South Alabama,Face Mask,Other,2,30.0,15.0
+South Alabama,False Start,Procedural,17,60.0,3.53
+South Alabama,Holding,Blocking / Holding,21,121.0,5.76
+South Alabama,Illegal Formation,Procedural,6,68.0,11.33
+South Alabama,Offside,Procedural,3,24.0,8.0
+South Alabama,Other / Unclassified,Administrative,2,27.0,13.5
+South Alabama,Other / Unclassified,Blocking / Holding,1,40.0,40.0
+South Alabama,Other / Unclassified,Other,8,11.0,1.38
+South Alabama,Other / Unclassified,Safety / Tackling,1,0.0,0.0
+South Alabama,Pass Interference,Personal / Contact,5,56.0,11.2
+South Alabama,Personal Foul,Personal / Contact,2,16.0,8.0
+South Alabama,Roughing,Personal / Contact,1,0.0,0.0
+South Alabama,Roughing the Passer,Personal / Contact,4,45.0,11.25
+South Alabama,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+South Carolina,Delay of Game,Procedural,3,15.0,5.0
+South Carolina,False Start,Procedural,23,108.0,4.7
+South Carolina,Holding,Blocking / Holding,12,92.0,7.67
+South Carolina,Offside,Procedural,5,17.0,3.4
+South Carolina,Other / Unclassified,Administrative,4,30.0,7.5
+South Carolina,Other / Unclassified,Blocking / Holding,2,24.0,12.0
+South Carolina,Other / Unclassified,Other,8,78.0,9.75
+South Carolina,Pass Interference,Personal / Contact,8,118.0,14.75
+South Carolina,Personal Foul,Personal / Contact,3,15.0,5.0
+South Carolina,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+South Florida,Face Mask,Other,1,15.0,15.0
+South Florida,False Start,Procedural,10,46.0,4.6
+South Florida,Holding,Blocking / Holding,12,142.0,11.83
+South Florida,Illegal Motion,Other,1,46.0,46.0
+South Florida,Offside,Procedural,5,21.0,4.2
+South Florida,Other / Unclassified,Administrative,2,10.0,5.0
+South Florida,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+South Florida,Other / Unclassified,Other,1,15.0,15.0
+South Florida,Other / Unclassified,Procedural,1,4.0,4.0
+South Florida,Pass Interference,Personal / Contact,5,64.0,12.8
+South Florida,Personal Foul,Personal / Contact,3,15.0,5.0
+South Florida,Roughing,Personal / Contact,1,11.0,11.0
+South Florida,Roughing the Passer,Personal / Contact,2,5.0,2.5
+South Florida,Unsportsmanlike Conduct,Personal / Contact,3,30.0,10.0
+Southern Miss,Delay of Game,Procedural,7,30.0,4.29
+Southern Miss,Face Mask,Other,3,18.0,6.0
+Southern Miss,False Start,Procedural,15,75.0,5.0
+Southern Miss,Holding,Blocking / Holding,14,162.0,11.57
+Southern Miss,Holding,Procedural,1,10.0,10.0
+Southern Miss,Illegal Formation,Procedural,1,46.0,46.0
+Southern Miss,Offside,Procedural,5,15.0,3.0
+Southern Miss,Other / Unclassified,Administrative,4,24.0,6.0
+Southern Miss,Other / Unclassified,Blocking / Holding,1,16.0,16.0
+Southern Miss,Other / Unclassified,Other,11,137.0,12.45
+Southern Miss,Pass Interference,Personal / Contact,9,98.0,10.89
+Southern Miss,Pass Interference,Procedural,1,0.0,0.0
+Southern Miss,Personal Foul,Personal / Contact,6,38.0,6.33
+Southern Miss,Roughing the Passer,Personal / Contact,2,15.0,7.5
+Southern Miss,Targeting,Personal / Contact,1,34.0,34.0
+Southern Miss,Unsportsmanlike Conduct,Personal / Contact,2,9.0,4.5
+Stanford,Delay of Game,Procedural,6,20.0,3.33
+Stanford,Face Mask,Other,1,15.0,15.0
+Stanford,False Start,Procedural,10,40.0,4.0
+Stanford,Holding,Blocking / Holding,13,167.0,12.85
+Stanford,Illegal Motion,Other,1,42.0,42.0
+Stanford,Offside,Procedural,10,113.0,11.3
+Stanford,Other / Unclassified,Administrative,5,65.0,13.0
+Stanford,Other / Unclassified,Blocking / Holding,2,37.0,18.5
+Stanford,Other / Unclassified,Other,5,39.0,7.8
+Stanford,Pass Interference,Personal / Contact,13,127.0,9.77
+Stanford,Personal Foul,Personal / Contact,3,7.0,2.33
+Stanford,Roughing,Personal / Contact,1,0.0,0.0
+Stanford,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Stanford,Unsportsmanlike Conduct,Personal / Contact,3,38.0,12.67
+Syracuse,Delay of Game,Procedural,7,35.0,5.0
+Syracuse,False Start,Procedural,13,65.0,5.0
+Syracuse,Holding,Blocking / Holding,14,204.0,14.57
+Syracuse,Illegal Motion,Other,2,52.0,26.0
+Syracuse,Offside,Procedural,8,41.0,5.12
+Syracuse,Other / Unclassified,Administrative,4,37.0,9.25
+Syracuse,Other / Unclassified,Blocking / Holding,1,10.0,10.0
+Syracuse,Other / Unclassified,Other,1,0.0,0.0
+Syracuse,Other / Unclassified,Procedural,1,5.0,5.0
+Syracuse,Pass Interference,Personal / Contact,9,77.0,8.56
+Syracuse,Personal Foul,Personal / Contact,5,134.0,26.8
+Syracuse,Roughing the Passer,Personal / Contact,3,30.0,10.0
+TCU,Delay of Game,Procedural,1,5.0,5.0
+TCU,Face Mask,Other,3,49.0,16.33
+TCU,False Start,Procedural,17,75.0,4.41
+TCU,Holding,Blocking / Holding,15,160.0,10.67
+TCU,Illegal Formation,Procedural,2,76.0,38.0
+TCU,Offside,Procedural,3,1.0,0.33
+TCU,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+TCU,Other / Unclassified,Other,7,78.0,11.14
+TCU,Other / Unclassified,Safety / Tackling,1,0.0,0.0
+TCU,Pass Interference,Personal / Contact,15,210.0,14.0
+TCU,Pass Interference,Procedural,1,0.0,0.0
+TCU,Personal Foul,Personal / Contact,3,0.0,0.0
+TCU,Roughing the Passer,Personal / Contact,1,8.0,8.0
+TCU,Unsportsmanlike Conduct,Personal / Contact,2,15.0,7.5
+Temple,False Start,Procedural,5,25.0,5.0
+Temple,Holding,Blocking / Holding,7,67.0,9.57
+Temple,Offside,Procedural,8,53.0,6.62
+Temple,Other / Unclassified,Other,7,57.0,8.14
+Temple,Other / Unclassified,Safety / Tackling,1,8.0,8.0
+Temple,Pass Interference,Personal / Contact,4,48.0,12.0
+Tennessee,Delay of Game,Procedural,2,9.0,4.5
+Tennessee,Face Mask,Other,4,25.0,6.25
+Tennessee,False Start,Procedural,16,65.0,4.06
+Tennessee,Holding,Blocking / Holding,14,119.0,8.5
+Tennessee,Illegal Formation,Procedural,2,29.0,14.5
+Tennessee,Offside,Procedural,8,53.0,6.62
+Tennessee,Other / Unclassified,Administrative,3,27.0,9.0
+Tennessee,Other / Unclassified,Blocking / Holding,2,27.0,13.5
+Tennessee,Other / Unclassified,Other,4,34.0,8.5
+Tennessee,Other / Unclassified,Procedural,1,5.0,5.0
+Tennessee,Pass Interference,Personal / Contact,11,163.0,14.82
+Tennessee,Pass Interference,Procedural,1,15.0,15.0
+Tennessee,Personal Foul,Personal / Contact,9,59.0,6.56
+Tennessee,Roughing the Kicker,Personal / Contact,2,42.0,21.0
+Tennessee,Roughing the Passer,Personal / Contact,2,15.0,7.5
+Tennessee,Unsportsmanlike Conduct,Personal / Contact,3,65.0,21.67
+Texas,Delay of Game,Procedural,5,25.0,5.0
+Texas,Face Mask,Other,3,30.0,10.0
+Texas,False Start,Procedural,24,110.0,4.58
+Texas,Holding,Blocking / Holding,22,132.0,6.0
+Texas,Illegal Formation,Procedural,1,5.0,5.0
+Texas,Illegal Motion,Other,1,46.0,46.0
+Texas,Offside,Procedural,7,13.0,1.86
+Texas,Other / Unclassified,Administrative,4,11.0,2.75
+Texas,Other / Unclassified,Blocking / Holding,3,69.0,23.0
+Texas,Other / Unclassified,Other,4,15.0,3.75
+Texas,Other / Unclassified,Procedural,2,44.0,22.0
+Texas,Pass Interference,Personal / Contact,7,69.0,9.86
+Texas,Roughing the Passer,Blocking / Holding,1,6.0,6.0
+Texas,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Texas A&M,Delay of Game,Procedural,3,15.0,5.0
+Texas A&M,Face Mask,Other,1,15.0,15.0
+Texas A&M,False Start,Procedural,16,20.0,1.25
+Texas A&M,Holding,Blocking / Holding,21,209.0,9.95
+Texas A&M,Illegal Formation,Procedural,1,5.0,5.0
+Texas A&M,Offside,Procedural,2,0.0,0.0
+Texas A&M,Other / Unclassified,Administrative,2,12.0,6.0
+Texas A&M,Other / Unclassified,Other,5,45.0,9.0
+Texas A&M,Pass Interference,Personal / Contact,8,51.0,6.38
+Texas A&M,Personal Foul,Personal / Contact,4,0.0,0.0
+Texas A&M,Roughing,Personal / Contact,1,15.0,15.0
+Texas A&M,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Texas A&M,Unsportsmanlike Conduct,Personal / Contact,3,15.0,5.0
+Texas State,False Start,Procedural,5,10.0,2.0
+Texas State,Holding,Blocking / Holding,7,28.0,4.0
+Texas State,Offside,Procedural,6,16.0,2.67
+Texas State,Other / Unclassified,Administrative,1,5.0,5.0
+Texas State,Other / Unclassified,Other,5,40.0,8.0
+Texas State,Pass Interference,Personal / Contact,3,45.0,15.0
+Texas Tech,False Start,Procedural,23,80.0,3.48
+Texas Tech,Holding,Blocking / Holding,20,136.0,6.8
+Texas Tech,Illegal Motion,Other,1,1.0,1.0
+Texas Tech,Offside,Procedural,11,95.0,8.64
+Texas Tech,Other / Unclassified,Administrative,1,5.0,5.0
+Texas Tech,Other / Unclassified,Other,2,0.0,0.0
+Texas Tech,Other / Unclassified,Procedural,2,22.0,11.0
+Texas Tech,Pass Interference,Personal / Contact,3,26.0,8.67
+Texas Tech,Personal Foul,Personal / Contact,5,15.0,3.0
+Texas Tech,Roughing the Passer,Personal / Contact,1,12.0,12.0
+Texas Tech,Unsportsmanlike Conduct,Personal / Contact,2,27.0,13.5
+Toledo,Delay of Game,Procedural,4,20.0,5.0
+Toledo,Face Mask,Other,1,12.0,12.0
+Toledo,False Start,Procedural,17,82.0,4.82
+Toledo,Holding,Blocking / Holding,15,192.0,12.8
+Toledo,Offside,Procedural,7,25.0,3.57
+Toledo,Other / Unclassified,Blocking / Holding,2,49.0,24.5
+Toledo,Other / Unclassified,Other,3,47.0,15.67
+Toledo,Other / Unclassified,Procedural,1,2.0,2.0
+Toledo,Pass Interference,Personal / Contact,17,194.0,11.41
+Toledo,Personal Foul,Blocking / Holding,1,44.0,44.0
+Toledo,Personal Foul,Personal / Contact,4,31.0,7.75
+Toledo,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Toledo,Targeting,Personal / Contact,1,20.0,20.0
+Toledo,Unsportsmanlike Conduct,Personal / Contact,3,0.0,0.0
+Troy,Delay of Game,Procedural,3,15.0,5.0
+Troy,False Start,Procedural,14,65.0,4.64
+Troy,Holding,Blocking / Holding,13,147.0,11.31
+Troy,Illegal Formation,Procedural,2,73.0,36.5
+Troy,Offside,Procedural,7,19.0,2.71
+Troy,Other / Unclassified,Administrative,1,33.0,33.0
+Troy,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Troy,Other / Unclassified,Other,7,49.0,7.0
+Troy,Pass Interference,Personal / Contact,6,44.0,7.33
+Troy,Personal Foul,Personal / Contact,6,127.0,21.17
+Troy,Roughing the Passer,Personal / Contact,3,30.0,10.0
+Troy,Unsportsmanlike Conduct,Personal / Contact,4,15.0,3.75
+Tulane,Delay of Game,Procedural,2,10.0,5.0
+Tulane,Face Mask,Other,3,14.0,4.67
+Tulane,False Start,Procedural,14,59.0,4.21
+Tulane,Holding,Blocking / Holding,21,231.0,11.0
+Tulane,Illegal Formation,Procedural,1,0.0,0.0
+Tulane,Illegal Motion,Other,1,0.0,0.0
+Tulane,Offside,Procedural,5,17.0,3.4
+Tulane,Other / Unclassified,Administrative,4,24.0,6.0
+Tulane,Other / Unclassified,Blocking / Holding,3,13.0,4.33
+Tulane,Other / Unclassified,Other,3,29.0,9.67
+Tulane,Pass Interference,Personal / Contact,11,160.0,14.55
+Tulane,Personal Foul,Personal / Contact,3,19.0,6.33
+Tulane,Roughing,Personal / Contact,2,30.0,15.0
+Tulane,Roughing the Kicker,Personal / Contact,1,41.0,41.0
+Tulane,Roughing the Passer,Personal / Contact,2,15.0,7.5
+Tulane,Unsportsmanlike Conduct,Personal / Contact,2,0.0,0.0
+Tulsa,Delay of Game,Procedural,3,10.0,3.33
+Tulsa,Face Mask,Other,1,3.0,3.0
+Tulsa,False Start,Procedural,9,45.0,5.0
+Tulsa,Holding,Blocking / Holding,12,55.0,4.58
+Tulsa,Illegal Formation,Procedural,2,1.0,0.5
+Tulsa,Offside,Procedural,5,45.0,9.0
+Tulsa,Other / Unclassified,Administrative,6,39.0,6.5
+Tulsa,Other / Unclassified,Blocking / Holding,1,65.0,65.0
+Tulsa,Other / Unclassified,Other,6,9.0,1.5
+Tulsa,Pass Interference,Personal / Contact,19,277.0,14.58
+Tulsa,Personal Foul,Personal / Contact,3,76.0,25.33
+Tulsa,Roughing,Personal / Contact,1,0.0,0.0
+Tulsa,Roughing the Passer,Personal / Contact,2,58.0,29.0
+Tulsa,Unsportsmanlike Conduct,Personal / Contact,1,2.0,2.0
+UAB,Delay of Game,Procedural,2,10.0,5.0
+UAB,False Start,Procedural,19,92.0,4.84
+UAB,Holding,Blocking / Holding,15,191.0,12.73
+UAB,Illegal Formation,Procedural,3,48.0,16.0
+UAB,Illegal Motion,Other,1,10.0,10.0
+UAB,Offside,Procedural,8,37.0,4.62
+UAB,Other / Unclassified,Administrative,7,40.0,5.71
+UAB,Other / Unclassified,Blocking / Holding,2,0.0,0.0
+UAB,Other / Unclassified,Other,3,15.0,5.0
+UAB,Other / Unclassified,Procedural,1,5.0,5.0
+UAB,Pass Interference,Personal / Contact,8,87.0,10.88
+UAB,Personal Foul,Personal / Contact,3,6.0,2.0
+UAB,Unsportsmanlike Conduct,Personal / Contact,1,65.0,65.0
+UCF,Delay of Game,Procedural,8,30.0,3.75
+UCF,Face Mask,Other,2,21.0,10.5
+UCF,False Start,Procedural,22,100.0,4.55
+UCF,Holding,Blocking / Holding,17,250.0,14.71
+UCF,Illegal Formation,Procedural,2,43.0,21.5
+UCF,Illegal Motion,Other,1,5.0,5.0
+UCF,Offside,Procedural,9,117.0,13.0
+UCF,Other / Unclassified,Administrative,5,50.0,10.0
+UCF,Other / Unclassified,Blocking / Holding,3,16.0,5.33
+UCF,Other / Unclassified,Other,6,43.0,7.17
+UCF,Other / Unclassified,Procedural,2,2.0,1.0
+UCF,Pass Interference,Personal / Contact,3,45.0,15.0
+UCF,Personal Foul,Personal / Contact,3,4.0,1.33
+UCF,Roughing the Passer,Personal / Contact,2,30.0,15.0
+UCF,Targeting,Personal / Contact,2,14.0,7.0
+UCF,Unsportsmanlike Conduct,Personal / Contact,1,0.0,0.0
+UCLA,Delay of Game,Procedural,2,5.0,2.5
+UCLA,False Start,Procedural,25,76.0,3.04
+UCLA,Holding,Blocking / Holding,12,73.0,6.08
+UCLA,Illegal Formation,Procedural,4,11.0,2.75
+UCLA,Offside,Procedural,1,11.0,11.0
+UCLA,Other / Unclassified,Administrative,2,10.0,5.0
+UCLA,Other / Unclassified,Blocking / Holding,2,49.0,24.5
+UCLA,Other / Unclassified,Other,5,48.0,9.6
+UCLA,Pass Interference,Personal / Contact,7,68.0,9.71
+UCLA,Personal Foul,Personal / Contact,6,12.0,2.0
+UCLA,Roughing the Passer,Personal / Contact,1,0.0,0.0
+UCLA,Unsportsmanlike Conduct,Personal / Contact,7,68.0,9.71
+UConn,False Start,Procedural,6,30.0,5.0
+UConn,Holding,Blocking / Holding,23,141.0,6.13
+UConn,Illegal Formation,Procedural,2,39.0,19.5
+UConn,Offside,Procedural,3,42.0,14.0
+UConn,Other / Unclassified,Administrative,2,10.0,5.0
+UConn,Other / Unclassified,Other,3,5.0,1.67
+UConn,Pass Interference,Personal / Contact,7,85.0,12.14
+UConn,Personal Foul,Personal / Contact,7,102.0,14.57
+UConn,Roughing the Passer,Personal / Contact,3,22.0,7.33
+UConn,Unsportsmanlike Conduct,Personal / Contact,4,131.0,32.75
+UL Monroe,Delay of Game,Procedural,2,5.0,2.5
+UL Monroe,Face Mask,Other,2,23.0,11.5
+UL Monroe,False Start,Procedural,8,16.0,2.0
+UL Monroe,Holding,Blocking / Holding,17,163.0,9.59
+UL Monroe,Illegal Formation,Procedural,1,0.0,0.0
+UL Monroe,Offside,Procedural,5,25.0,5.0
+UL Monroe,Other / Unclassified,Administrative,1,0.0,0.0
+UL Monroe,Other / Unclassified,Blocking / Holding,1,15.0,15.0
+UL Monroe,Other / Unclassified,Other,1,0.0,0.0
+UL Monroe,Pass Interference,Blocking / Holding,1,0.0,0.0
+UL Monroe,Personal Foul,Personal / Contact,2,3.0,1.5
+UL Monroe,Unsportsmanlike Conduct,Personal / Contact,1,2.0,2.0
+UNLV,Delay of Game,Procedural,2,10.0,5.0
+UNLV,Face Mask,Other,6,30.0,5.0
+UNLV,False Start,Procedural,16,71.0,4.44
+UNLV,Holding,Blocking / Holding,22,277.0,12.59
+UNLV,Illegal Formation,Procedural,1,0.0,0.0
+UNLV,Offside,Procedural,13,123.0,9.46
+UNLV,Other / Unclassified,Administrative,2,48.0,24.0
+UNLV,Other / Unclassified,Other,6,26.0,4.33
+UNLV,Other / Unclassified,Procedural,1,10.0,10.0
+UNLV,Pass Interference,Personal / Contact,15,182.0,12.13
+UNLV,Personal Foul,Personal / Contact,11,161.0,14.64
+UNLV,Unsportsmanlike Conduct,Personal / Contact,8,46.0,5.75
+USC,Delay of Game,Procedural,4,21.0,5.25
+USC,Face Mask,Other,2,14.0,7.0
+USC,False Start,Procedural,8,39.0,4.88
+USC,Holding,Blocking / Holding,8,63.0,7.88
+USC,Illegal Formation,Procedural,3,46.0,15.33
+USC,Offside,Procedural,7,42.0,6.0
+USC,Other / Unclassified,Administrative,4,124.0,31.0
+USC,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+USC,Other / Unclassified,Other,13,45.0,3.46
+USC,Pass Interference,Personal / Contact,18,204.0,11.33
+USC,Pass Interference,Procedural,1,15.0,15.0
+USC,Personal Foul,Personal / Contact,2,15.0,7.5
+USC,Roughing the Passer,Personal / Contact,1,0.0,0.0
+USC,Unsportsmanlike Conduct,Personal / Contact,4,26.0,6.5
+UTEP,Delay of Game,Procedural,5,15.0,3.0
+UTEP,Face Mask,Other,4,38.0,9.5
+UTEP,False Start,Procedural,10,44.0,4.4
+UTEP,Holding,Blocking / Holding,24,314.0,13.08
+UTEP,Illegal Formation,Procedural,6,137.0,22.83
+UTEP,Offside,Procedural,6,10.0,1.67
+UTEP,Other / Unclassified,Administrative,1,3.0,3.0
+UTEP,Other / Unclassified,Blocking / Holding,6,62.0,10.33
+UTEP,Other / Unclassified,Other,3,5.0,1.67
+UTEP,Pass Interference,Personal / Contact,7,75.0,10.71
+UTEP,Pass Interference,Procedural,1,15.0,15.0
+UTEP,Personal Foul,Personal / Contact,6,128.0,21.33
+UTEP,Roughing,Personal / Contact,1,0.0,0.0
+UTEP,Roughing the Passer,Personal / Contact,2,31.0,15.5
+UTEP,Targeting,Personal / Contact,3,25.0,8.33
+UTEP,Unsportsmanlike Conduct,Personal / Contact,6,86.0,14.33
+UTSA,Delay of Game,Procedural,2,10.0,5.0
+UTSA,Face Mask,Other,6,62.0,10.33
+UTSA,False Start,Procedural,15,78.0,5.2
+UTSA,Holding,Blocking / Holding,14,126.0,9.0
+UTSA,Illegal Formation,Procedural,1,1.0,1.0
+UTSA,Offside,Procedural,7,49.0,7.0
+UTSA,Other / Unclassified,Administrative,6,12.0,2.0
+UTSA,Other / Unclassified,Blocking / Holding,2,10.0,5.0
+UTSA,Other / Unclassified,Other,8,59.0,7.38
+UTSA,Other / Unclassified,Procedural,1,1.0,1.0
+UTSA,Pass Interference,Personal / Contact,11,189.0,17.18
+UTSA,Personal Foul,Personal / Contact,7,120.0,17.14
+UTSA,Targeting,Personal / Contact,1,15.0,15.0
+UTSA,Unsportsmanlike Conduct,Personal / Contact,2,14.0,7.0
+Utah,Delay of Game,Procedural,4,15.0,3.75
+Utah,Face Mask,Other,3,26.0,8.67
+Utah,False Start,Procedural,9,26.0,2.89
+Utah,Holding,Blocking / Holding,11,61.0,5.55
+Utah,Illegal Motion,Other,1,6.0,6.0
+Utah,Offside,Procedural,1,5.0,5.0
+Utah,Other / Unclassified,Administrative,6,22.0,3.67
+Utah,Other / Unclassified,Other,3,15.0,5.0
+Utah,Other / Unclassified,Procedural,1,0.0,0.0
+Utah,Pass Interference,Personal / Contact,15,112.0,7.47
+Utah,Personal Foul,Personal / Contact,5,17.0,3.4
+Utah,Roughing,Personal / Contact,1,15.0,15.0
+Utah,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+Utah State,Delay of Game,Procedural,4,20.0,5.0
+Utah State,Face Mask,Other,4,96.0,24.0
+Utah State,False Start,Procedural,10,37.0,3.7
+Utah State,Holding,Blocking / Holding,27,190.0,7.04
+Utah State,Illegal Formation,Procedural,4,18.0,4.5
+Utah State,Offside,Procedural,3,111.0,37.0
+Utah State,Other / Unclassified,Administrative,6,28.0,4.67
+Utah State,Other / Unclassified,Other,7,32.0,4.57
+Utah State,Other / Unclassified,Procedural,2,7.0,3.5
+Utah State,Pass Interference,Personal / Contact,1,15.0,15.0
+Utah State,Roughing,Personal / Contact,1,0.0,0.0
+Utah State,Roughing the Kicker,Personal / Contact,1,36.0,36.0
+Utah State,Unsportsmanlike Conduct,Personal / Contact,2,39.0,19.5
+Vanderbilt,Delay of Game,Procedural,5,25.0,5.0
+Vanderbilt,Face Mask,Other,5,36.0,7.2
+Vanderbilt,False Start,Procedural,13,53.0,4.08
+Vanderbilt,Holding,Blocking / Holding,24,196.0,8.17
+Vanderbilt,Illegal Formation,Procedural,1,46.0,46.0
+Vanderbilt,Offside,Procedural,6,18.0,3.0
+Vanderbilt,Other / Unclassified,Administrative,7,58.0,8.29
+Vanderbilt,Other / Unclassified,Other,2,48.0,24.0
+Vanderbilt,Pass Interference,Personal / Contact,9,90.0,10.0
+Vanderbilt,Personal Foul,Personal / Contact,6,82.0,13.67
+Vanderbilt,Roughing the Passer,Personal / Contact,5,30.0,6.0
+Vanderbilt,Unsportsmanlike Conduct,Personal / Contact,2,0.0,0.0
+Virginia,Delay of Game,Procedural,2,10.0,5.0
+Virginia,False Start,Procedural,21,105.0,5.0
+Virginia,Holding,Blocking / Holding,17,126.0,7.41
+Virginia,Holding,Procedural,1,17.0,17.0
+Virginia,Illegal Formation,Procedural,3,92.0,30.67
+Virginia,Offside,Procedural,2,9.0,4.5
+Virginia,Other / Unclassified,Administrative,3,0.0,0.0
+Virginia,Other / Unclassified,Blocking / Holding,1,0.0,0.0
+Virginia,Other / Unclassified,Other,4,35.0,8.75
+Virginia,Other / Unclassified,Safety / Tackling,1,15.0,15.0
+Virginia,Pass Interference,Personal / Contact,2,23.0,11.5
+Virginia,Personal Foul,Personal / Contact,4,48.0,12.0
+Virginia,Roughing,Personal / Contact,1,15.0,15.0
+Virginia,Roughing the Passer,Personal / Contact,2,65.0,32.5
+Virginia,Targeting,Personal / Contact,1,0.0,0.0
+Virginia,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+Virginia Tech,Delay of Game,Procedural,3,15.0,5.0
+Virginia Tech,Face Mask,Other,1,15.0,15.0
+Virginia Tech,False Start,Procedural,19,85.0,4.47
+Virginia Tech,Holding,Blocking / Holding,10,94.0,9.4
+Virginia Tech,Illegal Formation,Procedural,2,7.0,3.5
+Virginia Tech,Offside,Procedural,5,10.0,2.0
+Virginia Tech,Other / Unclassified,Other,14,97.0,6.93
+Virginia Tech,Other / Unclassified,Procedural,1,7.0,7.0
+Virginia Tech,Pass Interference,Personal / Contact,5,70.0,14.0
+Virginia Tech,Personal Foul,Personal / Contact,4,0.0,0.0
+Virginia Tech,Roughing the Passer,Personal / Contact,2,65.0,32.5
+Virginia Tech,Unsportsmanlike Conduct,Personal / Contact,2,7.0,3.5
+Wake Forest,Delay of Game,Procedural,1,5.0,5.0
+Wake Forest,Face Mask,Other,1,15.0,15.0
+Wake Forest,False Start,Procedural,14,65.0,4.64
+Wake Forest,Holding,Blocking / Holding,18,250.0,13.89
+Wake Forest,Illegal Formation,Procedural,1,33.0,33.0
+Wake Forest,Illegal Motion,Other,1,0.0,0.0
+Wake Forest,Offside,Procedural,2,5.0,2.5
+Wake Forest,Other / Unclassified,Administrative,1,4.0,4.0
+Wake Forest,Other / Unclassified,Blocking / Holding,1,2.0,2.0
+Wake Forest,Other / Unclassified,Other,9,39.0,4.33
+Wake Forest,Other / Unclassified,Procedural,1,12.0,12.0
+Wake Forest,Pass Interference,Personal / Contact,4,74.0,18.5
+Wake Forest,Personal Foul,Personal / Contact,3,72.0,24.0
+Wake Forest,Roughing the Passer,Personal / Contact,4,60.0,15.0
+Wake Forest,Unsportsmanlike Conduct,Personal / Contact,5,88.0,17.6
+Washington,Delay of Game,Procedural,1,5.0,5.0
+Washington,Face Mask,Other,3,20.0,6.67
+Washington,False Start,Procedural,17,80.0,4.71
+Washington,Holding,Blocking / Holding,9,61.0,6.78
+Washington,Illegal Formation,Procedural,2,36.0,18.0
+Washington,Offside,Procedural,4,1.0,0.25
+Washington,Other / Unclassified,Administrative,1,0.0,0.0
+Washington,Other / Unclassified,Other,7,135.0,19.29
+Washington,Pass Interference,Personal / Contact,4,42.0,10.5
+Washington,Pass Interference,Procedural,1,15.0,15.0
+Washington,Personal Foul,Personal / Contact,5,16.0,3.2
+Washington,Roughing the Passer,Personal / Contact,2,15.0,7.5
+Washington,Targeting,Personal / Contact,1,3.0,3.0
+Washington,Unsportsmanlike Conduct,Personal / Contact,6,53.0,8.83
+Washington State,Delay of Game,Procedural,3,15.0,5.0
+Washington State,Face Mask,Other,2,20.0,10.0
+Washington State,False Start,Procedural,18,79.0,4.39
+Washington State,Holding,Blocking / Holding,17,170.0,10.0
+Washington State,Illegal Formation,Procedural,3,28.0,9.33
+Washington State,Offside,Procedural,3,11.0,3.67
+Washington State,Other / Unclassified,Administrative,3,14.0,4.67
+Washington State,Other / Unclassified,Blocking / Holding,4,47.0,11.75
+Washington State,Other / Unclassified,Other,3,43.0,14.33
+Washington State,Other / Unclassified,Procedural,1,1.0,1.0
+Washington State,Pass Interference,Personal / Contact,3,59.0,19.67
+Washington State,Personal Foul,Personal / Contact,1,15.0,15.0
+Washington State,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Washington State,Unsportsmanlike Conduct,Personal / Contact,3,10.0,3.33
+West Virginia,Delay of Game,Procedural,1,5.0,5.0
+West Virginia,Face Mask,Other,2,57.0,28.5
+West Virginia,Face Mask,Safety / Tackling,1,0.0,0.0
+West Virginia,False Start,Procedural,16,80.0,5.0
+West Virginia,Holding,Blocking / Holding,10,89.0,8.9
+West Virginia,Offside,Procedural,5,111.0,22.2
+West Virginia,Other / Unclassified,Administrative,2,9.0,4.5
+West Virginia,Other / Unclassified,Other,2,50.0,25.0
+West Virginia,Pass Interference,Personal / Contact,8,106.0,13.25
+West Virginia,Personal Foul,Personal / Contact,2,0.0,0.0
+Western Kentucky,Face Mask,Other,1,15.0,15.0
+Western Kentucky,False Start,Procedural,7,34.0,4.86
+Western Kentucky,Holding,Blocking / Holding,13,137.0,10.54
+Western Kentucky,Illegal Formation,Procedural,2,12.0,6.0
+Western Kentucky,Offside,Procedural,7,31.0,4.43
+Western Kentucky,Other / Unclassified,Administrative,3,11.0,3.67
+Western Kentucky,Other / Unclassified,Blocking / Holding,1,49.0,49.0
+Western Kentucky,Other / Unclassified,Other,2,15.0,7.5
+Western Kentucky,Pass Interference,Personal / Contact,5,68.0,13.6
+Western Kentucky,Personal Foul,Personal / Contact,4,31.0,7.75
+Western Kentucky,Roughing the Passer,Personal / Contact,2,70.0,35.0
+Western Kentucky,Targeting,Personal / Contact,1,11.0,11.0
+Western Michigan,Delay of Game,Procedural,3,10.0,3.33
+Western Michigan,Face Mask,Other,1,15.0,15.0
+Western Michigan,False Start,Procedural,4,15.0,3.75
+Western Michigan,Holding,Blocking / Holding,6,59.0,9.83
+Western Michigan,Illegal Formation,Procedural,1,35.0,35.0
+Western Michigan,Offside,Procedural,4,15.0,3.75
+Western Michigan,Other / Unclassified,Other,5,51.0,10.2
+Western Michigan,Other / Unclassified,Procedural,1,5.0,5.0
+Western Michigan,Pass Interference,Personal / Contact,5,43.0,8.6
+Western Michigan,Personal Foul,Personal / Contact,5,89.0,17.8
+Western Michigan,Roughing the Passer,Personal / Contact,1,6.0,6.0
+Western Michigan,Targeting,Personal / Contact,1,2.0,2.0
+Western Michigan,Unsportsmanlike Conduct,Personal / Contact,3,6.0,2.0
+Wisconsin,Delay of Game,Procedural,3,10.0,3.33
+Wisconsin,False Start,Procedural,6,30.0,5.0
+Wisconsin,Holding,Blocking / Holding,6,26.0,4.33
+Wisconsin,Offside,Procedural,3,5.0,1.67
+Wisconsin,Other / Unclassified,Administrative,2,10.0,5.0
+Wisconsin,Other / Unclassified,Blocking / Holding,1,40.0,40.0
+Wisconsin,Other / Unclassified,Other,3,10.0,3.33
+Wisconsin,Pass Interference,Personal / Contact,6,77.0,12.83
+Wisconsin,Personal Foul,Personal / Contact,4,33.0,8.25
+Wisconsin,Roughing the Passer,Personal / Contact,1,15.0,15.0
+Wisconsin,Unsportsmanlike Conduct,Personal / Contact,1,15.0,15.0
+Wyoming,Delay of Game,Other,1,5.0,5.0
+Wyoming,Delay of Game,Procedural,5,20.0,4.0
+Wyoming,Face Mask,Other,4,54.0,13.5
+Wyoming,Face Mask,Safety / Tackling,2,0.0,0.0
+Wyoming,False Start,Procedural,18,66.0,3.67
+Wyoming,Holding,Blocking / Holding,21,142.0,6.76
+Wyoming,Holding,Procedural,1,0.0,0.0
+Wyoming,Offside,Procedural,3,29.0,9.67
+Wyoming,Other / Unclassified,Administrative,2,10.0,5.0
+Wyoming,Other / Unclassified,Other,7,40.0,5.71
+Wyoming,Pass Interference,Personal / Contact,14,175.0,12.5
+Wyoming,Personal Foul,Personal / Contact,3,109.0,36.33
+Wyoming,Roughing the Passer,Personal / Contact,1,1.0,1.0
+Wyoming,Unsportsmanlike Conduct,Personal / Contact,2,25.0,12.5
