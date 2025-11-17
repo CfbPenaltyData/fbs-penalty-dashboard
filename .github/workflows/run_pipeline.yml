@@ -1,0 +1,45 @@
+name: Update Penalty Data Pipeline
+
+on:
+  schedule:
+    # Every Wednesday at 13:00 UTC (8:00 AM ET)
+    - cron: "0 13 * * 3"
+  workflow_dispatch: {}   # Allow manual run
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    env:
+      CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas tqdm pytz
+
+      - name: Run penalty update script
+        run: |
+          python update_penalties_full.py
+
+      - name: Commit updated CSV files
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add *.csv
+          git add data/*.csv 2>/dev/null || true
+          git commit -m "Auto-update penalty data" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
