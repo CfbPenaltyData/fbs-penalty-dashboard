@@ -41,7 +41,7 @@ The analysis focuses primarily on the **Power 4 conferences**, but the filters o
 ### 🔄 About the Data & Categories
 - All data is sourced from the **College Football Data API**.  
 - Penalty categories are **still being refined**, and may change as the dataset improves.  
-- **Weekly (by-game) penalty data is not yet available** but will be added to the dashboard as soon as the source publishes it.  
+- **Weekly (by-game) penalty data will not work with conference filters.** It will be fixed as soon as **CFB Data** is up and running again.  
 - All code and the app framework were created **with the assistance of AI**.
 
 ---
@@ -85,13 +85,9 @@ Explore how entire conferences differ in:
 ## 🚧 Coming Soon
 
 ### Weekly & Game-Level Data 📅  
-The moment College Football Data releases weekly penalty logs, this dashboard will gain:
-- Week-by-week trends  
-- Game-by-game penalty charts  
-- Rolling averages  
-- Volatility and anomaly detection  
+CFB Data is currently experiencing an outage. The weekly filters currently won't work with any of the conference data. We are waiting on that resolution, then all filters will work together.
 
-Stay tuned — those additions will dramatically increase insight depth.
+Stay tuned. This website will stay consistent and, as soon as I can get it sorted, will update every week on Sunday for game data and Wednesday for CFP Rankings.
 
 ---
 
